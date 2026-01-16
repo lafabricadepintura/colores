@@ -86,28 +86,40 @@
 <script>
     let productsData = [];
 
-    // Función para eliminar etiquetas tipo de los textos
+    // Función para limpiar etiquetas de cita y espacios extra
     function limpiarTexto(texto) {
         if (!texto) return "";
-        // Esta expresión regular busca cualquier texto que empiece con
-        return texto.replace(/\/g, '').trim();
+        return texto.replace(/\/g, '').trim(); [cite: 3, 10, 15]
     }
 
     async function loadProducts() {
+        const container = document.getElementById('productContainer');
         try {
-            const response = await fetch('productos.csv');
+            // Intentamos cargar el archivo. Asegúrate que el nombre sea EXACTO.
+            const response = await fetch('productos.csv'); 
+            
+            if (!response.ok) {
+                throw new Error("No se encontró el archivo productos.csv");
+            }
+
             const csvText = await response.text();
             
             Papa.parse(csvText, {
                 header: true,
                 skipEmptyLines: true,
                 complete: function(results) {
+                    // Validamos que el CSV no esté vacío
+                    if (results.data.length === 0) {
+                        container.innerHTML = "<p>El archivo CSV está vacío.</p>";
+                        return;
+                    }
                     productsData = results.data;
                     displayProducts(productsData);
                 }
             });
         } catch (error) {
-            document.getElementById('productContainer').innerHTML = "<p>Error al cargar el catálogo de precios.</p>";
+            console.error(error);
+            container.innerHTML = `<p style="color:red;">Error: ${error.message}. <br>Verifica que el archivo "productos.csv" esté dentro de la carpeta "productos".</p>`;
         }
     }
 
@@ -115,22 +127,17 @@
         const container = document.getElementById('productContainer');
         container.innerHTML = '';
 
-        if (data.length === 0) {
-            container.innerHTML = "<p>No se encontraron productos.</p>";
-            return;
-        }
-
         data.forEach(p => {
             const card = document.createElement('div');
             card.className = 'product-card';
             
-            // Limpiamos los campos antes de usarlos
-            const nombre = limpiarTexto(p.Producto);
-            const categoria = limpiarTexto(p.Categoría);
-            const descripcion = limpiarTexto(p.Descripción);
-            const p4 = limpiarTexto(p['Precio 4lts']);
-            const p10 = limpiarTexto(p['Precio 10lts']);
-            const p20 = limpiarTexto(p['Precio 20lts']);
+            // Limpiamos los datos del CSV original
+            const nombre = limpiarTexto(p.Producto); [cite: 7, 13, 18]
+            const categoria = limpiarTexto(p.Categoría); [cite: 7, 42, 73]
+            const descripcion = limpiarTexto(p.Descripción); [cite: 11, 22, 110]
+            const p4 = limpiarTexto(p['Precio 4lts']); [cite: 10, 15, 21]
+            const p10 = limpiarTexto(p['Precio 10lts']); [cite: 10, 15, 21]
+            const p20 = limpiarTexto(p['Precio 20lts']); [cite: 10, 15, 21]
 
             card.innerHTML = `
                 <div class="product-header">
@@ -157,8 +164,7 @@
         const term = e.target.value.toLowerCase();
         const filtered = productsData.filter(p => 
             (p.Producto || "").toLowerCase().includes(term) || 
-            (p.Categoría || "").toLowerCase().includes(term) ||
-            (p.Descripción || "").toLowerCase().includes(term)
+            (p.Categoría || "").toLowerCase().includes(term)
         );
         displayProducts(filtered);
     });
@@ -168,5 +174,6 @@
 
 </body>
 </html>
+
 
 
