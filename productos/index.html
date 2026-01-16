@@ -78,6 +78,28 @@
             html += '<table class="price-table">';
             html += '<tr><td>4 Lts</td><td class="amount">' + (p["Precio 4lts"] || "-") + '</td></tr>';
             html += '<tr><td>10 Lts</td><td class="amount">' + (p["Precio 10lts"] || "-") + '</td></tr>';
-            html += '<tr><td>20 Lts</td>
+            html += '<tr><td>20 Lts</td><td class="amount">' + (p["Precio 20lts"] || "-") + '</td></tr>';
+            html += '</table>';
+            html += '</div>';
+            html += '<a href="https://wa.me/5491100000000" class="btn-whatsapp" target="_blank">WHATSAPP</a>';
+            html += '</div>';
+        }
+        
+        container.innerHTML = html || "<p>No hay productos.</p>";
+    }
+
+    document.getElementById("searchInput").onkeyup = function() {
+        var busqueda = this.value.toLowerCase();
+        var filtrados = items.filter(function(x) {
+            return (x.Producto || "").toLowerCase().indexOf(busqueda) > -1;
+        });
+        dibujar(filtrados);
+    };
+
+    cargar();
+</script>
+
+</body>
+</html>
 
 
