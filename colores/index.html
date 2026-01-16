@@ -3,174 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo Global Paints | Carga Externa</title>
+    <title>Gama de Colores | La Fábrica Pinturas</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
     <style>
-        :root {
-            --primary: #2c3e50;
-            --accent: #3498db;
-            --bg: #f8f9fa;
+        :root { --primary: #1a1a1a; --accent: #8bc34a; --bg: #f8f9fa; }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); margin: 0; }
+        
+        /* HEADER UNIFICADO */
+        header { 
+            background: white; padding: 1rem 2rem; position: sticky; top: 0; 
+            z-index: 1000; box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            display: flex; justify-content: space-between; align-items: center;
         }
+        .logo-main { font-weight: bold; font-size: 1.2rem; color: var(--primary); text-decoration: none; }
+        .logo-accent { color: var(--accent); }
+        
+        nav a { text-decoration: none; color: var(--primary); margin-left: 20px; font-weight: 600; font-size: 0.9rem; }
+        nav a.active { color: var(--accent); }
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg);
-            margin: 0;
-            padding: 0;
-        }
+        /* BUSCADOR */
+        .search-section { background: var(--primary); color: white; padding: 30px 20px; text-align: center; }
+        .search-bar { width: 100%; max-width: 500px; padding: 12px 20px; border-radius: 25px; border: none; font-size: 1rem; outline: none; }
 
-        header {
-            background: white;
-            padding: 20px;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            text-align: center;
-        }
-
-        .search-box {
-            width: 100%;
-            max-width: 500px;
-            padding: 12px 25px;
-            border: 2px solid #eee;
-            border-radius: 30px;
-            font-size: 16px;
-            outline: none;
-            transition: 0.3s;
-        }
-
-        .search-box:focus { border-color: var(--accent); }
-
-        .container {
-            max-width: 1200px;
-            margin: 20px auto;
-            padding: 20px;
-        }
-
-        .loading-msg {
-            text-align: center;
-            padding: 50px;
-            font-size: 1.2rem;
-            color: #666;
-        }
-
-        .error-msg {
-            background: #f8d7da;
-            color: #721c24;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px;
-            border: 1px solid #f5c6cb;
-        }
-
+        .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
         .category-group { margin-bottom: 50px; scroll-margin-top: 150px; }
-
-        .category-title {
-            font-size: 1.8rem;
-            border-left: 6px solid var(--accent);
-            padding-left: 15px;
-            margin-bottom: 25px;
-            text-transform: uppercase;
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 20px; }
+        
+        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05); cursor: pointer; transition: 0.3s; }
+        .card:hover { transform: translateY(-5px); }
+        .swatch { height: 120px; width: 100%; }
+        .info { padding: 12px; font-size: 0.85rem; }
+        .name { font-weight: bold; display: block; margin-bottom: 5px; height: 32px; overflow: hidden; }
+        .meta { color: #888; font-size: 0.75rem; display: flex; justify-content: space-between; font-family: monospace; }
+        
+        #toast {
+            visibility: hidden; background: #333; color: white; padding: 10px 20px;
+            position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
+            border-radius: 5px; z-index: 2000;
         }
-
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 25px;
-        }
-
-        .card {
-            background: white;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-            transition: 0.3s;
-            cursor: pointer;
-        }
-
-        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); }
-
-        .color-preview { height: 130px; width: 100%; }
-
-        .details { padding: 15px; }
-
-        .name {
-            font-weight: bold;
-            font-size: 0.9rem;
-            display: block;
-            margin-bottom: 10px;
-            height: 35px;
-            overflow: hidden;
-        }
-
-        .meta {
-            display: flex;
-            justify-content: space-between;
-            font-size: 0.75rem;
-            color: #888;
-        }
-
-        .hex { font-family: monospace; background: #f0f0f0; padding: 2px 5px; border-radius: 4px; }
+        #toast.show { visibility: visible; }
     </style>
 </head>
 <body>
 
 <header>
-    <div class="logo-container">
-        <span class="logo-text">LA FÁBRICA PINTURAS</span>
-    </div>
+    <a href="../index.html" class="logo-main">LA FÁBRICA <span class="logo-accent">PINTURAS</span></a>
     <nav>
-        <a href="index.html" class="active">PRODUCTOS</a>
-        <a href="index.html">COLORES</a>
+        <a href="../productos/productos.html">PRODUCTOS</a>
+        <a href="index.html" class="active">COLORES</a>
     </nav>
 </header>
-    <h1>Catálogo de Colores Maestro</h1>
-    <input type="text" id="search" class="search-box" placeholder="Buscar por nombre, HEX o categoría...">
-</header>
+
+<section class="search-section">
+    <input type="text" id="search" class="search-bar" placeholder="Buscar por nombre o código de color...">
+</section>
 
 <div class="container" id="main">
-    <div class="loading-msg" id="status">Cargando base de datos externa...</div>
+    <p style="text-align: center;">Cargando gama de colores...</p>
 </div>
 
+<div id="toast">Código HEX copiado</div>
+
 <script>
-    let fullDatabase = [];
-    const fileName = 'paleta - Hoja 1.csv'; // Asegúrate que el nombre coincida exactamente
+    let rawData = [];
+    // Ruta corregida para estar dentro de /colores/
+    const csvFile = 'paleta - Hoja 1.csv'; 
 
-    async function init() {
-        const statusEl = document.getElementById('status');
-        const mainEl = document.getElementById('main');
-
+    async function loadColores() {
         try {
-            // Consumir el archivo externamente
-            const response = await fetch(fileName);
-            
-            if (!response.ok) {
-                throw new Error(`No se pudo cargar el archivo "${fileName}". Verifique que el archivo esté en la misma carpeta y que esté usando un servidor local (Live Server).`);
-            }
-
+            const response = await fetch(csvFile);
             const csvString = await response.text();
 
-            // Procesar con PapaParse
             Papa.parse(csvString, {
                 header: true,
                 skipEmptyLines: true,
                 complete: function(results) {
-                    fullDatabase = results.data;
-                    render(fullDatabase);
-                },
-                error: function(err) {
-                    throw new Error("Error al procesar el contenido del CSV.");
+                    const seenIds = new Set();
+                    rawData = results.data.filter(item => {
+                        const id = item.color_id?.trim();
+                        if (!id || seenIds.has(id)) return false;
+                        seenIds.add(id);
+                        return true;
+                    });
+                    render(rawData);
                 }
             });
-
-        } catch (error) {
-            mainEl.innerHTML = `
-                <div class="error-msg">
-                    <strong>⚠️ Error de carga:</strong> ${error.message}
-                    <br><br>
-                    <em>Nota: Si abres este archivo directamente (file://), el navegador bloqueará la carga. Usa <strong>Live Server</strong> en VS Code.</em>
-                </div>`;
+        } catch (e) {
+            document.getElementById('main').innerHTML = "Error al cargar el archivo de colores.";
         }
     }
 
@@ -178,34 +97,27 @@
         const main = document.getElementById('main');
         main.innerHTML = '';
 
-        if (data.length === 0) {
-            main.innerHTML = '<div class="loading-msg">No se encontraron resultados.</div>';
-            return;
-        }
-
         const groups = data.reduce((acc, curr) => {
-            const type = curr.color_type || 'Otros';
+            const type = curr.color_type || 'General';
             if (!acc[type]) acc[type] = [];
             acc[type].push(curr);
             return acc;
         }, {});
 
-        Object.keys(groups).forEach(type => {
+        for (const type in groups) {
             const section = document.createElement('div');
             section.className = 'category-group';
-            section.id = type.replace(/\s+/g, '');
-
             section.innerHTML = `
-                <h2 class="category-title">${type} (${groups[type].length})</h2>
+                <h2 style="border-left: 5px solid var(--accent); padding-left: 10px; text-transform: uppercase; font-size: 1.2rem;">${type}</h2>
                 <div class="grid">
                     ${groups[type].map(item => `
-                        <div class="card" onclick="navigator.clipboard.writeText('${item.color_hex}')">
-                            <div class="color-preview" style="background: ${item.color_hex}"></div>
-                            <div class="details">
+                        <div class="card" onclick="copy('${item.color_hex}')">
+                            <div class="swatch" style="background:${item.color_hex}"></div>
+                            <div class="info">
                                 <span class="name">${item.color_name}</span>
                                 <div class="meta">
-                                    <span class="hex">${item.color_hex}</span>
-                                    <span>ID: ${item.color_id}</span>
+                                    <span>${item.color_hex}</span>
+                                    <span>#${item.color_id}</span>
                                 </div>
                             </div>
                         </div>
@@ -213,24 +125,14 @@
                 </div>
             `;
             main.appendChild(section);
-        });
+        }
     }
 
-    // Buscador en tiempo real
-    document.getElementById('search').addEventListener('input', (e) => {
-        const term = e.target.value.toLowerCase();
-        const filtered = fullDatabase.filter(item => 
-            (item.color_name || '').toLowerCase().includes(term) || 
-            (item.color_hex || '').toLowerCase().includes(term) ||
-            (item.color_type || '').toLowerCase().includes(term)
-        );
-        render(filtered);
-    });
+    function copy(txt) {
+        navigator.clipboard.writeText(txt);
+        const t = document.getElementById('toast');
+        t.className = 'show';
+        setTimeout(() => t.className = '', 2000);
+    }
 
-    // Arrancar
-    init();
-</script>
-
-</body>
-</html>
-
+    document.getElementById
