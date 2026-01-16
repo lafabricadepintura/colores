@@ -1,0 +1,3074 @@
+color_id,color_hex,color_name,color_type
+100,#F3F2EC,Escarcha Pura - 71YY 90/027,Blanco
+101,#F1F1ED,Blanco Maravilloso - 93YY 89/012,Blanco
+102,#F6F2E5,Alturas Polares - 65YY 90/062,Blanco
+103,#F1F0E8,Blanco Quirúrgico - 83YY 88/033,Blanco
+104,#F5EFE5,Tutú Blanco - 35YY 88/050,Blanco
+105,#F2F1E5,Fantasía de Algodón - 83YY 89/055,Blanco
+106,#F5EEE5,Toque de Malvavisco - 14YY 88/041,Blanco
+107,#F4F0E4,Lino Claro - 61YY 89/040,Blanco
+108,#EEEFEA,Blanco Crudo - 30GY 88/014,Blanco
+109,#F7F0DF,Dejo de Vainilla - 53YY 89/081,Blanco
+110,#F2EFE5,Alegría de Bebé - 67YY 88/044,Blanco
+111,#EEEFE8,Algodón Distinguido - 04GY 87/028,Blanco
+112,#F2ECE6,Nubes Etéreas - 93YR 86/030,Blanco
+113,#F2ECE5,Blanco Cal - 01YY 86/034,Blanco
+114,#F0EEE5,Sensación de Escarcha - 65YY 87/039,Blanco
+115,#EEEEE7,Blanco Glacis - 98YY 82/022,Blanco
+116,#F1ECE5,Blanco Polar - 03YY 86/021,Blanco
+117,#F2EDE3,Boda Primaveral - 47YY 86/047,Blanco
+118,#EDEAEB,Casamiento de Verano - 90RB 83/015,Blanco
+119,#F0EEE3,Vallado de Madera - 81YY 87/031,Blanco
+120,#F0EDE4,Brisa de Algodón - 56YY 87/037,Blanco
+121,#ECEDE7,Gris Rocío - 11GY 85/016,Blanco
+122,#F0EDE2,Blanco Divino - 66YY 85/045,Blanco
+123,#F7EBDC,Chispazo de Marfil - 23YY 86/081,Blanco
+124,#F1EDE0,Blanco Floral - 61YY 85/050,Blanco
+125,#EFEDE2,Encaje Nordestino - 82YY 85/038,Blanco
+126,#EBEAE8,Toque de Humo - 81YR 85/004,Blanco
+127,#F3EDDD,Lino Voluptuoso - 57YY 86/073,Blanco
+128,#E9EAE9,Pieza de Cristal - 50BG 83/009,Blanco
+129,#E8EAE9,Soplo de Nieve - 10BB 83/014,Blanco
+130,#E9E9E9,Sonata Lunar - 30BB 83/013,Blanco
+131,#F0E8E2,Blanco Chantilly - 70YR 83/034,Blanco
+132,#EEE9E3,Blanco Correcto - 90YR 83/026,Blanco
+133,#EFE9E1,Perla Natural - 10YY 83/029,Blanco
+134,#F6EBD8,Crema Chantilly - 38YY 85/096,Blanco
+135,#F5EBD9,Blanco Arizona - 42YY 87/084,Blanco
+136,#F1E8E0,Serenidad - 80YR 83/044,Blanco
+137,#E9E9E7,Magnolia Cristalina - 50BB 83/006,Blanco
+138,#EDE8E4,Brillo Suave - 50YR 83/020,Blanco
+139,#ECE9E4,Toque Suave - 90YR 83/018,Blanco
+140,#F0E7E1,Efecto Luminoso - 60YR 83/034,Blanco
+141,#EDE8E2,Blanco Artesano - 20YY 83/025,Blanco
+142,#EFE9DF,Precioso Momento - 40YY 83/043,Blanco
+143,#F1E9DC,Blanco Panadero - 40YY 83/064,Blanco
+144,#EEE6E2,Espacio Interno - 50YR 83/025,Blanco
+145,#E9E7E6,Colinas de Invierno - 50RB 83/005,Blanco
+146,#EEE9DE,Blanco Susurro - 44YY 84/042,Blanco
+147,#ECE9E0,Blanco Casamiento - 70YY 83/037,Blanco
+148,#F2EAD9,Blanco Terraza - 53YY 87/070,Blanco
+149,#EFE8DD,Tafetán - 20YY 83/050,Blanco
+150,#F4E9D7,Tempestad de Arena - 40YY 83/086,Blanco
+151,#EEE7DF,Aria Suave - 90YR 83/035,Blanco
+152,#F4E9D6,Fantasía Marfil - 39YY 84/095,Blanco
+153,#F1E8DA,Leche con Vainilla - 29YY 84/067,Blanco
+154,#F2E8D9,Bouquet de Almendras - 20YY 83/075,Blanco
+155,#EDE8DD,Garza Real - 39YY 85/046,Blanco
+156,#E6E7E4,Sensación Urbana - 75GY 81/005,Blanco
+157,#EFE8DA,Café Suizo - 50YY 83/057,Blanco
+158,#EFE8D9,Bruma Mística - 41YY 82/071,Blanco
+159,#EFE5DC,Glamour - 00YY 83/046,Blanco
+160,#EBE7DE,Blanco Natural - 50YY 83/029,Blanco
+161,#F0E5DB,Toque de Durazno - 88YR 82/046,Blanco
+162,#F3E8D4,Polen - 45YY 83/094,Blanco
+163,#EFE4DA,Perfume de Día - 00YY 83/057,Blanco
+164,#F1E8D4,Blanco Lino - 50YY 83/086,Blanco
+165,#EBE6DA,Cielo Blanco - 43YY 81/051,Blanco
+166,#F1E7D3,Jardín Neutral - 45YY 82/098,Blanco
+167,#ECE6D8,Cisne Blanco - 60YY 83/062,Blanco
+168,#EAE4DB,Mañana Alucinante - 16YY 79/040,Blanco
+169,#E8E3DC,Blanco Estelar - 29YY 79/033,Blanco
+170,#EDE3D5,Blanco Colmillo - 30YY 79/070,Blanco
+171,#EDE3D5,Leyenda de los Lobos - 30YY 79/070,Blanco
+172,#EAE3D7,Ópalo - 30YY 79/053,Blanco
+173,#E7E4D9,Yogur Natural - 63YY 80/051,Blanco
+174,#ECE2D1,Sensación Natural - 37YY 79/086,Blanco
+175,#EAE0CD,Neutro Permanente - 39YY 77/091,Blanco
+176,#ECEAED,Aire Fresco - 90BB 83/020,Soft Blanco
+177,#EEEDE5,Suave Nieve - 77YY 86/032,Soft Blanco
+178,#E8EAEB,Gota de Perla - 30BB 83/018,Soft Blanco
+179,#EAE9E9,Inocencia - 30RB 83/011,Soft Blanco
+180,#ECEAE6,Blanco Inspiración - 30YY 83/012,Soft Blanco
+181,#E8EAE9,Atmósfera - 10BB 83/006,Soft Blanco
+182,#E8E8EB,Brillo de Cristal - 70BB 83/020,Soft Blanco
+183,#E8E9EA,Sereno - 70BB 83/015,Soft Blanco
+184,#E6EAEA,Romance - 10BB 83/020,Soft Blanco
+185,#E7EAE8,Caminata de Invierno - 30GG 83/013,Soft Blanco
+186,#E9E8E8,Sendero de Pingüinos - 10RB 83/012,Soft Blanco
+187,#EFE8E2,Cabello de Ángel - 60YR 83/026,Soft Blanco
+188,#E9E8E8,Muy Simple - 90BB 83/011,Soft Blanco
+189,#E9E9E7,Perla Agrisada - 10BB 83/003,Soft Blanco
+190,#ECE8E5,Sombra Pálida - 90RR 83/009,Soft Blanco
+191,#E9E8E8,Simple Presencia - 90BB 83/011,Soft Blanco
+192,#EFE8E2,Calma Matutina - 60YR 83/026,Soft Blanco
+193,#E6E9E9,Estrella Nueva - 10BB 83/017,Soft Blanco
+194,#E8E9E7,Gotas de Lluvia - 30GG 83/006,Soft Blanco
+195,#EDE8E3,Historia Secreta - 60YR 83/017,Soft Blanco
+196,#E9EAE5,Ala Blanca - 50GY 83/010,Soft Blanco
+197,#E6E9E9,Estrella Nueva,Soft Blanco
+198,#EAE8E5,Sensación Diáfana - 04YR 82/010,Soft Blanco
+199,#ECE9E2,Domingo Nublado - 30YY 83/026,Soft Blanco
+200,#EBE8E4,Jazmín Dorado - 10YY 83/014,Soft Blanco
+201,#EDE8E2,Malvavisco - 80YR 83/017,Soft Blanco
+202,#E7EAE6,Día de Invierno - 50GG 83/011,Soft Blanco
+203,#EAE8E5,Toque de Invierno - 50YR 83/003,Soft Blanco
+204,#EFE8DF,Porcelana Antigua - 20YY 83/038,Soft Blanco
+205,#EEE7E1,Caricia - 80YR 83/026,Soft Blanco
+206,#EFE7E0,Vientos Calmos - 80YR 83/035,Soft Blanco
+207,#EAE8E4,Martini Seco - 50YR 83/010,Soft Blanco
+208,#EFE7E0,Vientos Calmos,Soft Blanco
+209,#E8E8E5,Porcelana - 00NN 83/000,Soft Blanco
+210,#EDE7E1,Erizo Blanco - 70YR 83/026,Soft Blanco
+211,#E6E9E6,Ventisca - 90GG 83/011,Soft Blanco
+212,#E8E8E5,Porcelana,Soft Blanco
+213,#EDE8DF,Bruma Tranquila - 30YY 82/039,Soft Blanco
+214,#EBE8E1,Blanco Minimalista - 40YY 83/021,Soft Blanco
+215,#E8E8E4,Luna de Seda - 30BB 83/001,Soft Blanco
+216,#E4E7E9,Lluvia de Barcelona - 59BB 81/022,Soft Blanco
+217,#F0E8DA,Blanco Estibador - 45YY 83/062,Soft Blanco
+218,#E8E7E3,Escondite Silencioso - 81YY 81/016,Soft Blanco
+219,#EAE6E1,Toque de Rosa - 50YR 83/015,Soft Blanco
+220,#E2E7E7,Mañana Fría - 56BG 81/023,Soft Blanco
+221,#EDE4DE,Taza de Té - 55YR 83/024,Soft Blanco
+222,#E2E5E6,Lluvia de Terciopelo - 06BB 79/016,Soft Blanco
+223,#E8E4E0,Papel Valioso - 99YR 80/020,Soft Blanco
+224,#EDE6D8,Niebla del Pacífico - 51YY 83/060,Soft Blanco
+225,#DFE2E7,Suspiro de Lavanda - 66BB 77/035,Soft Blanco
+226,#EBE5D8,Blanco Antiguo - 43YY 78/053,Soft Blanco
+227,#E5E0DC,Sabiduría Blanca - 81YR 77/022,Soft Blanco
+228,#DDE2E2,Andino - 09BB 77/019,Soft Blanco
+229,#E1E2DD,Caminata Invernal - 13GY 77/016,Soft Blanco
+230,#E4E1DB,Pájaro de Invierno - 30YY 78/018,Soft Blanco
+231,#DEE2E0,Horizonte Urbano - 49GG 77/014,Soft Blanco
+232,#E8E0D8,Lana Suave - 98YR 78/041,Soft Blanco
+233,#E6E1D8,Blanco Gatito - 30YY 78/035,Soft Blanco
+234,#E0E1DC,Chiffon - 30GY 76/017,Soft Blanco
+235,#DAE0E2,Gris Estupendo - 04BB 75/027,Soft Blanco
+236,#DAE0E2,Gris Estupendo,Soft Blanco
+237,#E5DFD7,Beige Pálido - 27YY 77/042,Soft Blanco
+238,#E7E0D3,Espejismo Vigoroso - 41YY 77/065,Soft Blanco
+239,#DBDCE2,Velo Violeta - 70BB 74/040,Soft Blanco
+240,#DBDDE0,Amatista Difusa - 70BB 73/030,Soft Blanco
+241,#DCDCE0,Onda Acústica - 90BB 73/027,Soft Blanco
+242,#DEDEDA,Gaviota en Reposo - 85YY 74/012,Soft Blanco
+243,#E8DECE,Semilla de Perla - 40YY 75/084,Soft Blanco
+244,#E3DCD4,Equinoccio de Otoño - 10YY 73/042,Soft Blanco
+245,#DBDBDD,Carbón del Ártico - 90BB 73/022,Soft Blanco
+246,#DCDBDB,Ballet Sobre Hielo - 30RB 73/016,Soft Blanco
+247,#DDDCD9,Pantalla Gris - 30YY 72/009,Soft Blanco
+248,#E3DDD2,Bizcocho de Leche - 40YY 74/056,Soft Blanco
+249,#DEDCD7,Pelícano - 30YY 72/018,Soft Blanco
+250,#DBDCDA,Blanco Tul - 50BG 72/006,Soft Blanco
+251,#DADBDC,Glicina Blanca - 70BB 73/020,Soft Blanco
+252,#E4DBD0,Flauta de Madera - 20YY 74/055,Soft Blanco
+253,#DDDAD8,Conejo Blanco - 50RR 72/010,Soft Blanco
+254,#E0DAD5,Bello Brezo - 90YR 73/029,Soft Blanco
+255,#DFDAD5,Cabras Blancas - 10YY 72/021,Soft Blanco
+256,#DFDAD5,Cabras Blancas,Soft Blanco
+257,#DADAD9,Toque de Gris - 30BB 72/003,Soft Blanco
+258,#D9DAD8,Nubes Grises - 08GG 72/006,Soft Blanco
+259,#DADBD6,Plaza - 50GY 72/012,Soft Blanco
+260,#D8D8D7,Campo Nevado - 00NN 72/000,Soft Blanco
+261,#D7D9D6,Hielo Sombreado - 30GG 72/008,Soft Blanco
+262,#A43F43,Rojo Borneo Satinol,Rojo Popular
+263,#A0423A,Bermellon Duralba,Rojo Popular
+264,#804940,Rojo Tanino Duralba,Rojo Popular
+265,#A23530,Rojo Intenso,Rojo Popular
+266,#86463A,Teja Duralba Techos,Rojo Popular
+267,#80473D,Rojo Colonial Pisos,Rojo Popular
+268,#A7151C,Bermellón Esm Std,Rojo Popular
+269,#9E141E,Bermellón Albalux,Rojo Popular
+270,#7E1A25,Carmín Albalux,Rojo Popular
+271,#6A2E23,Cedro Albalux,Rojo Popular
+272,#EEE9EB,Momento de Promesa - 90RB 83/023,Rojo
+273,#F7E7E3,Rubor Neutro - 31YR 84/056,Rojo
+274,#EEE8EA,Lazo de Cinta - 90RB 83/030,Rojo
+275,#F3E7E4,Sensación Japonesa - 18YR 83/042,Rojo
+276,#F0E7E7,Rosa Sombra - 50RR 83/034,Rojo
+277,#EFE7E7,Flor de Saúco - 53RR 83/031,Rojo
+278,#F2E7E3,Rosa Tímido - 10YR 83/040,Rojo
+279,#F0E7E5,Rosa Puro - 90RR 83/030,Rojo
+280,#EFE6E5,Deleite - 50RR 83/029,Rojo
+281,#F0E5E5,Herencia - 50RR 83/040,Rojo
+282,#F1E5E4,Salmón Pálido - 70RR 83/040,Rojo
+283,#EFE6E5,Algodón de Azúcar - 50RR 83/029,Rojo
+284,#F3E7DE,Brisa Chic - 82YR 83/056,Rojo
+285,#ECE7E3,Sombra Suave - 10YR 83/015,Rojo
+286,#F2E6DE,Día de Ocio - 90YR 83/053,Rojo
+287,#F1DEE6,Delicia Rosa - 19RR 78/088,Rojo
+288,#F4E0E1,Rosa Gélido - 64RR 80/073,Rojo
+289,#EAE2E6,Mousse Rosado - 89RB 79/040,Rojo
+290,#EFDDE6,Dulce Bebé - 01RR 77/091,Rojo
+291,#F6DFDD,Rosa Perfecto - 98RR 80/078,Rojo
+292,#EBDEE8,Flor de Lis - 79RB 76/076,Rojo
+293,#F5DFDB,Porcelana Rosada - 16YR 79/080,Rojo
+294,#F5D8E1,Bombón de Frutilla - 36RR 75/114,Rojo
+295,#EFDFDF,Sensación de Rosas - 72RR 78/058,Rojo
+296,#F3DEDA,Jardín de Fulgores - 18YR 78/079,Rojo
+297,#F2DCDC,Toque de Cereza - 80RR 77/083,Rojo
+298,#F6D8DA,Moño Rosa - 82RR 76/111,Rojo
+299,#E8DAE5,Sensación Rosada - 81RB 75/080,Rojo
+300,#EEDCDA,Rosa Brumoso - 90RR 76/062,Rojo
+301,#F1D5DD,Escarcha Rosa - 33RR 74/111,Rojo
+302,#ECDADD,Rosa Romántico - 50RR 75/068,Rojo
+303,#F2D6DA,Rosa Sinfonía - 55RR 75/106,Rojo
+304,#EBDCDB,Niñita - 90RR 75/053,Rojo
+305,#EDD3DF,Malva Rosada - 13RR 72/121,Rojo
+306,#E8DADD,Almendra Portuguesa - 30RR 74/058,Rojo
+307,#EBD2E2,Helado - 95RB 71/132,Rojo
+308,#EBDAD9,Playa Rosa - 70RR 74/059,Rojo
+309,#E4DBDF,Ayer - 90RB 74/044,Rojo
+310,#F1DAD2,Ballerinas - 43YR 75/089,Rojo
+311,#F6D6CF,Belleza - 21YR 73/125,Rojo
+312,#E4D2E2,Violeta Discreto - 69RB 70/114,Rojo
+313,#E5D1E0,Frutilla Sensacional - 84RB 69/108,Rojo
+314,#EFD8CF,Crema de Papaya - 50YR 76/087,Rojo
+315,#F5CED1,Piñón - 78RR 71/148,Rojo
+316,#F9CECD,Rosa Casa de Muñecas - 93RR 70/157,Rojo
+317,#F4D3CB,Pink à la mode - 25YR 71/129,Rojo
+318,#F5D1C8,Rosa de Hadas - 24YR 72/146,Rojo
+319,#E6C8DD,Rosa Rosa - 86RB 65/163,Rojo
+320,#ECD0CF,Limonada Rosa - 90RR 69/101,Rojo
+321,#E5CED4,Blanco Frambuesa - 30RR 67/093,Rojo
+322,#E8C4DB,Helado de Cereza - 94RB 64/182,Rojo
+323,#EDC6D0,Dama de Honor - 51RR 68/146,Rojo
+324,#EDC9CC,Morado Suave - 79RR 66/131,Rojo
+325,#F5CAC1,Rosa Inspirador - 28YR 67/165,Rojo
+326,#F3C4C9,Amor Eterno - 77RR 67/177,Rojo
+327,#E0C0DA,Rosado Intenso - 84RB 60/175,Rojo
+328,#E8BDD3,Rosa Vivo - 10RR 60/197,Rojo
+329,#EFBFC9,Reflejo Vivaz - 57RR 62/183,Rojo
+330,#EBC5C6,Rosa Tudor - 90RR 63/139,Rojo
+331,#F2BCC2,Rosa Algodón Dulce - 75RR 63/207,Rojo
+332,#E4B6D6,Rosa Angora - 95RB 56/237,Rojo
+333,#E6C4C5,Rosa Nevada - 90RR 62/124,Rojo
+334,#E3C1C9,Rosa Inglesa - 50RR 61/129,Rojo
+335,#E9B9CA,Rosa Turco - 30RR 61/195,Rojo
+336,#ECB8BE,Rosa Fantástico - 71RR 58/199,Rojo
+337,#EBBABB,Terciopelo Rosa - 90RR 58/177,Rojo
+338,#E3B6C2,Pashmina Rosada - 47RR 55/175,Rojo
+339,#D6BBC9,Bailarina - 10RR 56/121,Rojo
+340,#D8B6C3,Rosa Retro - 30RR 54/145,Rojo
+341,#ECA8B9,Rosa Chispeante - 54RR 52/260,Rojo
+342,#DDB5BA,Estrella de Cine - 70RR 54/153,Rojo
+343,#EAB0B2,Muchacha - 90RR 52/214,Rojo
+344,#E6A7BE,Pastilla de Cereza - 32RR 50/280,Rojo
+345,#F0A9B1,Cactus Dalia - 78RR 54/274,Rojo
+346,#E1A5C3,Rosa Valentín - 14RR 48/276,Rojo
+347,#E7A8BA,Fiesta de Rosas - 49RR 50/250,Rojo
+348,#E2B5B0,Atmósfera Romántica - 10YR 53/175,Rojo
+349,#F4A6A8,Revelación Rosada - 91RR 51/304,Rojo
+350,#F3A9A4,Durazno Calmo - 06YR 52/291,Rojo
+351,#E0ADAE,Atardecer de París - 90RR 51/191,Rojo
+352,#DBA9B6,Rosa Pátina - 50RR 49/195,Rojo
+353,#D9AAB0,Peonías Frescas - 70RR 48/184,Rojo
+354,#ED9AA3,Rosa Tigre - 81RR 47/323,Rojo
+355,#D699B9,Lazo Rosado - 16RR 43/277,Rojo
+356,#EEA197,Bahía de Coral - 22YR 50/316,Rojo
+357,#DF93AF,Rosa Confite - 37RR 42/310,Rojo
+358,#DCA29E,Rubor de Peonía - 02YR 45/229,Rojo
+359,#CB9DB0,Mezcla de Frambuesas - 30RR 42/198,Rojo
+360,#E3979B,Rosa Florida - 90RR 43/290,Rojo
+361,#CB94B3,Graciosa - 10RR 39/263,Rojo
+362,#D185B7,Rosa Exótico - 02RR 35/376,Rojo
+363,#DD939C,Rosa Silvestre - 76RR 40/294,Rojo
+364,#C29AAF,Toque de Frambuesa - 10RR 39/184,Rojo
+365,#DB9A95,Crema de Frutilla - 10YR 42/250,Rojo
+366,#DB9599,Deseos del Corazón - 90RR 41/258,Rojo
+367,#D486AC,Rosa Carnaval - 21RR 36/354,Rojo
+368,#D191A4,Ciruela Japonesa - 50RR 38/261,Rojo
+369,#D7919E,Frambuesa Suave - 70RR 39/272,Rojo
+370,#E0899C,Destino - 63RR 39/350,Rojo
+371,#E18D93,Sandía Dulce - 90RR 39/327,Rojo
+372,#D0929C,Rosa India - 70RR 38/246,Rojo
+373,#DE8E89,Playa de Coral - 10YR 38/318,Rojo
+374,#D68C91,Vino Rosé - 90RR 36/292,Rojo
+375,#E88683,Florecer Osado - 04YR 38/398,Rojo
+376,#C787A2,Azalea Suave - 30RR 34/277,Rojo
+377,#D48594,Baile de Máscaras - 70RR 35/307,Rojo
+378,#D97A99,Rosa Chicle - 47RR 33/395,Rojo
+379,#E48286,Princesa Sensacional - 95RR 36/390,Rojo
+380,#E57E87,Coral Rosa - 89RR 36/416,Rojo
+381,#DF8289,Ocaso del Pacífico - 90RR 35/365,Rojo
+382,#D37998,Rosa Flamenco - 47RR 32/383,Rojo
+383,#C68597,Rosa Bella - 50RR 32/262,Rojo
+384,#BF7AA4,Clavel Intenso - 07RR 30/337,Rojo
+385,#D8827E,Rouge Rojo - 10YR 34/359,Rojo
+386,#B88599,Jalea de Frambuesa - 30RR 31/223,Rojo
+387,#DB7680,Flamenco Real - 90RR 31/403,Rojo
+388,#BC739E,Amor Perfecto - 10RR 27/344,Rojo
+389,#C77E83,Vanguardia de la Moda - 90RR 30/285,Rojo
+390,#C1669D,Vibrato - 10RR 25/437,Rojo
+391,#D86C80,Licuado de Frutilla - 74RR 28/432,Rojo
+392,#C76892,Tutti Frutti - 32RR 26/413,Rojo
+393,#BB7191,Pasionaria - 30RR 26/335,Rojo
+394,#CD747C,Lápiz Labial - 90RR 28/359,Rojo
+395,#AE7995,Té de Rosa Mosqueta - 15RR 27/249,Rojo
+396,#AC7996,Serenata Satinada - 10RR 26/248,Rojo
+397,#D57471,Tentación - 10YR 30/400,Rojo
+398,#CB6E81,Rosa Sabana - 70RR 27/375,Rojo
+399,#CC6487,Rosa Notorio - 50RR 26/431,Rojo
+400,#D66B76,Sonrisa Jamaiquina - 90RR 27/440,Rojo
+401,#D66B76,Rosa Elegante - 90RR 27/440,Rojo
+402,#CA7571,Coral Rojo - 10YR 28/361,Rojo
+403,#DD646D,Rosado Embriagador - 94RR 28/490,Rojo
+404,#DC656C,Rosa Neón - 99RR 27/498,Rojo
+405,#C16D7E,Rosa Arbórea - 70RR 25/338,Rojo
+406,#C27179,Rosa Beso - 90RR 26/315,Rojo
+407,#AE639A,Rosa Carmín - 96RB 22/393,Rojo
+408,#B86D84,Rubí Suave - 50RR 24/321,Rojo
+409,#D16965,Coqueteo - 10YR 26/462,Rojo
+410,#D86165,Tañido Cítrico - 00YR 26/490,Rojo
+411,#A86D86,Dulce de Frambuesa - 30RR 23/270,Rojo
+412,#C55F76,Secreto - 70RR 23/409,Rojo
+413,#C95D73,Rosa Espléndido - 71RR 23/421,Rojo
+414,#A8658C,Fucsia Antiguo - 10RR 21/325,Rojo
+415,#AE6B80,Joya Antigua - 50RR 23/282,Rojo
+416,#BE5385,Batido Rosado - 31RR 21/462,Rojo
+417,#AD588F,Luz Deslumbrante - 06RR 20/418,Rojo
+418,#CE586C,Flor de Madroño - 83RR 23/486,Rojo
+419,#C05674,Catarata Fucsia - 62RR 21/444,Rojo
+420,#B8537B,Azalea Rosada - 43RR 19/444,Rojo
+421,#B34F83,Extravagante - 21RR 19/459,Rojo
+422,#C25C67,Magnificencia - 90RR 21/418,Rojo
+423,#A25A85,Rosa de Jardín - 10RR 18/350,Rojo
+424,#CA5A59,Frutilla - 10YR 22/483,Rojo
+425,#9A6182,Bella Rosa - 10RR 19/279,Rojo
+426,#C15A57,Té Danzante - 10YR 21/436,Rojo
+427,#BE5B59,Arrecife de Coral - 07YR 21/415,Rojo
+428,#C15A57,Té Danzante,Rojo
+429,#9D4F84,Azalea - 01RR 16/397,Rojo
+430,#B5506B,Frutos del Bosque - 63RR 19/405,Rojo
+431,#AA516F,Estilo Románico - 50RR 17/372,Rojo
+432,#BF4F5C,Rosa Roja - 90RR 18/450,Rojo
+433,#AE5367,Cereza Intenso - 70RR 17/372,Rojo
+434,#AE5367,Cereza Intenso,Rojo
+435,#915D79,Mousse de Berenjena - 17RR 18/239,Rojo
+436,#AE486D,Reflejo de Rosas - 49RR 17/416,Rojo
+437,#A14C72,Rojo Primoroso - 30RR 15/375,Rojo
+438,#C9464F,Pasión Coral - 02YR 20/536,Rojo
+439,#B94657,Mousse de Granada - 88RR 18/464,Rojo
+440,#B94D4D,Rojo Francia - 10YR 17/465,Rojo
+441,#A54668,Cereza Brillante - 50RR 15/400,Rojo
+442,#AA5154,Revolución Rosa - 00YR 17/365,Rojo
+443,#9E555C,Compota de Guayaba - 90RR 16/298,Rojo
+444,#AC4B57,Brillo de París - 90RR 16/386,Rojo
+445,#C23F4B,Hibiscus Cálido - 00YR 18/531,Rojo
+446,#C8403F,Gloria Antigua * - 16YR 18/587,Rojo
+447,#92486C,Melodía Rosada - 26RR 14/332,Rojo
+448,#A6445C,Escarlata * - 70RR 15/400,Rojo
+449,#AB4357,Rosa Osado - 77RR 16/420,Rojo
+450,#82516F,Viñedo - 10RR 13/250,Rojo
+451,#964561,Pitanga Helada * - 50RR 13/343,Rojo
+452,#C33A38,Torero * - 16YR 16/594,Rojo
+453,#B83944,Hibisco Tierno * - 05YR 15/555,Rojo
+454,#984356,Frambuesa Radical - 70RR 13/380,Rojo
+455,#B33E3F,Día Feliz - 10YR 15/500,Rojo
+456,#983660,Fucsia Real * - 40RR 11/430,Rojo
+457,#B23643,Cereza * - 00YR 15/510,Rojo
+458,#834662,Frambuesa - 30RR 12/281,Rojo
+459,#863B67,Mimos de Frutos Rojos - 14RR 12/349,Rojo
+460,#8A3F59,Sorpresa Merlot - 50RR 12/305,Rojo
+461,#9D3352,Rojo Picante * - 64RR 12/436,Rojo
+462,#744962,Fresca Remolacha - 13RR 12/202,Rojo
+463,#A53248,Fiesta de la Cereza * - 84RR 13/471,Rojo
+464,#A03547,Latido * - 80RR 12/516,Rojo
+465,#BD2F2C,Amor * - 19YR 14/629,Rojo
+466,#9E3147,Carmesí Intenso * - 80RR 12/430,Rojo
+467,#7D3761,Frambuesa Silvestre - 14RR 09/333,Rojo
+468,#963747,Morado Intenso - 83RR 12/377,Rojo
+469,#942D52,Explosión de Pasión * - 55RR 11/401,Rojo
+470,#AF332E,Lápiz Labial Rojo - 19YR 13/558,Rojo
+471,#7D395A,Terciopelo Ruso * - 30RR 10/321,Rojo
+472,#9C333C,Rojo Victoriano * - 98RR 12/480,Rojo
+473,#A32E39,Sensación China * - 99RR 12/469,Rojo
+474,#9B3738,Anillo de Rubí * - 09YR 11/475,Rojo
+475,#B02826,Rojo Semáforo - 16YR 13/558,Rojo
+476,#A6272F,Rubí Estridente - 06YR 12/509,Rojo
+477,#A42B2C,Rojo Carmesí * - 31YR 10/591,Rojo
+478,#A6252E,Oriental Increíble * - 04YR 11/537,Rojo
+479,#91302C,Pitanga Madura * - 14YR 10/434,Rojo
+480,#99282C,Encanto * - 07YR 10/489,Rojo
+481,#7B2A2E,Salsa Caliente - 99RR 07/325,Rojo
+482,#7C2829,Rubor Intenso - 03YR 08/318,Rojo
+483,#EEE8E8,Encaje Fino - 10RR 83/026,Soft Rojo
+484,#EFE8E5,Primer Rubor - 10YR 83/025,Soft Rojo
+485,#ECE9E7,Siberia - 50RR 83/006,Soft Rojo
+486,#F1E7E4,Otoño Quemado - 10YR 83/035,Soft Rojo
+487,#EFE8E5,Caracola Acústica - 90RR 83/026,Soft Rojo
+488,#EEE8E5,Rubor Avellana - 10YR 83/020,Soft Rojo
+489,#F2E6E2,Rosa Sospecha - 30YR 83/040,Soft Rojo
+490,#EEE7E5,Encanto Discreto - 90RR 83/021,Soft Rojo
+491,#ECE8E5,Hongo Silvestre - 30YR 83/017,Soft Rojo
+492,#EFE7E2,Rosa Penélope - 30YR 83/029,Soft Rojo
+493,#EBE8E5,Rubor Cocoa - 30YR 83/011,Soft Rojo
+494,#EAE8E5,Vela Aromática - 10RR 83/009,Soft Rojo
+495,#EDE6E2,Luna Creciente - 30YR 83/023,Soft Rojo
+496,#EBE5E5,Espíritu Sereno - 30RR 83/020,Soft Rojo
+497,#F6E3DB,Lisonja - 45YR 83/076,Soft Rojo
+498,#F6E3DB,Palacio de Budapest - 45YR 83/076,Soft Rojo
+499,#EDE4E2,Licor de Durazno - 13YR 80/033,Soft Rojo
+500,#F0E0D9,Exótica Sensación - 50YR 78/064,Soft Rojo
+501,#EAE1DE,Pasión Secreta - 88RR 78/030,Soft Rojo
+502,#E5DFDE,Susurro de Luz - 74RR 76/023,Soft Rojo
+503,#EBDED4,Toques Rosados - 79YR 76/064,Soft Rojo
+504,#E5DCDC,Rosa Sedosa - 85RR 75/032,Soft Rojo
+505,#E7DADB,Rosa Frágil - 50RR 74/048,Soft Rojo
+506,#E9DAD9,Rubor Nocturno - 70RR 74/051,Soft Rojo
+507,#E7DADB,Nube Rosa - 50RR 74/048,Soft Rojo
+508,#E3DDDB,Soñador - 77RR 75/025,Soft Rojo
+509,#ECD9D5,Flor de Miel - 10YR 74/066,Soft Rojo
+510,#E2DCDC,Fragancia Dulce - 10RR 73/023,Soft Rojo
+511,#E3DADB,Polvo de Mármol - 30RR 73/033,Soft Rojo
+512,#E5DBD7,Después de la Lluvia - 10YR 73/038,Soft Rojo
+513,#E5DBD7,Después de la Lluvia,Soft Rojo
+514,#E6DAD6,Toque de Lavanda - 30YR 74/045,Soft Rojo
+515,#E8DCD2,Inercia - 90YR 74/057,Soft Rojo
+516,#E3DAD8,Gris Exótico - 70RR 73/025,Soft Rojo
+517,#E1D1D7,Adorable Dama - 10RR 68/068,Soft Rojo
+518,#EAD0CF,Perla de Princesa - 90RR 68/090,Soft Rojo
+519,#E7CED0,Rosa Menta - 70RR 67/092,Soft Rojo
+520,#DED1D5,Malva Mineral - 10RR 67/057,Soft Rojo
+521,#E6CED0,Sensación Rojo Cereza - 66RR 67/091,Soft Rojo
+522,#ECCCC8,Rosa Ballet - 10YR 67/111,Soft Rojo
+523,#E2CECF,Penélope - 70RR 66/072,Soft Rojo
+524,#E3CFCB,Bollo de Pastelera - 21YR 67/074,Soft Rojo
+525,#DECDD0,Rosa Nuevo - 50RR 65/065,Soft Rojo
+526,#E9CCC5,Guayaba Suave - 30YR 67/113,Soft Rojo
+527,#DBCFD0,Cielo Ardiente - 67RR 66/044,Soft Rojo
+528,#DBCFD0,Cielo Ardiente,Soft Rojo
+529,#DFCFCC,Bizcocho Encantado - 19YR 67/058,Soft Rojo
+530,#E7CBC7,Cuero Rosado - 10YR 67/100,Soft Rojo
+531,#E7CBC7,Cuero Rosado,Soft Rojo
+532,#DFCECB,Rosa Ceniza - 10YR 65/059,Soft Rojo
+533,#D9CED1,Susurro - 30RR 64/043,Soft Rojo
+534,#DCCECE,Blanco Ilusorio - 70RR 65/053,Soft Rojo
+535,#DBCDCA,Gaita Francesa - 10YR 64/048,Soft Rojo
+536,#DEC7CB,Helado de Champagne - 60RR 62/086,Soft Rojo
+537,#DCCCC8,Poesía - 30YR 64/058,Soft Rojo
+538,#D6CCCA,Ejecutivo - 70RR 64/034,Soft Rojo
+539,#D6CCCA,Lugar de Afecto - 70RR 64/034,Soft Rojo
+540,#E4C5C1,Helado Suave - 09YR 61/117,Soft Rojo
+541,#D8C5C1,Mousse de Chocolate - 17YR 60/073,Soft Rojo
+542,#D6C0BE,Rosa Puccini - 10YR 57/080,Soft Rojo
+543,#D3BFC1,Malva de Invierno - 70RR 57/070,Soft Rojo
+544,#DDB8B8,Lazo de Amor - 90RR 55/138,Soft Rojo
+545,#CDB9C3,Malva Suave - 10RR 53/087,Soft Rojo
+546,#D6B5B8,Rosa Restauración - 70RR 52/120,Soft Rojo
+547,#D0B5BB,Bouquet de Rosas - 50RR 51/109,Soft Rojo
+548,#E3B3A8,Inspiración Poética - 30YR 53/188,Soft Rojo
+549,#DAB6AB,Jarrón de Cerámica - 40YR 53/149,Soft Rojo
+550,#D8B2AE,Pabellón Rosa - 10YR 51/138,Soft Rojo
+551,#D9B3A6,Tierra Rosa - 50YR 53/160,Soft Rojo
+552,#CEB2AF,Rosa Marchita - 10YR 50/101,Soft Rojo
+553,#C3B3B8,Vino Suave - 30RR 49/067,Soft Rojo
+554,#CBB3AD,Escultura de Madera - 30YR 49/097,Soft Rojo
+555,#CBB3AD,Escultura de Madera,Soft Rojo
+556,#C8B2B0,Crema de Café - 10YR 49/082,Soft Rojo
+557,#C1A4A9,Porción de Moras - 70RR 43/104,Soft Rojo
+558,#D49C9B,Elementos Rústicos - 99RR 42/216,Soft Rojo
+559,#D59B96,Flores Marchitas - 10YR 41/223,Soft Rojo
+560,#C79CA3,Rosa Irlandesa - 70RR 40/168,Soft Rojo
+561,#C29CA6,Malva Rosa - 50RR 39/154,Soft Rojo
+562,#D99B8E,Beso Solar - 30YR 41/263,Soft Rojo
+563,#B6A5A6,Impresionista - 70RR 41/065,Soft Rojo
+564,#C199A3,Delicada Gamuza - 49RR 39/161,Soft Rojo
+565,#C49F9A,Fulgor Africano - 12YR 40/146,Soft Rojo
+566,#C49F9A,Fulgor Africano,Soft Rojo
+567,#CF9597,Rosa Río - 90RR 39/226,Soft Rojo
+568,#D89683,Sahara Soleado - 38YR 40/290,Soft Rojo
+569,#B195A4,Perfume de Higo - 10RR 35/133,Soft Rojo
+570,#BC9795,Santa Rosa - 10YR 37/143,Soft Rojo
+571,#B18E93,Rosa Colonial - 70RR 32/139,Soft Rojo
+572,#BA838D,Rosa Berberís - 70RR 30/216,Soft Rojo
+573,#B38391,Rosedal - 50RR 29/198,Soft Rojo
+574,#A48C95,Sonata - 30RR 30/103,Soft Rojo
+575,#AC8B88,Sombra Mística - 10YR 30/133,Soft Rojo
+576,#B18B83,Café Místico - 30YR 31/154,Soft Rojo
+577,#B87C7E,Rosa Renacentista - 90RR 28/245,Soft Rojo
+578,#B87C7E,Rosa Renacentista,Soft Rojo
+579,#9F7E91,Poema - 10RR 26/163,Soft Rojo
+580,#B27782,Rosa Rural - 70RR 26/240,Soft Rojo
+581,#B97A77,Romance Rústico - 04YR 27/258,Soft Rojo
+582,#A77987,Rosa Emoción - 42RR 26/194,Soft Rojo
+583,#C27470,Rosa Madera - 10YR 27/323,Soft Rojo
+584,#C57463,Abundante Rubor - 29YR 27/355,Soft Rojo
+585,#B9746F,Dulce Amor - 10YR 25/284,Soft Rojo
+586,#C57463,Abundante Rubor,Soft Rojo
+587,#BF7567,Verano Indio - 30YR 26/330,Soft Rojo
+588,#977F82,Barroco - 70RR 24/096,Soft Rojo
+589,#977287,Vino Helado - 10RR 22/178,Soft Rojo
+590,#A4726D,Tierra de Vino - 10YR 22/206,Soft Rojo
+591,#AD6368,Rojo Mentira - 90RR 20/296,Soft Rojo
+592,#AD6368,Rojo Mentira,Soft Rojo
+593,#AD6368,Rojo Envejecido - 90RR 20/296,Soft Rojo
+594,#976876,Rosa Real - 50RR 19/203,Soft Rojo
+595,#966870,Rosa Capri - 70RR 19/190,Soft Rojo
+596,#856772,Rojo Místico - 30RR 17/140,Soft Rojo
+597,#A85958,Cereza Masticable - 04YR 18/324,Soft Rojo
+598,#85686A,Rulo de Chocolate - 82RR 18/114,Soft Rojo
+599,#8F6360,Meseta de Diamantes - 10YR 17/184,Soft Rojo
+600,#93645B,Calle de Ladrillos - 30YR 18/212,Soft Rojo
+601,#A65B4D,Arcilla Quemada - 30YR 17/341,Soft Rojo
+602,#816469,Raíz de Rosal - 70RR 16/116,Soft Rojo
+603,#B05446,Vasija de Terracota - 26YR 18/404,Soft Rojo
+604,#915165,Jalea de Ciruela Claro - 50RR 15/266,Soft Rojo
+605,#7D596E,Del Monte - 10RR 14/186,Soft Rojo
+606,#AA4D4C,Rosa Suave - 10YR 16/407,Soft Rojo
+607,#9C4C49,Salsa * - 10YR 14/348,Soft Rojo
+608,#864F5A,Pluma Roja - 70RR 13/233,Soft Rojo
+609,#715862,Higo Suave - 30RR 13/116,Soft Rojo
+610,#8A4B56,Begonia Osada - 72RR 13/253,Soft Rojo
+611,#854459,Reina - 50RR 11/286,Soft Rojo
+612,#9A4C3C,Rojo Henna - 30YR 14/365,Soft Rojo
+613,#9A4C3C,Rojo Henna,Soft Rojo
+614,#9B3D3F,Baño Oriental - 05YR 13/387,Soft Rojo
+615,#84474B,Rojo Tribal - 90RR 11/257,Soft Rojo
+616,#7E434E,Rojo Tapiz - 70RR 10/250,Soft Rojo
+617,#973E34,Caoba Imponente - 21YR 13/383,Soft Rojo
+618,#944032,Carmín Aterciopelado - 30YR 11/393,Soft Rojo
+619,#6B4A50,Cabernet - 70RR 10/140,Soft Rojo
+620,#734150,Malbec - 50RR 10/229,Soft Rojo
+621,#79493F,Virola de Cobre - 30YR 11/219,Soft Rojo
+622,#6A4253,Borgoña Vibrante - 30RR 09/187,Soft Rojo
+623,#853643,Aroma de Vino - 80RR 10/306,Soft Rojo
+624,#6B3C50,Sangre de Dragón - 32RR 09/203,Soft Rojo
+625,#823F33,Chocolate y Pimienta - 30YR 10/314,Soft Rojo
+626,#80373A,Jalea Sueca * - 98RR 10/318,Soft Rojo
+627,#783C3A,Rojo Colonia - 10YR 09/250,Soft Rojo
+628,#743347,Terciopelo Escarlata - 54RR 09/276,Soft Rojo
+629,#7E3C33,Delicia de Café - 23YR 10/308,Soft Rojo
+630,#7C3B31,Rojo Libertad - 30YR 07/354,Soft Rojo
+631,#683748,Ciruela Salvaje - 48RR 08/222,Soft Rojo
+632,#713E34,Sequoia Antigua - 30YR 08/236,Soft Rojo
+633,#603250,Toque de Ciruela - 12RR 07/229,Soft Rojo
+634,#5E354C,Berenjena Profundo - 13RR 06/179,Soft Rojo
+635,#862A2E,Pájaro de Fuego - 02YR 09/373,Soft Rojo
+636,#6E3936,Borgoña - 11YR 07/229,Soft Rojo
+637,#6F3B33,Marrón Quemado - 23YR 08/237,Soft Rojo
+638,#832930,Orquídea Rubí - 00YR 08/409,Soft Rojo
+639,#5D3944,Ciruela Osado - 48RR 08/146,Soft Rojo
+640,#752B3A,Uva Francesa * - 76RR 08/316,Soft Rojo
+641,#5D3944,Ciruela Osado,Soft Rojo
+642,#782E34,Expreso de Oriente * - 96RR 08/311,Soft Rojo
+643,#86252B,Sensación Española - 01YR 09/386,Soft Rojo
+644,#5F373D,Jalea de Ciruela Oscuro - 72RR 07/173,Soft Rojo
+645,#6B3136,Vino Clásico - 09YR 05/305,Soft Rojo
+646,#68303A,Granate Vibrante - 80RR 07/260,Soft Rojo
+647,#722F2E,Marrón Intenso - 05YR 08/272,Soft Rojo
+648,#71312C,Clarete Californiano - 12YR 07/279,Soft Rojo
+649,#6B2C31,Rojo Tierra - 95RR 07/271,Soft Rojo
+650,#623133,Caoba Envejecido - 98RR 06/206,Soft Rojo
+651,#603231,Chocolate con Chili - 01YR 07/180,Soft Rojo
+652,#533236,Granadero - 75RR 06/129,Soft Rojo
+653,#503137,Vino de Mesa - 78RR 06/137,Soft Rojo
+654,#492D35,Casis Jugoso - 52RR 06/105,Soft Rojo
+655,#4E2A30,Sinfonía Granate - 72RR 05/147,Soft Rojo
+656,#D8A265,Vicuña Albalux,Naranja popular
+657,#F4974A,Dulce Naranja,Naranja popular
+658,#B27A42,Ocre Duralba,Naranja popular
+659,#A46D52,Teja Duralba,Naranja popular
+660,#AF703D,Castaño Albalux,Naranja popular
+661,#A07146,Ocre Madeira Satinol,Naranja popular
+662,#DD5222,Naranja Esm Std,Naranja popular
+663,#AE6F28,Ocre Albalux,Naranja popular
+664,#CA3819,Naranja Alablux,Naranja popular
+665,#76594B,Marrón Duralba,Naranja popular
+666,#694330,Chocolate Esm Std,Naranja popular
+667,#F3EDE8,Primer Amanecer - 50YR 87/019,Naranja
+668,#F8E8DC,Talco de Bebé - 90YR 84/076,Naranja
+669,#EFE7E3,Esencia de Rosa - 50YR 83/035,Naranja
+670,#F4E8DA,Mañana Exuberante - 14YY 83/075,Naranja
+671,#F4E8DA,Durazno Blanco - 10YY 83/071,Naranja
+672,#FAE7D3,Toque de Melaza - 08YY 83/117,Naranja
+673,#F4E6DA,Adorable Durazno - 99YR 85/075,Naranja
+674,#F0E5DE,Rosa Azúcar - 50YR 83/040,Naranja
+675,#F4E5D9,Campos de Algodón - 90YR 83/070,Naranja
+676,#F3E6D9,Susurro de Ángeles - 99YR 83/059,Naranja
+677,#F4E5D7,Aurora - 00YY 83/080,Naranja
+678,#F2E2D9,Rosa Alabastro - 60YR 83/060,Naranja
+679,#F7E2D3,Caracola del Mar - 82YR 81/106,Naranja
+680,#F4E4D2,Orquídea Durazno - 10YY 83/100,Naranja
+681,#F5DCD3,Rosa Mimosa - 32YR 78/106,Naranja
+682,#F5DCD0,Rubor Leve - 57YR 77/102,Naranja
+683,#FAE0C3,Crepe de Naranja - 11YY 79/170,Naranja
+684,#F4D9D0,Talco Rosado - 40YR 75/107,Naranja
+685,#EFDCD2,Toallas Mullidas - 67YR 77/081,Naranja
+686,#F4D8CE,Champagne Rosado - 50YR 75/111,Naranja
+687,#F3D9CD,Biscuit Durazno - 60YR 76/105,Naranja
+688,#F5DFC4,Goma de Mascar - 20YY 78/146,Naranja
+689,#F8D7C3,Durazno Intenso - 78YR 74/155,Naranja
+690,#F9DBBD,Polvo de Durazno - 10YY 78/188,Naranja
+691,#F2D4C2,Durazno Rosado - 74YR 71/141,Naranja
+692,#F4D4BF,Soplo de Durazno - 80YR 72/159,Naranja
+693,#F8CEC0,Durazno Pasión - 46YR 69/173,Naranja
+694,#F4D1C1,Juegos de Bebés - 59YR 70/153,Naranja
+695,#F3D4BD,Arena de Bali - 90YR 72/159,Naranja
+696,#F8D6B3,Papaya - 06YY 75/218,Naranja
+697,#F1D6BA,Luz de Durazno - 10YY 72/172,Naranja
+698,#FED6AB,Gengibre Cristalizado - 11YY 74/263,Naranja
+699,#EECCC4,Rosa Vino - 30YR 68/127,Naranja
+700,#F2CEBE,Luz de la Alborada - 60YR 70/151,Naranja
+701,#F9D1AA,Flor de Naranja - 05YY 72/254,Naranja
+702,#F4C4BA,Sol Poniente - 23YR 66/193,Naranja
+703,#FBCAAA,Durazno Especial - 81YR 67/247,Naranja
+704,#F3CCB0,Sidra de Naranja - 87YR 67/204,Naranja
+705,#F3C7B3,Granada Perfumada - 60YR 65/196,Naranja
+706,#F0C8B0,Bronce Antílope - 80YR 65/185,Naranja
+707,#F3C0A9,Salmón Sensacional - 61YR 61/229,Naranja
+708,#EEC4A9,Durazno Notorio - 83YR 62/211,Naranja
+709,#F1BCA9,Sensación Siena - 49YR 59/226,Naranja
+710,#FEC68D,Néctar de Damasco - 36YY 66/349,Naranja
+711,#F1BCA4,Rosa Salmón - 60YR 59/261,Naranja
+712,#F2B4A9,Flor de Coral - 21YR 57/250,Naranja
+713,#FFBB93,Papaya Sabrosa - 73YR 61/343,Naranja
+714,#F9C292,Frambuesa Americana - 98YR 65/333,Naranja
+715,#F6B99D,Durazno Batido - 61YR 60/282,Naranja
+716,#FABC90,Infusión Terracota - 85YR 60/336,Naranja
+717,#F7ACA1,Tinte de Flamenco - 18YR 54/304,Naranja
+718,#F0BC94,Toque de Damasco - 90YR 57/293,Naranja
+719,#F2B895,Torbellino de Durazno - 80YR 57/293,Naranja
+720,#EFB499,Ritual Rosado - 60YR 55/271,Naranja
+721,#FFBE7A,Villa Toscana - 99YR 62/459,Naranja
+722,#F0B195,Tierra del Durazno - 60YR 54/287,Naranja
+723,#EDA798,Reflejo de Salmón - 31YR 50/290,Naranja
+724,#F6B180,Durazno Delicioso - 83YR 54/381,Naranja
+725,#F6A58B,Crema de Pitanga - 48YR 50/372,Naranja
+726,#F1A888,Cactus Navideño - 58YR 53/342,Naranja
+727,#EEA986,Durazno Etéreo - 63YR 50/340,Naranja
+728,#F4A481,Jugo de Durazno - 58YR 49/379,Naranja
+729,#EBA984,Mamón Papaya - 70YR 49/332,Naranja
+730,#F8A476,Durazno Vital - 68YR 50/429,Naranja
+731,#F4AC71,Melón Anaranjado - 90YR 54/440,Naranja
+732,#FFAE62,Citrus - 02YY 55/518,Naranja
+733,#ECA779,Durazno Maduro - 80YR 49/382,Naranja
+734,#EBAA76,Atardecer en Colorado - 90YR 49/382,Naranja
+735,#E19B8D,Rosa Adobe - 30YR 43/295,Naranja
+736,#F09D7C,Ponche de Durazno - 56YR 48/398,Naranja
+737,#EC9486,Salmón Fresco - 23YR 45/369,Naranja
+738,#F39578,Coral Naranja - 42YR 43/439,Naranja
+739,#E99B78,Amante - 60YR 44/378,Naranja
+740,#F5A265,Abanico Marino - 86YR 49/493,Naranja
+741,#E79D75,Ola de Calor - 70YR 44/378,Naranja
+742,#EC9F6C,Naranja Folclore - 80YR 45/427,Naranja
+743,#E8A06C,Fantasía de Júpiter - 84YR 46/409,Naranja
+744,#DE8F7F,Rosa Durazno - 30YR 38/337,Naranja
+745,#E09B6C,Jengibre Jamaiquino - 80YR 42/387,Naranja
+746,#E58A77,Melodía de la Tierra - 32YR 38/392,Naranja
+747,#E5906A,Salmón Suave - 60YR 40/423,Naranja
+748,#E18479,Pizca de Durazno - 18YR 36/386,Naranja
+749,#F19754,Mandarina - 83YR 44/540,Naranja
+750,#E29859,Valencia - 90YR 41/472,Naranja
+751,#E68D5A,Mandarina Deliciosa - 69YR 39/474,Naranja
+752,#E9855D,Pleno Florecer - 52YR 37/501,Naranja
+753,#E47969,Celebración - 25YR 34/473,Naranja
+754,#E3865D,Templo - 60YR 36/468,Naranja
+755,#E18959,Algodón de la India - 70YR 36/468,Naranja
+756,#F08948,Naranja del Desierto - 78YR 39/593,Naranja
+757,#E58C4F,Sol de Samoa - 80YR 37/516,Naranja
+758,#ED8B45,Naranja Efímero - 78YR 39/576,Naranja
+759,#F37C4B,Mandarín Exótico - 55YR 36/590,Naranja
+760,#DA8953,Mamón Escarchado - 80YR 34/468,Naranja
+761,#DD7B59,Cinabrio - 50YR 32/460,Naranja
+762,#E16F5F,Coral Oriental - 26YR 30/511,Naranja
+763,#D27563,Flamenco Antiguo - 30YR 29/421,Naranja
+764,#D47A5C,Casa Bonita - 50YR 30/417,Naranja
+765,#E0843F,Amapola Oriental - 80YR 34/561,Naranja
+766,#DD883A,Gloria de la Cosecha - 90YR 34/561,Naranja
+767,#F17831,Duelo Tanguero * - 65YR 35/659,Naranja
+768,#E16553,Jazz de Bongo - 28YR 29/561,Naranja
+769,#D77E44,Aroma de Madera - 80YR 31/508,Naranja
+770,#D38043,Rayas de Tigre - 80YR 32/489,Naranja
+771,#DA783E,Cosecha de Especias - 70YR 29/559,Naranja
+772,#DE6546,Atardecer Caribeño - 40YR 28/563,Naranja
+773,#DC703D,Ave Exótica - 60YR 29/559,Naranja
+774,#CD6555,Tulipán Africano - 30YR 25/463,Naranja
+775,#CC6D4B,Cidro Hirviente - 50YR 26/461,Naranja
+776,#CC6552,Sabor a Tango - 28YR 25/461,Naranja
+777,#E2712B,Naranjal * - 70YR 30/651,Naranja
+778,#D77E29,Topacio Soleado * - 90YR 31/605,Naranja
+779,#E56E27,Naranja Fiesta * - 68YR 28/701,Naranja
+780,#D06740,Caminatas Otoñales - 48YR 26/519,Naranja
+781,#E16233,Sol Ardiente * - 49YR 27/627,Naranja
+782,#CC7436,Bronce Fundido - 80YR 27/530,Naranja
+783,#DC7525,Licor de Naranja * - 80YR 28/650,Naranja
+784,#C77338,Estallido de Azafrán - 75YR 27/487,Naranja
+785,#D4623C,Mandarín - 50YR 25/556,Naranja
+786,#CA5B4A,Rojo Insignia - 30YR 21/505,Naranja
+787,#D96630,Caqui Naranja - 60YR 26/605,Naranja
+788,#D4692E,Llama del Atardecer * - 63YR 26/584,Naranja
+789,#D66B29,Caleidoscopio - 70YR 26/605,Naranja
+790,#CD6F27,Polen de Lila - 76YR 27/558,Naranja
+791,#D35338,Naranja en Llamas * - 34YR 23/583,Naranja
+792,#D35338,Naranja en Llamas *,Naranja
+793,#DA5D23,Fuegos Artificiales * - 55YR 24/666,Naranja
+794,#CF4D3D,Rojo Cardenal * - 30YR 20/595,Naranja
+795,#C86C25,Aderezo Caribeño - 80YR 24/569,Naranja
+796,#C37120,Dulce de Zapallo - 90YR 23/569,Naranja
+797,#C16130,Tierra Egipcia - 70YR 19/557,Naranja
+798,#CD4A38,Shangai * - 29YR 19/621,Naranja
+799,#D04F27,Naranja Chino * - 50YR 18/650,Naranja
+800,#BE5A2B,Caqui Maduro * - 60YR 19/557,Naranja
+801,#CA5322,Ralladura de Naranja * - 52YR 21/567,Naranja
+802,#B9483C,Rojo Routelle - 22YR 18/488,Naranja
+803,#C8402F,Lugar de Fiesta * - 31YR 18/648,Naranja
+804,#AE5138,Horno Ardiente - 38YR 17/442,Naranja
+805,#B25431,Cobre Anaranjado - 53YR 17/504,Naranja
+806,#C33F28,Sensación Cereza * - 30YR 18/596,Naranja
+807,#B54131,Rojo Pekín - 30YR 15/550,Naranja
+808,#A34140,Llama Antigua * - 10YR 13/437,Naranja
+809,#A43E2D,Rojo Vesubio * - 30YR 13/471,Naranja
+810,#AB392B,Pimiento * - 26YR 14/548,Naranja
+811,#A23530,Teatro de Títeres - 17YR 13/463,Naranja
+812,#F2EBE3,Seda Suculenta - 11YY 85/042,Soft Naranja
+813,#F2E7DF,Beso Suave - 70YR 83/051,Soft Naranja
+814,#F0E8E0,Nacarado - 90YR 83/044,Soft Naranja
+815,#F0E8DF,Fractal - 00YY 83/034,Soft Naranja
+816,#F3E3DA,Licor de Pitanga - 51YR 83/054,Soft Naranja
+817,#F0E4DB,Momento Primaveral - 90YR 81/058,Soft Naranja
+818,#F1E4D7,Durazno Real - 00YY 83/069,Soft Naranja
+819,#EDE1D5,Marea Blanca - 08YY 78/069,Soft Naranja
+820,#F1E1CF,Toque de Azúcar - 17YY 79/105,Soft Naranja
+821,#F5DECE,Seda Durazno - 80YR 77/115,Soft Naranja
+822,#EFDDD1,Bizcocho de Castaña - 80YR 76/086,Soft Naranja
+823,#F4DDCC,Yogur de Durazno - 90YR 77/115,Soft Naranja
+824,#EDDCD2,Blanco Anís - 70YR 75/075,Soft Naranja
+825,#EFDCCF,Fantasía Calma - 90YR 76/086,Soft Naranja
+826,#F3DDC9,Duraznero - 00YY 77/124,Soft Naranja
+827,#EFDFCB,Copos de Arroz - 20YY 77/110,Soft Naranja
+828,#E9DCD3,Polvo de Arroz - 80YR 75/057,Soft Naranja
+829,#EDDAD1,Rosa Bata - 60YR 75/075,Soft Naranja
+830,#E7DCD5,Inspiración - 70YR 74/045,Soft Naranja
+831,#EBDCD0,Fuente de Juventud - 90YR 75/072,Soft Naranja
+832,#F0DCC9,Mañana Luminosa - 01YY 75/115,Soft Naranja
+833,#ECDBCD,Papel Reciclado - 00YY 76/088,Soft Naranja
+834,#E7DBD0,Pétalo de Rosa - 10YY 74/063,Soft Naranja
+835,#E5DAD3,Gamuza Rosa - 80YR 74/043,Soft Naranja
+836,#E5D9D4,Nube Angelical - 50YR 74/043,Soft Naranja
+837,#E8DBCE,Algodón Crudo - 00YY 75/071,Soft Naranja
+838,#E6D8D1,Eternidad - 50YR 74/054,Soft Naranja
+839,#EED3C1,Durazno Matinal - 86YR 70/136,Soft Naranja
+840,#EAD2C3,Rosa Ópera - 80YR 69/114,Soft Naranja
+841,#E1D2CA,Sensación de Arena - 74YR 68/064,Soft Naranja
+842,#EBCFC2,Biscuit Naranja - 60YR 68/118,Soft Naranja
+843,#E7D0C3,Secreto Oculto - 70YR 68/102,Soft Naranja
+844,#EACDC2,Rosa Poción - 50YR 68/114,Soft Naranja
+845,#EACEC0,Dulce Rubor - 70YR 68/118,Soft Naranja
+846,#E4D1C2,Cuento Nostálgico - 90YR 68/100,Soft Naranja
+847,#E1D0C3,Almendra Suave - 90YR 67/085,Soft Naranja
+848,#E3CCC3,Rosa Pueblo - 50YR 66/091,Soft Naranja
+849,#EDD0AE,Mousse de Galletita - 17YY 68/203,Soft Naranja
+850,#EED0AC,Vara de Mimbre - 20YY 67/216,Soft Naranja
+851,#E1CBBE,Arena Salmón - 75YR 64/102,Soft Naranja
+852,#E1CBBE,Arena de Canoa - 75YR 64/102,Soft Naranja
+853,#EFCCAB,Mousse de Durazno - 00YY 67/212,Soft Naranja
+854,#E9C9B2,Diosa del Durazno - 90YR 64/166,Soft Naranja
+855,#DFC6B0,Travertino - 00YY 62/144,Soft Naranja
+856,#E7C4A6,Terraplén - 99YR 61/205,Soft Naranja
+857,#D6BFB7,Rosa del Desierto - 50YR 58/093,Soft Naranja
+858,#E1BCA7,Coral Real - 80YR 57/179,Soft Naranja
+859,#E4B8A5,Rubor Naranja - 60YR 56/190,Soft Naranja
+860,#DCBEA4,Comino - 00YY 56/173,Soft Naranja
+861,#D8BCAA,Piel Auténtica - 82YR 55/140,Soft Naranja
+862,#E5B4A3,Flor de Loto - 50YR 55/201,Soft Naranja
+863,#E1B7A3,Calor del Desierto - 70YR 56/190,Soft Naranja
+864,#DBB6A6,Aguada de Siena - 59YR 53/163,Soft Naranja
+865,#EAB696,Pera Silvestre - 80YR 55/266,Soft Naranja
+866,#E7B794,Amarillo Dulce - 90YR 55/266,Soft Naranja
+867,#CCB19F,Siesta Relajante - 84YR 49/139,Soft Naranja
+868,#E6B580,Trigo Dorado - 10YY 53/337,Soft Naranja
+869,#D6AD97,Almendras a la Miel - 70YR 48/195,Soft Naranja
+870,#DCA896,Reflejo de Coral - 50YR 48/219,Soft Naranja
+871,#E3B383,Dulce Nougat - 02YY 52/318,Soft Naranja
+872,#D1B098,Trigo Suave - 90YR 48/183,Soft Naranja
+873,#D6A78A,Muffin - 80YR 46/243,Soft Naranja
+874,#D9A387,Melón Perfumado - 70YR 45/261,Soft Naranja
+875,#DC9C86,Mañana del Desierto - 50YR 44/287,Soft Naranja
+876,#E0A678,Pasta de Maní - 90YR 46/346,Soft Naranja
+877,#D99F7A,Trigo Integral - 80YR 44/311,Soft Naranja
+878,#D8967B,Otoño Cálido - 60YR 40/297,Soft Naranja
+879,#D2A074,Tesoro de Córcega - 00YY 43/304,Soft Naranja
+880,#D09D6E,Miel de Crème Brûlée - 98YR 41/326,Soft Naranja
+881,#C49A7A,Colinas Rodantes - 90YR 38/239,Soft Naranja
+882,#CC907B,Sombra de Cedro - 50YR 36/263,Soft Naranja
+883,#CC907B,Sombra de Cedro,Soft Naranja
+884,#BE9B7C,Cáscara de Cebolla - 00YY 37/221,Soft Naranja
+885,#CF966E,Polvo de Marte - 82YR 38/316,Soft Naranja
+886,#C1957D,Sonora - 70YR 35/216,Soft Naranja
+887,#CD8E6C,Coral del Mar - 70YR 35/332,Soft Naranja
+888,#D8935B,Panal de Miel - 90YR 38/427,Soft Naranja
+889,#D08E61,Camino de Arces - 80YR 35/383,Soft Naranja
+890,#B48D7C,Cuero Auténtico - 57YR 32/176,Soft Naranja
+891,#AF907B,Suela - 85YR 32/167,Soft Naranja
+892,#C2886B,Moca Suave - 66YR 33/286,Soft Naranja
+893,#BF8E63,Árbol Otoñal - 96YR 33/309,Soft Naranja
+894,#C58961,Bronce Montura - 80YR 32/339,Soft Naranja
+895,#CD8161,Tierra del Fuego - 60YR 31/368,Soft Naranja
+896,#CD8161,Tierra del Fuego,Soft Naranja
+897,#D48B4C,Bronceado Dorado - 90YR 34/468,Soft Naranja
+898,#CD8555,Néctar Dorado - 80YR 31/419,Soft Naranja
+899,#AF7F6B,Muros de Arcilla - 57YR 27/226,Soft Naranja
+900,#C2794F,Extremo Sur - 70YR 27/404,Soft Naranja
+901,#C2794F,Extremo Sur,Soft Naranja
+902,#B37A54,Rubor de Otoño - 80YR 26/323,Soft Naranja
+903,#AD7A51,Floresta - 90YR 25/323,Soft Naranja
+904,#BB7546,Macchiato Matutino - 77YR 26/391,Soft Naranja
+905,#B86C51,Ambar Terroso - 50YR 23/365,Soft Naranja
+906,#AD6C55,Vasija de Arcilla - 50YR 21/318,Soft Naranja
+907,#BE6B44,Naranja Pekín - 60YR 24/439,Soft Naranja
+908,#A27653,Relieve en Cobre - 90YR 23/274,Soft Naranja
+909,#AE684A,Teja Continental - 54YR 22/344,Soft Naranja
+910,#A17247,Deleite de Caramelo - 93YR 22/305,Soft Naranja
+911,#976856,Cobre Suave - 50YR 18/223,Soft Naranja
+912,#976856,Cobre Suave,Soft Naranja
+913,#9E7043,Cappuccino - 00YY 21/321,Soft Naranja
+914,#9E7043,Cappuccino,Soft Naranja
+915,#B4662F,Té de la India - 80YR 20/488,Soft Naranja
+916,#A4673C,Licor de Chocolate - 80YR 19/378,Soft Naranja
+917,#AE6335,Moneda de Cobre - 70YR 19/432,Soft Naranja
+918,#A55E43,Marrón Ardilla - 52YR 18/350,Soft Naranja
+919,#AE6830,Joya Barroca - 90YR 19/487,Soft Naranja
+920,#A75B34,Caramelo Picante - 62YR 18/397,Soft Naranja
+921,#AE562D,Herrumbre - 60YR 16/464,Soft Naranja
+922,#8C5B48,Cordobés - 50YR 15/243,Soft Naranja
+923,#9A5C38,Danza en la Arena * - 70YR 16/345,Soft Naranja
+924,#9F5E2E,Tesoro Valioso * - 80YR 17/406,Soft Naranja
+925,#A25D2C,Sueño Sevillano - 75YR 18/393,Soft Naranja
+926,#9A5238,Rojo Alfarero - 50YR 15/377,Soft Naranja
+927,#995F2C,Dorado Antiguo - 90YR 16/406,Soft Naranja
+928,#8E5637,Bosque en Llamas - 64YR 14/300,Soft Naranja
+929,#8F5833,Castaña Española - 80YR 13/325,Soft Naranja
+930,#994C33,Ardor - 50YR 12/406,Soft Naranja
+931,#994C33,Fogón de Leña - 50YR 12/406,Soft Naranja
+932,#8B4C3F,Verano Siciliano - 30YR 12/292,Soft Naranja
+933,#84563C,Casa de Jengibre - 70YR 13/259,Soft Naranja
+934,#954F2E,Rojizo Profundo * - 60YR 13/371,Soft Naranja
+935,#8A5631,Bruma de Expresso - 77YR 14/306,Soft Naranja
+936,#70563E,Licor de Café - 00YY 12/173,Soft Naranja
+937,#864833,Tobogán de Lodo - 46YR 12/287,Soft Naranja
+938,#7A4D3A,Caramelo de Chocolate - 52YR 12/212,Soft Naranja
+939,#7A4D3A,Caramelo de Chocolate,Soft Naranja
+940,#874531,Especia Fuerte - 39YR 11/342,Soft Naranja
+941,#7E4D32,Castaña de Otoño - 70YR 11/279,Soft Naranja
+942,#735237,Fango del Missisippi - 89YR 12/197,Soft Naranja
+943,#794532,Pimienta Ardiente - 45YR 11/240,Soft Naranja
+944,#724232,Ladrillo Rojo - 50YR 09/244,Soft Naranja
+945,#F4D3A1,Marfil Seda Albalux,Dorado Popular
+946,#E8C189,Crema Esm Std,Dorado Popular
+947,#D5AE6F,Crema Albalux,Dorado Popular
+948,#FABB33,Amarillo Duralba,Dorado Popular
+949,#F0B43E,Canarias Satinol,Dorado Popular
+950,#FFB40C,Amarillo Esm Std,Dorado Popular
+951,#AE9374,Beige Albalux,Dorado Popular
+952,#AE916D,Beige Esm Std,Dorado Popular
+953,#FAA900,Amarillo Albalux,Dorado Popular
+954,#E09100,Amarillo Mediano Albalux,Dorado Popular
+955,#FAEBD1,Sensación Espacial - 39YY 86/135,Dorado
+956,#F6E9D5,Durazno Helado - 28YY 86/106,Dorado
+957,#FAE8D1,Fulgor de Luz - 21YY 84/128,Dorado
+958,#F5E9D4,Blanco Caracola - 44YY 80/106,Dorado
+959,#F4E9D4,Almendra Azucarada - 42YY 84/095,Dorado
+960,#F4EAD1,Pura Luz - 51YY 84/121,Dorado
+961,#F5E8D2,Crema Uniforme - 40YY 83/107,Dorado
+962,#F9E9CB,Blanco Pochoclo - 46YY 86/166,Dorado
+963,#F6E8CF,Marfil Palacio - 45YY 83/125,Dorado
+964,#F5E6D1,Trigo - 25YY 83/103,Dorado
+965,#F6E5D0,Insinuación Dorada - 24YY 82/118,Dorado
+966,#F6E7CD,Amarillo Bebé - 40YY 83/129,Dorado
+967,#F4E7CE,Leche de Coco - 25YY 85/108,Dorado
+968,#F3E7CE,Lirio de Pascua - 50YY 83/114,Dorado
+969,#F3E5CE,Marfil Fresco - 30YY 81/123,Dorado
+970,#F4E6C9,Caña de Azúcar - 50YY 83/143,Dorado
+971,#F5E5C7,Primera Luz - 39YY 85/156,Dorado
+972,#F5E2C9,Roma - 19YY 83/140,Dorado
+973,#F6E0C9,Toque de Crème Brûlée - 11YY 78/136,Dorado
+974,#F8E5C2,Joven Celebridad - 45YY 83/187,Dorado
+975,#FBE3BD,Amarillo Luminaria - 34YY 81/209,Dorado
+976,#FEE1BC,Dilución de Azafrán - 22YY 80/211,Dorado
+977,#F3DEC8,Durazno Cálido - 10YY 77/125,Dorado
+978,#F6E4BF,Burbuja de Champaña - 35YY 81/174,Dorado
+979,#F9E3BC,Crema de Vainilla - 41YY 83/214,Dorado
+980,#F4E1C0,Cera de Vela - 40YY 79/168,Dorado
+981,#F5E1BE,Crema de Maracuyá - 25YY 81/177,Dorado
+982,#F8DCBB,Dejo de Durazno - 16YY 76/189,Dorado
+983,#F2DEBE,Reflejo de Luz Solar - 34YY 76/174,Dorado
+984,#FBDCB1,Vainilla Almendrada - 25YY 78/232,Dorado
+985,#F8DEB1,Luna de Otoño - 35YY 81/233,Dorado
+986,#FADEAE,Enaltecer - 38YY 81/256,Dorado
+987,#FBDCAE,Toque de Néctar - 25YY 79/240,Dorado
+988,#F9DFAD,Panqueque - 40YY 77/267,Dorado
+989,#FADBAF,Durazno con Chantilly - 27YY 78/255,Dorado
+990,#FAD9AF,Amanecer Otoñal - 22YY 75/247,Dorado
+991,#FADEAA,Renacer - 35YY 78/269,Dorado
+992,#F5D6B5,Mandarina Blanca - 10YY 72/200,Dorado
+993,#FEDFA1,Sentimiento de Verano - 39YY 78/329,Dorado
+994,#FADAA1,Estrella Fugaz - 37YY 78/312,Dorado
+995,#FFD997,Amanecer Damasco - 33YY 74/360,Dorado
+996,#EFCFAD,Mousse de Naranja - 10YY 67/213,Dorado
+997,#FDD29B,Amanecer Norteño - 19YY 71/323,Dorado
+998,#F6CEA2,Arcilla Sabia - 11YY 68/269,Dorado
+999,#FFCF95,Calabacín - 11YY 70/356,Dorado
+1000,#FED58F,Junquillo - 35YY 74/372,Dorado
+1001,#FBD295,Jengibre Durazno - 22YY 71/347,Dorado
+1002,#FFD090,Durazno Pálido - 25YY 70/365,Dorado
+1003,#FDD28D,Melón Persa - 32YY 73/398,Dorado
+1004,#FAD587,Sensación Estival - 39YY 71/413,Dorado
+1005,#FBD388,Deleite de Resplandor - 34YY 71/404,Dorado
+1006,#F2C89B,Mousse de Mango - 10YY 65/285,Dorado
+1007,#EFC89B,Esencia de Oriente - 14YY 63/272,Dorado
+1008,#F3C49B,Desfile Anaranjado - 99YR 63/283,Dorado
+1009,#F8D483,Rayo de Luz - 45YY 71/426,Dorado
+1010,#FFCE7D,Pera Madura - 30YY 70/455,Dorado
+1011,#FDC582,Sensación de Azafrán - 13YY 64/412,Dorado
+1012,#FAC681,Naranja Pálido - 17YY 65/420,Dorado
+1013,#FFCF73,Día Dorado - 35YY 71/474,Dorado
+1014,#FDCB77,Puesta del Sol Dorada - 27YY 68/470,Dorado
+1015,#FFCF6E,Dunas Deslumbrantes - 33YY 69/519,Dorado
+1016,#EEBF8B,Galleta de Caramelo - 09YY 59/325,Dorado
+1017,#F1C184,Estrella Diurna - 25YY 62/353,Dorado
+1018,#FFCA69,Rayos de Sol - 29YY 66/537,Dorado
+1019,#ECBA8B,Nuez - 00YY 57/299,Dorado
+1020,#FBBD71,Fresco Romano - 13YY 60/475,Dorado
+1021,#F4C272,Popurrí Veraniego - 25YY 61/452,Dorado
+1022,#F9BF70,Plaza Soleada - 20YY 61/475,Dorado
+1023,#FCC367,Oro del Faraón - 24YY 64/523,Dorado
+1024,#EEBA7D,Onda Ambar - 10YY 57/377,Dorado
+1025,#EFC076,Hierba de Pradera - 35YY 61/431,Dorado
+1026,#F3BA6F,Amarillo Glorioso - 25YY 57/441,Dorado
+1027,#EABE73,Polvo Solar - 30YY 58/423,Dorado
+1028,#FDBA61,Mango Tropical - 12YY 61/523,Dorado
+1029,#EDB370,Pinza de Cangrejo - 10YY 53/423,Dorado
+1030,#F9B462,Lirio - 08YY 56/528,Dorado
+1031,#FCBB58,Del Sol - 21YY 60/577,Dorado
+1032,#FCAE63,Naranja Orgánica - 97YR 54/511,Dorado
+1033,#FFC04D,Fervor Amarillo - 23YY 61/631,Dorado
+1034,#FBB758,Chispazo de Topacio - 14YY 57/556,Dorado
+1035,#F7B260,Sensación de Mango - 07YY 54/510,Dorado
+1036,#FFC247,Diente de León - 35YY 64/633,Dorado
+1037,#F1BC59,Dorado Caliente - 35YY 59/533,Dorado
+1038,#E6A96F,Damasco - 00YY 49/387,Dorado
+1039,#FFB549,Cometa Harley - 25YY 56/625,Dorado
+1040,#EBAE62,Luna Agreste - 10YY 50/469,Dorado
+1041,#EAB45D,Arena Seductora - 23YY 53/490,Dorado
+1042,#FBB847,Arenas de Barbados - 22YY 57/627,Dorado
+1043,#FAB248,Asia - 17YY 56/627,Dorado
+1044,#F8A850,Ave del Paraíso - 04YY 51/583,Dorado
+1045,#FFBA35,Amanecer Azteca * - 22YY 59/694,Dorado
+1046,#FFBE31,Esplendor - 28YY 63/746,Dorado
+1047,#FFAF3E,Fiesta - 09YY 57/689,Dorado
+1048,#F1AA4A,Brillo de Fuego - 25YY 50/592,Dorado
+1049,#FEA93A,Llama de Gas - 05YY 52/658,Dorado
+1050,#E8A553,Carnaval - 10YY 46/515,Dorado
+1051,#E6AF47,Tono Dorado - 30YY 49/562,Dorado
+1052,#FFBA1F,Oro Real * - 23YY 62/816,Dorado
+1053,#F7A835,Dulce de Naranja - 12YY 51/682,Dorado
+1054,#F79A38,Pez Naranja - 96YR 46/632,Dorado
+1055,#E09851,Gota de Miel - 00YY 41/475,Dorado
+1056,#F49839,Zanahoria - 97YR 44/642,Dorado
+1057,#F8AF1C,Sol Dorado * - 25YY 49/757,Dorado
+1058,#DCA440,Surfeando Dunas - 23YY 44/541,Dorado
+1059,#FEAB13,Explosión Estelar * - 19YY 51/758,Dorado
+1060,#E39931,Aceite Vegetal - 10YY 40/608,Dorado
+1061,#F5B700,Pascua Glamorosa * - 34YY 55/802,Dorado
+1062,#FFA405,Dios Sol * - 06YY 49/797,Dorado
+1063,#F3951B,Caléndula * - 05YY 42/727,Dorado
+1064,#CB983B,Amor de Manzana - 25YY 38/510,Dorado
+1065,#E09321,Amarillo Arizona * - 10YY 37/654,Dorado
+1066,#D88A30,Zapallo - 00YY 34/562,Dorado
+1067,#EB8621,Arenas de Marruecos * - 01YY 36/694,Dorado
+1068,#E2AE00,Luces Teatrales * - 40YY 48/750,Dorado
+1069,#F18517,Naranja Explosivo * - 85YR 38/700,Dorado
+1070,#E3901A,Efecto Melaza * - 04YY 39/638,Dorado
+1071,#D98C1D,Calabaza * - 10YY 34/700,Dorado
+1072,#D79413,Mostaza Especiada * - 20YY 34/700,Dorado
+1073,#E19000,Cálido Resplandor * - 11YY 38/694,Dorado
+1074,#C88326,Oro Holandés - 10YY 27/600,Dorado
+1075,#CE8121,Ambar Dorado * - 00YY 28/650,Dorado
+1076,#F6EBD3,Neblina de Verano - 44YY 87/118,Soft Dorado
+1077,#F2E6DB,Tonos de Arcilla - 03YY 82/067,Soft Dorado
+1078,#F6E5D4,Damasco Limpio - 08YY 82/100,Soft Dorado
+1079,#F4E7D4,Caracola de Ensenada - 20YY 83/100,Soft Dorado
+1080,#F0E3D2,Playa - 30YY 80/088,Soft Dorado
+1081,#EDE1D0,Naturaleza Viva - 25YY 77/087,Soft Dorado
+1082,#F3DFC9,Columnata Durazno - 20YY 77/128,Soft Dorado
+1083,#F0DECC,Durazno de Porcelana - 10YY 76/104,Soft Dorado
+1084,#F5DEC5,Melón - 10YY 78/146,Soft Dorado
+1085,#ECDFCA,Cielo Mostaza - 35YY 76/110,Soft Dorado
+1086,#ECDFCA,Desierto de Atacama - 40YY 76/112,Soft Dorado
+1087,#E8DECB,Planicie Africana - 44YY 75/094,Soft Dorado
+1088,#F0DEC2,Blanco Macadamia - 30YY 75/145,Soft Dorado
+1089,#F4DDBE,Hilo Crema - 30YY 77/169,Soft Dorado
+1090,#E7DBCB,Blanco Hueso - 26YY 71/098,Soft Dorado
+1091,#E8DCC9,Seda de Marfil - 41YY 70/112,Soft Dorado
+1092,#EBDBC5,Lana Alpina - 30YY 74/121,Soft Dorado
+1093,#E9DBC5,Leyenda Indígena - 38YY 72/117,Soft Dorado
+1094,#F8DFB2,Cabello de Chala - 40YY 77/242,Soft Dorado
+1095,#E7D9C7,Sisal - 30YY 72/097,Soft Dorado
+1096,#F6D8B8,Arena Fina - 10YY 74/192,Soft Dorado
+1097,#E2D8C9,Blanco Prisma - 30YY 71/073,Soft Dorado
+1098,#F4D8B6,Helado de Mango - 20YY 74/192,Soft Dorado
+1099,#E9D8BE,Lino Blanco - 30YY 71/138,Soft Dorado
+1100,#E1D4C6,Estopa - 15YY 69/080,Soft Dorado
+1101,#E8D4BC,Lino Americano - 20YY 70/138,Soft Dorado
+1102,#EBD4B9,Crema de Bavaria - 20YY 71/156,Soft Dorado
+1103,#E8D3BD,Leche y Miel - 10YY 69/130,Soft Dorado
+1104,#E7D4BC,Toque de Crema - 23YY 69/134,Soft Dorado
+1105,#EFD5AE,Amarillo Luminoso - 30YY 69/216,Soft Dorado
+1106,#ECD5AF,Nougat de Caramelo - 36YY 70/208,Soft Dorado
+1107,#E1CFBE,Fantasía Malva - 03YY 66/105,Soft Dorado
+1108,#E9D2B0,Marfil Crema - 30YY 67/194,Soft Dorado
+1109,#E4CFB1,Beige Lana - 30YY 65/171,Soft Dorado
+1110,#E5CDAF,Amarillo Dakota - 20YY 64/171,Soft Dorado
+1111,#DFCCB1,Blanco Ostra - 30YY 64/149,Soft Dorado
+1112,#E3CAAF,Neutro Maya - 10YY 63/162,Soft Dorado
+1113,#E4CAA7,Nuez Moscada Tenue - 24YY 63/200,Soft Dorado
+1114,#E6CAA1,Licor de Whisky - 30YY 63/231,Soft Dorado
+1115,#EFC898,Maíz Indio - 20YY 65/285,Soft Dorado
+1116,#EAC79C,Junco - 20YY 63/258,Soft Dorado
+1117,#F0CB90,Dorado Suave - 30YY 64/331,Soft Dorado
+1118,#E4C39F,Licor de Crema - 10YY 60/224,Soft Dorado
+1119,#D9C3A4,Tela Bordada - 30YY 58/178,Soft Dorado
+1120,#EBC68E,Mostaza Tenue - 28YY 62/321,Soft Dorado
+1121,#D9C1A2,Marfil Clásico - 20YY 57/178,Soft Dorado
+1122,#D4BEA8,Beige Tranquilo - 08YY 55/137,Soft Dorado
+1123,#EDC786,Duna Arenosa - 35YY 63/346,Soft Dorado
+1124,#E9BD8E,Topacio Claro - 10YY 58/295,Soft Dorado
+1125,#DBBB93,Bronce Toscano - 20YY 53/238,Soft Dorado
+1126,#DDB694,Melaza Oscura - 98YR 53/235,Soft Dorado
+1127,#D2B994,Valle del Desierto - 30YY 52/207,Soft Dorado
+1128,#E4B87F,Cobertura Azucarada - 20YY 54/342,Soft Dorado
+1129,#DCB481,Mantecado - 20YY 51/306,Soft Dorado
+1130,#EBB76F,Alucinación - 20YY 53/423,Soft Dorado
+1131,#DFB778,Cosecha de Heno - 26YY 52/359,Soft Dorado
+1132,#D8B081,Gengibre Amarronado - 15YY 49/288,Soft Dorado
+1133,#D2AF82,Gran Cañón - 20YY 49/271,Soft Dorado
+1134,#E2AD72,Dulce Miel - 10YY 49/378,Soft Dorado
+1135,#C9A887,Calma Natural - 10YY 44/215,Soft Dorado
+1136,#E0A767,Zorzal de la Floresta - 10YY 45/419,Soft Dorado
+1137,#DDA667,Tallo de Gengibre - 09YY 45/402,Soft Dorado
+1138,#DBA963,Yacimiento de Oro - 20YY 46/425,Soft Dorado
+1139,#C49F80,Azúcar Rubia - 94YR 40/219,Soft Dorado
+1140,#E5AA53,Oro del Cairo - 20YY 46/515,Soft Dorado
+1141,#C5A479,Hongo Aterciopelado - 20YY 41/264,Soft Dorado
+1142,#D7A762,Caramelo Crocante - 21YY 45/405,Soft Dorado
+1143,#BD9F7B,Fendi - 20YY 38/225,Soft Dorado
+1144,#C89E67,Brandy de Coñac - 20YY 40/337,Soft Dorado
+1145,#BA9A77,Caramelo Cremoso - 11YY 37/219,Soft Dorado
+1146,#D89E55,Brillo de Jengibre - 10YY 42/460,Soft Dorado
+1147,#BF9B6E,Suelo Luminoso - 15YY 37/276,Soft Dorado
+1148,#C39E67,Licor de Nuez - 24YY 39/319,Soft Dorado
+1149,#C59967,Fantasía de Arce - 10YY 38/316,Soft Dorado
+1150,#D9974C,Gamuza Color Miel - 04YY 39/480,Soft Dorado
+1151,#C49B5D,Tesoro Descubierto - 30YY 38/370,Soft Dorado
+1152,#CA9A51,Suave Heno - 22YY 38/423,Soft Dorado
+1153,#C19659,Oro Monárquico - 20YY 36/370,Soft Dorado
+1154,#C19659,Oro Monárquico,Soft Dorado
+1155,#DD9C2C,Brocado Rico - 20YY 40/608,Soft Dorado
+1156,#C79448,Oro Casino - 20YY 35/456,Soft Dorado
+1157,#D19038,Licor de Damasco - 10YY 35/543,Soft Dorado
+1158,#CA972F,Brasa Dorada * - 30YY 36/572,Soft Dorado
+1159,#A48561,Aroma a Chocolate - 12YY 28/226,Soft Dorado
+1160,#A28662,Colina del Faro - 20YY 27/225,Soft Dorado
+1161,#C38D38,Tesoro Escondido - 20YY 32/494,Soft Dorado
+1162,#B5804C,Sendero de la Costa - 00YY 28/352,Soft Dorado
+1163,#AA7E54,Osito de Peluche - 98YR 26/291,Soft Dorado
+1164,#C88A28,Cosecha Dorada - 20YY 28/613,Soft Dorado
+1165,#AB804F,Almacén del Interior - 10YY 26/321,Soft Dorado
+1166,#C89319,Distrito Majestuoso * - 30YY 33/613,Soft Dorado
+1167,#C88626,Hoja de Cobre - 10YY 30/560,Soft Dorado
+1168,#AC833F,Oliva Osado - 24YY 28/384,Soft Dorado
+1169,#C27B2E,Durazno Frágil - 00YY 26/520,Soft Dorado
+1170,#987B54,Madera Curtida - 20YY 23/246,Soft Dorado
+1171,#AF8136,Tono Ganador - 20YY 27/426,Soft Dorado
+1172,#9C7851,Yute Dorado - 10YY 23/261,Soft Dorado
+1173,#B5812E,Mostaza en Grano - 20YY 26/490,Soft Dorado
+1174,#B37F28,Henna - 20YY 23/525,Soft Dorado
+1175,#C07722,Cobre Californiano - 00YY 23/557,Soft Dorado
+1176,#B2792C,Mostaza Picante * - 10YY 24/467,Soft Dorado
+1177,#B0752D,Azteca - 10YY 21/500,Soft Dorado
+1178,#AF7026,Bazar Dorado - 99YR 23/456,Soft Dorado
+1179,#9E782E,Bronce Antiguo - 30YY 21/438,Soft Dorado
+1180,#A96B2B,Marrón Indiano - 00YY 19/464,Soft Dorado
+1181,#A96B2B,Capuccino Helado - 00YY 19/464,Soft Dorado
+1182,#896A46,Licor de Coñac - 09YY 18/226,Soft Dorado
+1183,#986735,Ocre Profundo - 00YY 18/346,Soft Dorado
+1184,#9C6F27,Tren del Desierto - 20YY 19/438,Soft Dorado
+1185,#826544,Leña - 10YY 16/217,Soft Dorado
+1186,#956133,Caramelo - 00YY 15/371,Soft Dorado
+1187,#825E39,Safari Sombrío - 10YY 12/300,Soft Dorado
+1188,#825E39,Expedición Africana - 10YY 12/300,Soft Dorado
+1189,#7F5832,Cigarro Cubano - 00YY 12/279,Soft Dorado
+1190,#EBD0A4,Marfil Seda Esm Std,Amarillo Popular
+1191,#DDBB88,Marfil Albalux,Amarillo Popular
+1192,#F9C13B,Amarillo Latino,Amarillo Popular
+1193,#F8EFD8,Fantasía Lunar - 53YY 88/112,Amarillo
+1194,#F3EEDC,Playa Blanca - 71YY 87/078,Amarillo
+1195,#F5EFD7,Seda Matinal - 66YY 88/114,Amarillo
+1196,#F7EED4,Estrella del Norte - 67YY 89/124,Amarillo
+1197,#F7ECD5,Luna de Miel - 52YY 89/117,Amarillo
+1198,#F4ECD6,Crema Chic - 56YY 85/109,Amarillo
+1199,#F6EDD1,Paisaje Lunar - 61YY 89/135,Amarillo
+1200,#F8EECC,Luz de Velas - 67YY 87/169,Amarillo
+1201,#F5EDCF,Pera Primaveral - 75YY 87/137,Amarillo
+1202,#EFEAD6,Litoral Marítimo - 65YY 84/081,Amarillo
+1203,#F6ECCC,Blanco Exaltación - 61YY 86/159,Amarillo
+1204,#F3E8D0,Flor de Algodón - 35YY 86/117,Amarillo
+1205,#F7E6CA,Dulce de Coco - 40YY 83/150,Amarillo
+1206,#F2E7CC,Sensación Cremosa - 53YY 82/133,Amarillo
+1207,#EEE6D1,Sala Blanca - 60YY 83/094,Amarillo
+1208,#F1E7CD,Blanco Limón - 60YY 83/125,Amarillo
+1209,#F7E9C5,Amarillo Suave - 58YY 88/180,Amarillo
+1210,#F4EAC6,Fin de Semana Estival - 64YY 84/180,Amarillo
+1211,#F4E7C8,Mariposa de Verano - 60YY 83/156,Amarillo
+1212,#FBEDBA,Flash Fotográfico - 62YY 86/253,Amarillo
+1213,#F4E9C2,Luz de Linterna - 70YY 83/187,Amarillo
+1214,#F7EBBD,Luna de Agosto - 66YY 85/231,Amarillo
+1215,#F6E5C3,Luz Costera - 50YY 83/171,Amarillo
+1216,#F9E8BC,Jugo de Limón - 52YY 83/223,Amarillo
+1217,#FBE8B8,Limón Hielo - 56YY 86/241,Amarillo
+1218,#F4E6C0,Amarillo Delicado - 60YY 83/187,Amarillo
+1219,#F6E6BB,Amarillo Margarita - 60YY 83/219,Amarillo
+1220,#F6E4BD,Acacia - 50YY 83/200,Amarillo
+1221,#FCE5B4,Mousse de Maracuyá - 45YY 83/250,Amarillo
+1222,#F8E6B5,Limón Pálido - 60YY 83/250,Amarillo
+1223,#F1E4B8,Kiwi Amarillo - 63YY 79/219,Amarillo
+1224,#FBE5AD,Sol Celestial - 54YY 85/291,Amarillo
+1225,#F4E0B8,Noche Agradable - 50YY 79/208,Amarillo
+1226,#F8E1B2,Linaza - 50YY 80/242,Amarillo
+1227,#F0E2B7,Almendra Blanca - 60YY 78/216,Amarillo
+1228,#F7EAA5,Sensación Matinal - 68YY 83/339,Amarillo
+1229,#F3DCB4,Orión - 40YY 75/216,Amarillo
+1230,#FCE99C,Luz Astral - 62YY 83/382,Amarillo
+1231,#F6E2A9,Amarillo Refinado - 60YY 80/288,Amarillo
+1232,#FEE39F,Corriente Estival - 48YY 80/346,Amarillo
+1233,#FDE39F,Cidro Helado - 53YY 83/348,Amarillo
+1234,#F6DDA6,Cremoso - 50YY 77/285,Amarillo
+1235,#FFDF96,Margaritas Montañosas - 45YY 79/376,Amarillo
+1236,#F3DE9C,Crucero del Sur - 60YY 77/332,Amarillo
+1237,#F7DF96,Brisa de Primavera - 60YY 79/367,Amarillo
+1238,#F7DA99,Batido de Limón - 43YY 74/339,Amarillo
+1239,#FFDC8C,Soleado - 45YY 77/424,Amarillo
+1240,#FEE089,Inyección de Sol - 51YY 78/444,Amarillo
+1241,#FFE087,Amarillo Arco Iris Claro - 50YY 80/455,Amarillo
+1242,#FAD98E,Amarillo Neón - 45YY 74/383,Amarillo
+1243,#F4D497,Junquillo Amarillo - 40YY 71/335,Amarillo
+1244,#F3D68E,Bálsamo Amarillo - 50YY 71/369,Amarillo
+1245,#FFDD78,Brindar - 48YY 77/529,Amarillo
+1246,#ECDB8B,Toque de Manzana - 65YY 72/399,Amarillo
+1247,#EFD886,Amarillo Vibrante - 60YY 71/409,Amarillo
+1248,#F4D088,Amarillo Peruano - 40YY 68/381,Amarillo
+1249,#F2D486,Mousse de Limón - 49YY 69/406,Amarillo
+1250,#FFD571,Rosa Amarilla - 45YY 73/519,Amarillo
+1251,#FCE462,Sabor Limón - 62YY 78/618,Amarillo
+1252,#F3D975,Amarillo Optimista - 60YY 73/497,Amarillo
+1253,#FFD967,Estallido Estelar - 48YY 73/573,Amarillo
+1254,#FED56A,Deleite Estelar - 43YY 71/540,Amarillo
+1255,#F5CB7B,Crema de Manzana - 40YY 65/427,Amarillo
+1256,#FFD562,Yema de Huevo - 46YY 74/602,Amarillo
+1257,#EFD077,Campana - 50YY 65/454,Amarillo
+1258,#FED362,Mancha Solar - 45YY 71/567,Amarillo
+1259,#F6CF6C,Amarillo Esencial - 45YY 66/512,Amarillo
+1260,#F8CD6A,Tulipán de Mayo - 43YY 69/543,Amarillo
+1261,#ECCE6C,Amarillo Rico * - 60YY 66/487,Amarillo
+1262,#FFCF57,Amarillo Imprenta - 45YY 69/614,Amarillo
+1263,#FDD84F,Amarillo Arco Iris Vivo - 52YY 72/661,Amarillo
+1264,#EEC76E,Ananá Maduro - 40YY 63/473,Amarillo
+1265,#F3D15B,Amarillo Fantasía - 60YY 69/583,Amarillo
+1266,#FFD04A,Botón de Oro - 40YY 69/666,Amarillo
+1267,#FFCB4D,Banana Madura - 39YY 66/628,Amarillo
+1268,#FFD145,Amarillo Real * - 45YY 71/664,Amarillo
+1269,#EFC25F,Baño de Sol - 40YY 60/519,Amarillo
+1270,#FCCD46,Sol Matinal - 45YY 67/662,Amarillo
+1271,#FBC94A,Tesoro Arqueológico - 39YY 68/634,Amarillo
+1272,#EBC65D,Artilugio - 50YY 60/538,Amarillo
+1273,#EECF50,Carambola - 60YY 67/626,Amarillo
+1274,#FFCE38,Sol Brillante * - 41YY 69/742,Amarillo
+1275,#FBCB3B,Limón Ardiente * - 43YY 65/687,Amarillo
+1276,#EECD40,Periquito - 60YY 65/669,Amarillo
+1277,#FACA35,Amarillo Festival - 45YY 65/710,Amarillo
+1278,#EBBD51,Verde Sueco - 40YY 58/565,Amarillo
+1279,#F8D02E,Limón Verde * - 54YY 69/747,Amarillo
+1280,#F9C13B,Sublime Luz Solar * - 34YY 61/672,Amarillo
+1281,#D9C15B,Explosión Cítrica - 60YY 55/504,Amarillo
+1282,#DFCD45,Futurista - 66YY 61/648,Amarillo
+1283,#F7C631,Pimienta Cítrica * - 42YY 64/745,Amarillo
+1284,#E2C347,Filete Dorado - 60YY 59/604,Amarillo
+1285,#FACA22,Amarillo Cítrico - 45YY 64/787,Amarillo
+1286,#DEB349,Curry Dorado - 40YY 49/546,Amarillo
+1287,#ECC722,Sol de Primavera * - 60YY 62/755,Amarillo
+1288,#DDB338,Semilla de Mostaza - 45YY 49/610,Amarillo
+1289,#E2AC39,Rescate del Rey - 30YY 46/608,Amarillo
+1290,#FFC700,Estrella Ardiente * - 40YY 64/903,Amarillo
+1291,#FFC600,Capa de Lluvia * - 39YY 66/813,Amarillo
+1292,#FFC100,Sol Espléndido * - 37YY 61/877,Amarillo
+1293,#FFC100,Amarillo Omega * - 37YY 61/867,Amarillo
+1294,#E7B523,Juego de Abejorros * - 39YY 52/691,Amarillo
+1295,#E0BA25,Estallido de Azufre * - 50YY 53/687,Amarillo
+1296,#F7C500,Curry * - 45YY 62/805,Amarillo
+1297,#DAA937,Tiara - 40YY 46/587,Amarillo
+1298,#EFC900,Césped Mostaza * - 51YY 61/792,Amarillo
+1299,#D0BB2A,Bambú de Bali - 70YY 51/669,Amarillo
+1300,#CBB132,Twist & Shout * - 60YY 47/608,Amarillo
+1301,#CBB132,Kiwi Amarillento - 60YY 47/608,Amarillo
+1302,#D5BF19,Banana Verde * - 63YY 53/710,Amarillo
+1303,#E5B600,Verde Dorado * - 45YY 51/758,Amarillo
+1304,#CEA127,Oro Bizantino - 40YY 41/603,Amarillo
+1305,#D9B500,Drama Rústico * - 60YY 48/748,Amarillo
+1306,#C4A91B,Capín * - 60YY 39/654,Amarillo
+1307,#C99C1D,Mañana en el Bosque - 37YY 38/594,Amarillo
+1308,#DBA000,Azafrán Indio * - 30YY 41/700,Amarillo
+1309,#CA9D08,Encaje Portugués * - 40YY 38/643,Amarillo
+1310,#EEE9D8,Vapor - 70YY 83/075,Soft Amarillo
+1311,#ECE9D9,Blanco Inocente - 67YY 82/072,Soft Amarillo
+1312,#F0E9D2,Halo - 70YY 83/112,Soft Amarillo
+1313,#F8E8C9,Perla Cultivada - 45YY 83/156,Soft Amarillo
+1314,#EBE4CC,Blanco Maíz - 65YY 79/118,Soft Amarillo
+1315,#F1E0C6,Crema de Limón - 40YY 78/140,Soft Amarillo
+1316,#E8E1CB,Mañana Urbana - 61YY 76/109,Soft Amarillo
+1317,#F0E1BF,Crema de Boston - 50YY 77/173,Soft Amarillo
+1318,#EEDEC1,Papiro - 45YY 76/146,Soft Amarillo
+1319,#E6DEC8,Beige Campestre - 60YY 75/108,Soft Amarillo
+1320,#F1DFBC,Blanco Milhojas - 45YY 77/183,Soft Amarillo
+1321,#E9DDC4,Luz Relajante - 49YY 75/130,Soft Amarillo
+1322,#E6DCC6,Pétalo de Almendro - 50YY 75/104,Soft Amarillo
+1323,#E8DEC0,Toque de Primavera - 60YY 76/144,Soft Amarillo
+1324,#EDDAB9,Crema Musical - 39YY 74/175,Soft Amarillo
+1325,#E4DABF,Blanco Lana - 57YY 72/138,Soft Amarillo
+1326,#EAD9BA,Orégano de Campo - 40YY 72/164,Soft Amarillo
+1327,#E6D7BD,Pergamino - 40YY 70/138,Soft Amarillo
+1328,#F2DCAA,Amarillo de Mayo - 50YY 75/254,Soft Amarillo
+1329,#E6D9B7,Sensación de Duna - 54YY 71/171,Soft Amarillo
+1330,#E3D5BB,Desierto Deslumbrante - 44YY 69/140,Soft Amarillo
+1331,#EED8AC,Magnolia Primaveral - 45YY 72/230,Soft Amarillo
+1332,#D9D1B9,Valle Nublado - 60YY 67/117,Soft Amarillo
+1333,#E4D0AB,Costa Soleada - 40YY 67/196,Soft Amarillo
+1334,#DECCAE,Costa de Marfil - 40YY 64/165,Soft Amarillo
+1335,#E7CF9E,Sahara Occidental - 45YY 67/259,Soft Amarillo
+1336,#E7CC9B,Granero Amarillo - 40YY 65/263,Soft Amarillo
+1337,#E2CD9E,Verde Italiano - 45YY 63/251,Soft Amarillo
+1338,#DBCAA4,Efecto Pardo - 46YY 61/201,Soft Amarillo
+1339,#E8CC8D,Soneto Portugués - 45YY 65/334,Soft Amarillo
+1340,#E2CB8F,Verde Matinal - 50YY 62/309,Soft Amarillo
+1341,#DBC399,Luz Oriental - 36YY 59/230,Soft Amarillo
+1342,#E6C780,Amarillo Victoriano - 45YY 61/368,Soft Amarillo
+1343,#D6C387,Kiwi Dorado - 60YY 57/304,Soft Amarillo
+1344,#D1BB93,Feriado Romano - 40YY 53/218,Soft Amarillo
+1345,#D1BE8E,Verde Toscana - 49YY 54/251,Soft Amarillo
+1346,#D6BB82,Verde Mañana - 41YY 53/306,Soft Amarillo
+1347,#CDB288,Arroz Dorado - 30YY 47/236,Soft Amarillo
+1348,#D4B773,Verde Escocés - 45YY 51/365,Soft Amarillo
+1349,#D4B773,Verde Escocés,Soft Amarillo
+1350,#D4B773,Verde Escocés,Soft Amarillo
+1351,#CFAD78,Miel Silvestre - 30YY 46/304,Soft Amarillo
+1352,#D7B468,Triple Corona - 40YY 49/408,Soft Amarillo
+1353,#DAB955,Brote de Caña - 50YY 51/519,Soft Amarillo
+1354,#DAB955,Brote de Caña,Soft Amarillo
+1355,#C4AE73,Pera Deliciosa - 49YY 46/310,Soft Amarillo
+1356,#BBA17B,Pimienta del Reino - 30YY 39/225,Soft Amarillo
+1357,#B6A379,Fango Mostaza - 47YY 40/227,Soft Amarillo
+1358,#B4986D,Caqui Dorado - 30YY 35/249,Soft Amarillo
+1359,#C6A747,Corona Dorada - 50YY 42/490,Soft Amarillo
+1360,#C39E4B,Aceite de Mostaza - 37YY 39/443,Soft Amarillo
+1361,#BC9E36,Fuente Frutal - 50YY 37/519,Soft Amarillo
+1362,#B89441,Guirnalda Dorada - 40YY 34/446,Soft Amarillo
+1363,#9F8662,Musgo Caqui - 30YY 27/226,Soft Amarillo
+1364,#938564,Orilla del Lago Verde - 49YY 26/180,Soft Amarillo
+1365,#918762,Palta - 70YY 25/200,Soft Amarillo
+1366,#B68D2C,Fantasía Oliva - 34YY 31/502,Soft Amarillo
+1367,#968550,Alga Verde - 53YY 26/275,Soft Amarillo
+1368,#967D54,Campo Polvoriento - 30YY 23/246,Soft Amarillo
+1369,#937B3C,Oliva Deliciosa - 44YY 23/330,Soft Amarillo
+1370,#665936,Verde Tapenade - 48YY 12/177,Soft Amarillo
+1371,#656149,Verde Musgo Duralba,Lima Popular
+1372,#F3F2DA,Toque de Helechos - 85YY 89/109,Lima
+1373,#ECF1E2,Toque Eggshell - 21GY 88/066,Lima
+1374,#EEEDD5,Toque de Bosque - 87YY 85/110,Lima
+1375,#F2EDD1,Blanco Pino - 84YY 87/135,Lima
+1376,#EAF0D3,Verde Langosta Suave - 10GY 86/138,Lima
+1377,#E6EADD,Luz de la Floresta - 30GY 83/064,Lima
+1378,#F1EFCC,Menta Fresca - 85YY 86/166,Lima
+1379,#EFEBD1,Crema Sedosa - 79YY 84/126,Lima
+1380,#EDE9D3,Blanco Yuca - 90YY 83/107,Lima
+1381,#EDECCD,Florecer Primaveral - 90YY 83/143,Lima
+1382,#EDECCD,Follaje de Primavera - 90YY 83/143,Lima
+1383,#F0EBC7,Adobo Limón - 86YY 85/174,Lima
+1384,#E8EAD0,Paraíso - 99YY 82/124,Lima
+1385,#E7E9CF,Amanecer del Campo - 10GY 83/125,Lima
+1386,#E6EACB,Bruma de la Pradera - 10GY 83/150,Lima
+1387,#EDE9C5,Deshielo Primaveral - 90YY 83/179,Lima
+1388,#F7EAB3,Jalea de Hierbabuena - 66YY 83/272,Lima
+1389,#EAE7C1,Toque de Cardamomo - 83YY 80/186,Lima
+1390,#EAEBBA,Nuevo Rocío - 91YY 82/235,Lima
+1391,#EBE9BA,Lima Suave - 88YY 81/230,Lima
+1392,#F7E9AD,Mañana de Verano - 70YY 83/300,Lima
+1393,#DFEBC1,Praderas Brumosas - 17GY 81/205,Lima
+1394,#EEE1B0,Amarillo Junco - 70YY 78/248,Lima
+1395,#DFE6B7,Floresta del Norte - 10GY 79/231,Lima
+1396,#E8E5AE,Toque de Limón - 89YY 78/269,Lima
+1397,#DEECAA,Jardín Paradisíaco - 09GY 80/324,Lima
+1398,#E8E3A8,Césped Limón - 86YY 77/295,Lima
+1399,#E6E7A3,Florecer de Septiembre - 90YY 78/334,Lima
+1400,#EDDDA2,Brillo de Vela - 70YY 73/288,Lima
+1401,#F4E392,Flor Campestre - 66YY 77/407,Lima
+1402,#F4E291,Luz Vaga - 70YY 79/407,Lima
+1403,#F4E291,Limón Siciliano - 70YY 79/407,Lima
+1404,#E8E38C,Césped Soleado - 80YY 75/423,Lima
+1405,#D6E0A0,Windsurf - 10GY 74/325,Lima
+1406,#E0DD90,Verde Griego - 88YY 71/380,Lima
+1407,#E4E184,Lechuga Romana - 82YY 74/446,Lima
+1408,#DDDA87,Primavera - 90YY 69/419,Lima
+1409,#D7DC88,Creación Primaveral - 92YY 69/401,Lima
+1410,#ECD96A,Mordida de Cobra - 65YY 70/540,Lima
+1411,#ECD96A,Mordida de Cobra,Lima
+1412,#D8D87C,Uva Verde - 88YY 66/447,Lima
+1413,#E8D36D,Condimentado - 70YY 66/510,Lima
+1414,#ECD461,Foco de Luz - 65YY 68/572,Lima
+1415,#D2D36F,Vértigo - 89YY 62/494,Lima
+1416,#D9C869,Relleno de Torta - 70YY 59/485,Lima
+1417,#C9CC75,Luz Oxídrica - 90YY 58/424,Lima
+1418,#CED06A,Verde Neón - 90YY 61/504,Lima
+1419,#BDD176,Toque de Kiwi - 10GY 61/449,Lima
+1420,#DFCB5A,Aceite de Oliva - 70YY 61/561,Lima
+1421,#C5CF5A,Jugo de Melón - 92YY 59/547,Lima
+1422,#CCC45A,Jardín de Fantasía - 75YY 55/509,Lima
+1423,#C7CA56,Lima Fresca - 90YY 55/560,Lima
+1424,#CEBE53,Fruta Cítrica - 70YY 52/532,Lima
+1425,#D4C346,Frescor - 70YY 55/613,Lima
+1426,#B9BB58,Manzana Inglesa - 90YY 48/500,Lima
+1427,#CFBF3B,Verde Cítrico * - 70YY 53/638,Lima
+1428,#D8C52B,Luz de Neón - 66YY 56/707,Lima
+1429,#BAC348,Tallo de Apio - 92YY 51/593,Lima
+1430,#B9C546,Lima Exuberante - 93YY 52/598,Lima
+1431,#C6C13B,Gelatina de Lima * - 77YY 52/604,Lima
+1432,#CCBC37,Pasto de Verano * - 67YY 51/608,Lima
+1433,#A2CA48,Campo de Golf - 16GY 54/615,Lima
+1434,#B9BE35,Manzana Verde - 90YY 48/650,Lima
+1435,#CBBA1F,Verde Extremo * - 70YY 48/700,Lima
+1436,#AEBB39,Verde Pastel - 94YY 46/629,Lima
+1437,#AFBB34,Locura de Mojito * - 92YY 46/608,Lima
+1438,#BCB928,Plumaje de Loro * - 77YY 47/629,Lima
+1439,#C3B623,Pimienta Picante * - 72YY 47/743,Lima
+1440,#B3A236,Edén Vigoroso - 64YY 38/505,Lima
+1441,#98B33E,Campos Irlandeses - 10GY 41/600,Lima
+1442,#A4A93A,Césped de Tenis - 88YY 38/530,Lima
+1443,#B5A728,Verde Tecno - 70YY 39/613,Lima
+1444,#86AD3D,Lima Adorable - 20GY 37/537,Lima
+1445,#A2AF1D,Alma de la Naturaleza * - 91YY 40/628,Lima
+1446,#A0A824,Limón Gallego * - 89YY 38/628,Lima
+1447,#8CA23B,Oruga * - 10GY 33/525,Lima
+1448,#ACA90C,Zucchini Sabroso * - 76YY 39/616,Lima
+1449,#9A8B30,Sensación de Palmeras - 65YY 27/444,Lima
+1450,#908B2C,Dique de Nutrias - 76YY 27/439,Lima
+1451,#749639,Bruja Malvada - 21GY 28/472,Lima
+1452,#888C29,Salto de Duende - 87YY 26/456,Lima
+1453,#7D8234,Arboleda Sagrada - 91YY 23/374,Lima
+1454,#F6F1DE,Luna Resplandeciente - 65YY 89/088,Soft Lima
+1455,#F0F0E0,Sensación Eggshell - 91YY 88/072,Soft Lima
+1456,#ECEBDC,Luz Misteriosa - 83YY 85/056,Soft Lima
+1457,#ECEADA,Blanco Brillante - 90YY 83/071,Soft Lima
+1458,#E8E9DC,Niebla de Montaña - 10GY 83/050,Soft Lima
+1459,#E8EBDA,Cidrera Suave - 10GY 83/075,Soft Lima
+1460,#E9EAD7,Sauce Llorón - 97YY 83/090,Soft Lima
+1461,#EBE8D6,Día Bendito - 77YY 83/073,Soft Lima
+1462,#F2E8C9,Luna de Diciembre - 70YY 83/150,Soft Lima
+1463,#E7E7D1,Agua de Manantial - 10GY 83/100,Soft Lima
+1464,#E2E3D2,Langosta - 99YY 77/080,Soft Lima
+1465,#E4E1C7,Manto Blanco - 90YY 75/120,Soft Lima
+1466,#E6DEC4,Chardonnay - 70YY 75/124,Soft Lima
+1467,#DCDECD,Perfume de Pino - 10GY 74/087,Soft Lima
+1468,#ECDFBB,Marfil Matutino - 60YY 77/180,Soft Lima
+1469,#ECE1B6,Inspiración Verdadera - 70YY 77/207,Soft Lima
+1470,#DEDCC1,Fantasía Caqui - 83YY 72/129,Soft Lima
+1471,#D9DCB8,Capín Limón - 10GY 71/180,Soft Lima
+1472,#E8D8AC,Escarcha Dorada - 60YY 72/225,Soft Lima
+1473,#E1DBAE,Vida de Campo - 90YY 72/225,Soft Lima
+1474,#E2D8AE,Meditación Moderna - 70YY 70/209,Soft Lima
+1475,#D7D4BB,Gotas de Mar - 90YY 67/117,Soft Lima
+1476,#D9D2B8,Hábitat - 70YY 66/130,Soft Lima
+1477,#D5D6B5,Pera Jugosa - 94YY 67/164,Soft Lima
+1478,#E0D19E,Sueño Primaveral - 60YY 67/251,Soft Lima
+1479,#DED29C,Sauce Joven - 70YY 66/265,Soft Lima
+1480,#D0C9AC,Rana Silenciosa - 70YY 59/140,Soft Lima
+1481,#DCCE8D,Madera de Sauce - 70YY 63/326,Soft Lima
+1482,#D0CD98,Paquete de Repollo - 90YY 62/264,Soft Lima
+1483,#C1BEA2,Hoja de Mate - 90YY 52/138,Soft Lima
+1484,#CDC387,Liquen Suave - 70YY 55/299,Soft Lima
+1485,#BEC198,Caminata de Montaña - 96YY 53/200,Soft Lima
+1486,#C2C28F,Chucrut - 90YY 54/254,Soft Lima
+1487,#B7C292,Tímido Florecer - 10GY 54/238,Soft Lima
+1488,#C4B591,Silencio de Invierno - 50YY 49/191,Soft Lima
+1489,#C4B591,Silencio de Invierno,Soft Lima
+1490,#B8B192,Tomillo - 70YY 46/160,Soft Lima
+1491,#BBB786,Planicie del Serengueti - 90YY 48/255,Soft Lima
+1492,#C9B96D,Shakespeare - 70YY 50/383,Soft Lima
+1493,#C3AF64,Pistacho Suave - 60YY 45/382,Soft Lima
+1494,#9DA18F,Monzones - 10GY 36/096,Soft Lima
+1495,#A3AC74,Jaspe Precioso - 10GY 40/296,Soft Lima
+1496,#A29F7F,Pinos del Pacífico - 90YY 35/169,Soft Lima
+1497,#AEA26B,Hoja de Olivo - 70YY 37/296,Soft Lima
+1498,#A49B7A,Hoja de Alcaucil - 70YY 34/180,Soft Lima
+1499,#A49B7A,Hoja de Alcaucil,Soft Lima
+1500,#A4A967,Sensación de Pinos - 95YY 39/329,Soft Lima
+1501,#AFA159,Verde Lima - 70YY 37/366,Soft Lima
+1502,#929480,Eucalipto - 10GY 30/104,Soft Lima
+1503,#B7A44B,Verde Soja - 61YY 39/443,Soft Lima
+1504,#A09E64,Tallo de Rosa - 90YY 35/304,Soft Lima
+1505,#B0993F,Prímula Cromo - 60YY 34/461,Soft Lima
+1506,#8D8964,Verde Salón - 79YY 27/188,Soft Lima
+1507,#978953,Ensalada de Palta - 62YY 27/282,Soft Lima
+1508,#8A8B54,Verde Vertiginoso - 87YY 27/274,Soft Lima
+1509,#7A7D67,Araucaria - 10GY 21/119,Soft Lima
+1510,#9F8B33,Verde Cidro - 60YY 28/443,Soft Lima
+1511,#968A3B,Jardín Colgante - 70YY 27/418,Soft Lima
+1512,#817D59,Bosque Encantado - 90YY 22/200,Soft Lima
+1513,#8D9138,Bonsai * - 90YY 29/464,Soft Lima
+1514,#7B8746,Corona de Laureles - 10GY 24/356,Soft Lima
+1515,#91832F,Sol Caqui * - 70YY 24/438,Soft Lima
+1516,#867B3D,Musgo Seco - 70YY 21/335,Soft Lima
+1517,#7E7F3A,Adorno - 90YY 21/371,Soft Lima
+1518,#72813A,Verde Calipso - 10GY 21/375,Soft Lima
+1519,#7E7535,Verde Salvaje * - 70YY 18/350,Soft Lima
+1520,#8D7326,Oliva * - 45YY 19/400,Soft Lima
+1521,#787336,Fantástico Follaje - 77YY 19/297,Soft Lima
+1522,#6F6845,Árbol Glamoroso - 68YY 16/179,Soft Lima
+1523,#6C6B3E,Hojas de Otoño - 90YY 15/279,Soft Lima
+1524,#636040,Verde Plantación - 90YY 13/177,Soft Lima
+1525,#646233,Palmera - 77YY 13/238,Soft Lima
+1526,#53594C,Verde Liquen - 30GY 11/076,Soft Lima
+1527,#615B3C,Pino Verde - 70YY 12/167,Soft Lima
+1528,#596138,Orilla de Río - 10GY 12/225,Soft Lima
+1529,#5D5D32,Sensación Camuflaje - 87YY 13/208,Soft Lima
+1530,#465439,Aguas Profundas - 30GY 09/171,Soft Lima
+1531,#ADD085,Verde Hechicero,Verde Popular
+1532,#8AB05B,Verde Exótico,Verde Popular
+1533,#698062,Verde Pizarrones,Verde Popular
+1534,#4C6A5A,Verde Tenis Duralba,Verde Popular
+1535,#4F6852,Verde Guajira Satinol,Verde Popular
+1536,#40584B,Verde Tenis Pisos,Verde Popular
+1537,#1F5135,Verde Inglés Albalux,Verde Popular
+1538,#24492E,Verde Inglés Esm Std,Verde Popular
+1539,#203D30,Verde Noche Albalux,Verde Popular
+1540,#20312A,Verde Noche Esm Std,Verde Popular
+1541,#E3F0DD,Gota de Menta - 56GY 85/095,Verde
+1542,#E9EED7,Rocío Invernal - 24GY 85/110,Verde
+1543,#E3EBDD,Tocador - 50GY 83/060,Verde
+1544,#E3EBDD,Caramelo de Menta - 50GY 83/060,Verde
+1545,#D9EDE3,Cielo Acuariano - 30GG 83/088,Verde
+1546,#E0ECDD,Toque de Hierbabuena - 70GY 83/080,Verde
+1547,#E1EDDA,Dulce Exito - 50GY 83/090,Verde
+1548,#E5EBD5,Búzios - 30GY 83/107,Verde
+1549,#DEEDD9,Pináculo - 70GY 83/100,Verde
+1550,#D8EFDC,Helada Tropical - 90GY 83/104,Verde
+1551,#DAEDDC,Verde Camafeo - 90GY 83/098,Verde
+1552,#E3ECCE,Lago Espejado - 30GY 83/150,Verde
+1553,#DDEED2,Toque de Pistacho - 45GY 83/149,Verde
+1554,#DAEED5,Brisa Oceánica - 70GY 83/140,Verde
+1555,#D2EBDE,Verde Brisa - 30GG 83/100,Verde
+1556,#D2EDDB,Menta Suave - 10GG 83/125,Verde
+1557,#DBEDCF,Té de Cidrera - 50GY 83/160,Verde
+1558,#D6E8C6,Fresca Experiencia - 39GY 77/179,Verde
+1559,#D5E5CA,Orgánico - 50GY 76/146,Verde
+1560,#C7E8D4,Verde Acuático - 10GG 76/153,Verde
+1561,#D5E2CB,Bruma Natural - 50GY 75/122,Verde
+1562,#C4E6D7,Verde Casual - 30GG 76/127,Verde
+1563,#C4E3D6,Canción de Lluvia - 30GG 75/111,Verde
+1564,#C8E6CE,Gorro del Elfo - 90GY 76/158,Verde
+1565,#D2E7C3,Mate - 50GY 77/195,Verde
+1566,#CCE3C9,Brillo Marino - 70GY 74/149,Verde
+1567,#C8E3C6,Tierra de los Lagos - 70GY 74/173,Verde
+1568,#D4E6B6,Trufa de Hierbabuena - 30GY 75/251,Verde
+1569,#D2E0BB,Cristal de Venecia - 30GY 72/196,Verde
+1570,#CADCBE,Aroma del Mar - 50GY 69/165,Verde
+1571,#C7E6B7,Arboleda - 50GY 74/273,Verde
+1572,#B4E5CA,Verde Villorrio - 10GG 72/219,Verde
+1573,#C6DEBB,Gramínea - 50GY 70/192,Verde
+1574,#ACE3CD,Frescor Marítimo - 30GG 72/212,Verde
+1575,#BEDAC4,Verde Victoria - 90GY 67/146,Verde
+1576,#B7E2C3,Verde Gracioso - 90GY 70/221,Verde
+1577,#BAE0BD,Hierbabuena Dulce - 76GY 69/215,Verde
+1578,#C1E1B2,Flauta de Bambú - 50GY 70/259,Verde
+1579,#BDD7BB,Crema de Palta - 70GY 65/166,Verde
+1580,#BAD9B8,Verde Francia - 70GY 66/200,Verde
+1581,#BDE0A9,Jardinera - 50GY 69/306,Verde
+1582,#ABD5C5,Brote de Hierbabuena - 30GG 61/168,Verde
+1583,#C5DE9E,Sensación de Menta - 26GY 68/322,Verde
+1584,#A6DEB7,Crema de Menta - 90GY 65/275,Verde
+1585,#B2D0B8,Aruba - 90GY 60/164,Verde
+1586,#ABDDAC,Brote de Primavera - 71GY 65/301,Verde
+1587,#BFD1A3,Verde Arponero - 30GY 61/245,Verde
+1588,#B3CAA6,Té Verde - 50GY 55/207,Verde
+1589,#B9D594,Fiesta Primaveral - 30GY 62/344,Verde
+1590,#A7D1A7,Verde Fresco - 70GY 58/259,Verde
+1591,#95CFBA,Carrusel - 30GG 57/217,Verde
+1592,#97D5B1,Sabor a Jardín - 01GG 59/285,Verde
+1593,#A5CEA7,Sensación Jade - 73GY 56/241,Verde
+1594,#A1D3A2,Hoja de Trébol - 71GY 59/307,Verde
+1595,#8AD3AF,Isla Marítima - 10GG 57/307,Verde
+1596,#B2CF89,Margarita - 30GY 58/375,Verde
+1597,#80D2B6,Verde Bermudas - 30GG 55/302,Verde
+1598,#A1C09F,Quarzo Verde - 70GY 49/201,Verde
+1599,#9DC49C,Arbusto - 70GY 50/242,Verde
+1600,#A5C295,Coco Verde - 50GY 52/263,Verde
+1601,#8BC2AE,Verde Costero - 30GG 49/211,Verde
+1602,#8BCEA0,Hierbabuena Rugosa - 90GY 54/334,Verde
+1603,#93C1A1,Castillo de Duendes - 90GY 48/234,Verde
+1604,#AAC089,Verde Colina - 30GY 51/294,Verde
+1605,#83C7A5,Delicia Tailandesa - 10GG 49/300,Verde
+1606,#97CD87,Licor de Pistacho - 54GY 54/405,Verde
+1607,#70CBAD,Bahía de Tampa - 30GG 50/332,Verde
+1608,#A1C777,Dulce Hoja - 32GY 51/432,Verde
+1609,#9BB68C,Picnic de Verano - 50GY 44/248,Verde
+1610,#93C87B,Flores Silvestres - 50GY 51/437,Verde
+1611,#80C194,Verde Molino - 90GY 47/328,Verde
+1612,#AFC657,Hoja de Palmera - 10GY 52/541,Verde
+1613,#83C385,Bosque Griego - 69GY 47/391,Verde
+1614,#95C268,Hierba Primaveral - 33GY 46/469,Verde
+1615,#72BA8A,Verde Extravagante - 90GY 42/355,Verde
+1616,#65B59A,Folclore - 30GG 40/290,Verde
+1617,#5FC094,Hierbabuena - 10GG 44/395,Verde
+1618,#7EB17E,Verde Angra - 70GY 38/330,Verde
+1619,#63B990,Fauna de Primavera - 10GG 40/352,Verde
+1620,#7AA888,Verano Espacial - 90GY 35/238,Verde
+1621,#95A969,Huerta Serena - 18GY 38/328,Verde
+1622,#87AC72,Chalet de Hiedras - 50GY 37/335,Verde
+1623,#8DAA65,Herbal - 30GY 38/368,Verde
+1624,#72B671,Fiesta del Jardín - 67GY 40/437,Verde
+1625,#5DA78F,Floresta del Sur - 30GG 33/275,Verde
+1626,#8EAF54,Prados - 20GY 39/466,Verde
+1627,#83B455,Verde Jardín - 34GY 40/515,Verde
+1628,#86B34F,Verde Sintético - 30GY 40/531,Verde
+1629,#779B74,Frescor de Otoño - 70GY 30/254,Verde
+1630,#72A072,Verde Danubio - 70GY 31/304,Verde
+1631,#74B559,Verde Helecho - 50GY 39/536,Verde
+1632,#63AF68,Guirnalda Griega - 70GY 35/455,Verde
+1633,#31B592,Isla Desierta - 30GG 37/423,Verde
+1634,#51B074,Verde Granada - 90GY 36/453,Verde
+1635,#57A972,Montañas de Escocia - 90GY 33/408,Verde
+1636,#41AA7D,Oasis - 10GG 33/404,Verde
+1637,#5B9A70,Primavera Irlandesa - 90GY 28/319,Verde
+1638,#6D9464,Verde Imponente - 57GY 28/292,Verde
+1639,#71A63F,Fantasía de Elfo - 33GY 33/549,Verde
+1640,#46AC5F,Verde Ogro - 77GY 33/506,Verde
+1641,#75AA31,Verde Oruga * - 30GY 34/600,Verde
+1642,#6C895B,Vegetación Lacustre - 50GY 23/280,Verde
+1643,#6C895B,Vegetación Exuberante - 50GY 23/280,Verde
+1644,#1CAD78,Cascadas del Bosque - 10GG 33/483,Verde
+1645,#728C42,Verde Acelga - 21GY 25/379,Verde
+1646,#269D78,Onda Escénica - 21GG 28/387,Verde
+1647,#6D9736,Campos Escoceses - 30GY 27/514,Verde
+1648,#61894E,Guisantes Frescos - 50GY 22/352,Verde
+1649,#5E7E5C,Esmeralda Real - 70GY 19/233,Verde
+1650,#5B8359,Celos - 70GY 20/289,Verde
+1651,#00AD85,Malabar - 30GG 33/453,Verde
+1652,#61933A,Verde Rana - 38GY 26/456,Verde
+1653,#2F955F,Verde Calle - 95GY 24/449,Verde
+1654,#648637,Verde Hortaliza - 30GY 21/429,Verde
+1655,#569532,Verde Irlandés * - 43GY 24/566,Verde
+1656,#52774D,Suave Diva - 62GY 18/260,Verde
+1657,#518439,Hoja de Banano - 46GY 21/423,Verde
+1658,#527143,Explosión Solar - 50GY 15/289,Verde
+1659,#238E52,Casa del Árbol - 90GY 21/472,Verde
+1660,#517933,Menta Matinal - 40GY 18/372,Verde
+1661,#2E8F3D,Isla Esmeralda - 70GY 22/546,Verde
+1662,#497839,Verde Gráfico - 50GY 16/383,Verde
+1663,#34794D,Selva Atlántica - 90GY 16/354,Verde
+1664,#008E6B,Turmalina Verde - 30GG 21/423,Verde
+1665,#009461,Isla del Tesoro - 10GG 23/485,Verde
+1666,#328C37,Insensatez * - 70GY 18/576,Verde
+1667,#207856,Esmeralda - 10GG 15/346,Verde
+1668,#368631,Aventura Amazónica * - 59GY 20/482,Verde
+1669,#008763,Camino Verde - 30GG 18/450,Verde
+1670,#008466,Mar de Menta - 30GG 19/370,Verde
+1671,#008C5D,Amazonia - 02GG 21/542,Verde
+1672,#466A39,Cactus Silvestre - 50GY 13/306,Verde
+1673,#3C6E3E,Hoja de la Selva - 70GY 13/324,Verde
+1674,#3A5F42,Lluvia en el Bosque - 80GY 11/195,Verde
+1675,#008356,Gnomo Verde - 06GG 19/406,Verde
+1676,#007C5C,Salvia Victoriana - 30GG 16/394,Verde
+1677,#33643E,Oliva Intenso - 80GY 12/245,Verde
+1678,#1F7042,Manto de Césped - 90GY 13/375,Verde
+1679,#3B6035,Lluvia Tropical - 59GY 12/239,Verde
+1680,#346437,Guirnalda Verde - 70GY 11/300,Verde
+1681,#286640,Jardín Real - 90GY 11/312,Verde
+1682,#23693B,Árbol Alpino - 84GY 13/321,Verde
+1683,#32583D,Canto del Delta - 85GY 10/193,Verde
+1684,#2B5C3D,Verde Paraíso - 90GY 10/250,Verde
+1685,#266A34,Trébol Irlandés - 70GY 11/387,Verde
+1686,#03664F,Floresta Amazónica * - 30GG 11/281,Verde
+1687,#086845,Caudal Verdoso - 06GG 12/304,Verde
+1688,#EDF2E9,Casquete Polar - 45GY 89/039,Soft Verde
+1689,#EAECE2,Rayuela - 23GY 85/031,Soft Verde
+1690,#E5EEE4,Susurro Chino - 80GY 85/051,Soft Verde
+1691,#E5EAE5,Perfume de Eucalipto - 30GG 83/025,Soft Verde
+1692,#E6EAE4,Banco de Nieve - 10GG 83/018,Soft Verde
+1693,#E5EBE4,Reflección - 90GY 83/033,Soft Verde
+1694,#E6E9E3,Pedir un Deseo - 63GY 83/021,Soft Verde
+1695,#E7EAE0,Silencio Matutino - 30GY 83/043,Soft Verde
+1696,#E8EADC,Kiwi Escarchado - 16GY 84/051,Soft Verde
+1697,#E2ECE0,Pino - 70GY 83/060,Soft Verde
+1698,#E3E9E1,Lago Glacial - 90GY 82/028,Soft Verde
+1699,#E5E9DF,Retiro Tranquilo - 50GY 83/040,Soft Verde
+1700,#E6ECDA,Helado de Menta - 30GY 83/086,Soft Verde
+1701,#E9EAD9,Caramelo de Manzana - 94YY 83/072,Soft Verde
+1702,#DDEBDF,Verde Pacífico - 10GG 83/071,Soft Verde
+1703,#E6E7D8,Césped Creciente - 00GY 80/069,Soft Verde
+1704,#DDE3CB,Sutil Camuflaje - 14GY 76/113,Soft Verde
+1705,#DBDDD2,Lluvia China - 30GY 73/053,Soft Verde
+1706,#D8DED4,Marfil Oriental - 50GY 73/049,Soft Verde
+1707,#DBE4CA,Perfume Matutino - 30GY 76/132,Soft Verde
+1708,#D5DED6,Helado de Limón - 90GY 72/040,Soft Verde
+1709,#D7DFD1,Villa Italiana - 50GY 74/073,Soft Verde
+1710,#D0E4D2,Salto de Langosta - 82GY 75/111,Soft Verde
+1711,#D9E1CC,Salvia - 30GY 75/105,Soft Verde
+1712,#CFE2D5,Litoraleño - 10GG 74/087,Soft Verde
+1713,#D4DBD6,Campo Nublado - 30GG 72/032,Soft Verde
+1714,#D1DDD6,Brisa Marina - 30GG 73/048,Soft Verde
+1715,#D2DED4,Verde Galés - 90GY 73/059,Soft Verde
+1716,#D3DECF,Rama de Sauce - 70GY 73/074,Soft Verde
+1717,#C9E1D5,Paraíso Tropical - 30GG 75/095,Soft Verde
+1718,#CFE2CD,Nido Silencioso - 70GY 73/124,Soft Verde
+1719,#CDD8CD,Escena de Almizcle - 77GY 68/066,Soft Verde
+1720,#D2DCBF,Comienzo Primaveral - 22GY 70/140,Soft Verde
+1721,#D0D4C3,Verde Parque - 16GY 66/078,Soft Verde
+1722,#CFD0C2,Bruma Cristalina - 10GY 64/065,Soft Verde
+1723,#C5D4C8,Pino de Noruega - 90GY 64/072,Soft Verde
+1724,#CED4BE,Caqui Pasional - 19GY 65/110,Soft Verde
+1725,#C0D7C8,Verde Espuma de Mar - 10GG 66/098,Soft Verde
+1726,#C9D3C3,Río Támesis - 50GY 65/084,Soft Verde
+1727,#C8D6C1,Verde Popurrí - 50GY 66/111,Soft Verde
+1728,#C8D6C1,Verde Tranquilo - 50GY 66/111,Soft Verde
+1729,#C4D2C0,Laguna de Lirios - 70GY 63/098,Soft Verde
+1730,#C4CFB0,Campos Elíseos - 30GY 62/159,Soft Verde
+1731,#C4CFB0,Suculenta - 30GY 62/159,Soft Verde
+1732,#C6C8B3,Campiñas Inglesas - 10GY 58/105,Soft Verde
+1733,#B3CBC2,Seda Ópalo - 30GG 57/094,Soft Verde
+1734,#A9D0C1,Verde Lana - 30GG 60/143,Soft Verde
+1735,#BCC7B5,Manzanar - 50GY 57/096,Soft Verde
+1736,#B5CAB6,Tinte Botella - 79GY 57/120,Soft Verde
+1737,#AFC3B9,Rubor del Bosque - 15GG 53/086,Soft Verde
+1738,#B9BFA7,Brote de Trébol - 13GY 52/120,Soft Verde
+1739,#A5C1B2,Verde Berilo - 10GG 51/125,Soft Verde
+1740,#A9B7B3,Tarde Isleña - 54GG 47/053,Soft Verde
+1741,#ABB7AD,Pueblo Costero - 90GY 46/061,Soft Verde
+1742,#AFBE9B,Efecto Bambú - 30GY 50/183,Soft Verde
+1743,#A7B9A5,Jardín Secreto - 70GY 46/120,Soft Verde
+1744,#AFBC97,Follaje - 30GY 50/195,Soft Verde
+1745,#8CBCAB,Praderas Tiernas - 30GG 47/180,Soft Verde
+1746,#A5B29C,Verde Reptil - 50GY 43/120,Soft Verde
+1747,#95B3A7,Verde Relajante - 30GG 43/119,Soft Verde
+1748,#A3AD9E,Valle Lunar - 50GY 41/084,Soft Verde
+1749,#9BAF9F,Musgo Brumoso - 90GY 41/101,Soft Verde
+1750,#94ACA0,Eucalipto Claro - 17GG 40/107,Soft Verde
+1751,#A2AE8E,Trébol Pálido - 30GY 41/173,Soft Verde
+1752,#A3A793,Piedra Diáfana - 12GY 39/101,Soft Verde
+1753,#A3A78D,Mousse de Oliva - 10GY 39/136,Soft Verde
+1754,#8CAC9B,Trinidad - 10GG 39/152,Soft Verde
+1755,#91A392,Bosque de Helechos - 79GY 36/106,Soft Verde
+1756,#9AA07D,Bosque Melancólico - 08GY 36/175,Soft Verde
+1757,#919F72,Hoja de Cesped - 30GY 34/249,Soft Verde
+1758,#7E9E84,Canto de Pavo Real - 83GY 33/173,Soft Verde
+1759,#8C9381,Campos de Otoño - 30GY 30/100,Soft Verde
+1760,#7F9584,Sombra de Montaña - 90GY 29/121,Soft Verde
+1761,#8B9973,Sendero de Jardín - 30GY 31/202,Soft Verde
+1762,#8D9275,Floresta de Pinos - 10GY 29/158,Soft Verde
+1763,#729884,Verde Campestre - 10GG 29/179,Soft Verde
+1764,#7C927A,Jardín Botánico - 70GY 27/154,Soft Verde
+1765,#858A77,Fantasía del Bosque - 17GY 27/098,Soft Verde
+1766,#669887,Salvia Vigorosa - 30GG 29/196,Soft Verde
+1767,#7C8D74,Salvia de Verano - 50GY 26/155,Soft Verde
+1768,#6E8A7F,Mesa de Verduras - 30GG 24/118,Soft Verde
+1769,#838A65,Verde Cabaña - 08GY 26/190,Soft Verde
+1770,#64907A,Muro de Arvejas - 11GG 26/195,Soft Verde
+1771,#70837B,Bicentenario - 30GG 22/079,Soft Verde
+1772,#809158,Cerco de Primavera - 16GY 28/295,Soft Verde
+1773,#75845D,Verde Pasto - 30GY 23/232,Soft Verde
+1774,#777B5B,Verde Artesano - 10GY 20/179,Soft Verde
+1775,#4A8471,Laguna Esmeralda - 30GG 20/227,Soft Verde
+1776,#59796C,Verde Repollo - 26GG 19/130,Soft Verde
+1777,#6E8C43,Verde Haba - 30GY 24/404,Soft Verde
+1778,#65775B,Hierbabuena Intensa - 50GY 18/178,Soft Verde
+1779,#5D7861,Pino Espinoso - 82GY 19/152,Soft Verde
+1780,#687152,Selva Brasileña - 18GY 18/160,Soft Verde
+1781,#517367,Fauna Suave - 30GG 16/137,Soft Verde
+1782,#57725E,Hiedra - 90GY 16/151,Soft Verde
+1783,#647D43,Verde Pantanal - 30GY 19/323,Soft Verde
+1784,#41795F,Caricia Amazónica - 10GG 17/239,Soft Verde
+1785,#63664F,Hoja de Laurel - 10GY 14/135,Soft Verde
+1786,#536C51,Verde Jade - 70GY 14/187,Soft Verde
+1787,#5B6C42,Verde Terapéutico - 30GY 15/242,Soft Verde
+1788,#5B7638,Sierra del Mar - 30GY 16/343,Soft Verde
+1789,#496E51,Monstruo Verde - 81GY 15/202,Soft Verde
+1790,#57624D,Verde Real - 50GY 13/136,Soft Verde
+1791,#57624D,Verde Real,Soft Verde
+1792,#397359,Hiedra Irlandesa - 10GG 15/261,Soft Verde
+1793,#565C43,Selva Magnífica - 14GY 12/129,Soft Verde
+1794,#3C6158,Herbolario - 51GG 12/132,Soft Verde
+1795,#496343,Palta Intenso - 61GY 12/190,Soft Verde
+1796,#4E5449,Verde Tribal - 50GY 10/068,Soft Verde
+1797,#506436,Verde Clorofila - 30GY 12/257,Soft Verde
+1798,#495A47,Naturaleza Real - 70GY 10/136,Soft Verde
+1799,#4F5342,Bosque Gris - 12GY 10/087,Soft Verde
+1800,#385248,Verde New England - 30GG 09/106,Soft Verde
+1801,#435736,Selva del Congo - 42GY 09/205,Soft Verde
+1802,#385142,Viejo Cazador - 97GY 07/135,Soft Verde
+1803,#3E4E39,Verde Agreste - 50GY 08/153,Soft Verde
+1804,#1C5C4A,Fortuna Finlandesa - 30GG 10/225,Soft Verde
+1805,#32523D,Pepino del Sudeste - 90GY 08/187,Soft Verde
+1806,#32523D,Jardin Tropical - 90GY 08/187,Soft Verde
+1807,#304B38,Verde Elegante - 88GY 08/134,Soft Verde
+1808,#2A493F,Salvaje - 07GG 07/143,Soft Verde
+1809,#384137,Cisne Negro - 50GY 06/077,Soft Verde
+1810,#19563E,Verde Trébol - 07GG 08/244,Soft Verde
+1811,#105444,Joya de Arcadia - 28GG 08/229,Soft Verde
+1812,#1C4741,Sensación de Dragón - 61GG 08/119,Soft Verde
+1813,#025E42,Pino Suizo - 12GG 10/310,Soft Verde
+1814,#2D3D33,Ramo de Laurel - 01GG 07/070,Soft Verde
+1815,#164B3C,Bálsamo - 25GG 07/188,Soft Verde
+1816,#005345,Gran Conífera - 42GG 08/250,Soft Verde
+1817,#77B7C5,Celeste Esm Std,Turquesa Popular
+1818,#7DB0B5,Celeste Albalux,Turquesa Popular
+1819,#3FA8C0,Celeste Piletas Caucho Clorado,Turquesa Popular
+1820,#5CB386,Verde Claro Esm Std,Turquesa Popular
+1821,#6E9F75,Verde Ilusión Albalux,Turquesa Popular
+1822,#56AC7F,Verde Claro Albalux,Turquesa Popular
+1823,#12607B,Azulejo Albalux,Turquesa Popular
+1824,#007157,Esmeralda Albalux,Turquesa Popular
+1825,#E7F1EC,Hielo Sedoso - 36GG 87/038,Turquesa
+1826,#DCEDEC,Azul Diamante - 10BG 83/061,Turquesa
+1827,#DEECEA,Azul Escarcha - 10BG 83/053,Turquesa
+1828,#E2ECE6,Rompiente - 50GG 83/034,Turquesa
+1829,#DDEDEA,Claridad Suave - 90GG 83/057,Turquesa
+1830,#DEEBE8,Paisaje Polar - 77GG 82/044,Turquesa
+1831,#D9EDEA,Aire Alpino - 90GG 83/069,Turquesa
+1832,#DEEBE5,Sensación Acuática - 28GG 82/048,Turquesa
+1833,#DBEEE5,Boda Real - 30GG 83/075,Turquesa
+1834,#D8E7E9,Atmósfera del Ártico - 34BG 79/053,Turquesa
+1835,#D6E8E8,Divertido Verano - 12BG 79/065,Turquesa
+1836,#D7EBE3,Iceberg Icónico - 34GG 81/080,Turquesa
+1837,#D8E8E3,Fulgor Verdoso - 60GG 79/056,Turquesa
+1838,#D6EAE2,Hoja de Saúco - 38GG 80/077,Turquesa
+1839,#D2E4E8,Azul Limpio - 50BG 76/068,Turquesa
+1840,#CBEBE6,Chapuzón Refrescante - 78GG 79/109,Turquesa
+1841,#C8E6E9,Paisaje Invernal - 30BG 76/107,Turquesa
+1842,#CADEE1,Reflejo de Cielo - 33BG 72/072,Turquesa
+1843,#C4E1E4,Brisa Cálida - 30BG 72/103,Turquesa
+1844,#C1E6E2,Sublime Océano - 79GG 75/125,Turquesa
+1845,#C8E2DF,Verde Laguna - 90GG 74/092,Turquesa
+1846,#C6E1E1,Lluvias de Verano - 10BG 72/092,Turquesa
+1847,#CAE3DB,Aroma a Hierbabuena - 50GG 75/092,Turquesa
+1848,#BEE2E7,Azul Ibiza - 32BG 72/122,Turquesa
+1849,#C3E3DF,Mar de Hawai - 90GG 74/108,Turquesa
+1850,#BEE9DE,Agua Celestial - 56GG 77/156,Turquesa
+1851,#C9DDDD,Lazo Azul - 30BG 72/069,Turquesa
+1852,#BEE1E2,Mar Griego - 04BG 71/117,Turquesa
+1853,#B9E3E5,Azul Cielo - 13BG 72/151,Turquesa
+1854,#BDE8DA,Juguete Verde - 42GG 75/155,Turquesa
+1855,#BAE3DF,Baño Relajante - 78GG 72/138,Turquesa
+1856,#B2E5D8,Frescor Oceánico - 50GG 71/180,Turquesa
+1857,#B9DED3,Espuma Cítrica - 50GG 69/134,Turquesa
+1858,#A8DEE2,Popurrí Caribeño - 14BG 67/174,Turquesa
+1859,#B3D6DC,Cielo de Ángeles - 33BG 64/121,Turquesa
+1860,#B3D7DB,Vista del Lago - 30BG 64/140,Turquesa
+1861,#AEDCD9,Alga de Mar - 90GG 66/157,Turquesa
+1862,#B1DCCF,Verde Notorio - 41GG 67/162,Turquesa
+1863,#ACD6D8,Azul Lago - 10BG 63/143,Turquesa
+1864,#9FD8DB,Colina Ventosa - 10BG 63/189,Turquesa
+1865,#A1D8D4,Menta Magnífico - 80GG 63/184,Turquesa
+1866,#96D6DD,Línea Costera - 19BG 61/207,Turquesa
+1867,#AAD4C8,Verde Radiante - 50GG 61/154,Turquesa
+1868,#95D9D5,Mareas Tropicales - 89GG 63/216,Turquesa
+1869,#8CD5DC,Memorias Acuáticas - 17BG 60/228,Turquesa
+1870,#90DDCD,Maravillas Griegas - 56GG 64/258,Turquesa
+1871,#8BD6D3,Lago Cristalino - 87GG 60/239,Turquesa
+1872,#89D6D5,Celeste Floreciente - 92GG 59/245,Turquesa
+1873,#8BD6CC,Burbujas Flotantes - 70GG 60/251,Turquesa
+1874,#89CED2,Brillo de Luna - 10BG 55/223,Turquesa
+1875,#8ED3C2,Melón Jugoso - 47GG 57/246,Turquesa
+1876,#88C8C6,Verde Asiático - 90GG 51/211,Turquesa
+1877,#68CAC5,Mares del Sur - 87GG 51/291,Turquesa
+1878,#61C3CC,Costa del Pacífico - 18BG 47/282,Turquesa
+1879,#69CAB7,Gracia - 50GG 50/320,Turquesa
+1880,#78BEB1,Jardín Ondulado - 55GG 46/244,Turquesa
+1881,#7CB8AA,Pantalón Capri - 50GG 43/213,Turquesa
+1882,#53BFCB,Tesoro de Ópalo - 19BG 45/302,Turquesa
+1883,#6AB1B6,Azul Tahití - 10BG 39/219,Turquesa
+1884,#63B3B9,Vista Marina - 10BG 39/244,Turquesa
+1885,#50C7B3,Verde Tailandés - 53GG 50/360,Turquesa
+1886,#44BFBE,Azul Movimiento - 90GG 43/338,Turquesa
+1887,#55B7AC,Joya de Neptuno - 70GG 39/303,Turquesa
+1888,#57B5A2,Sensación Esmeralda - 49GG 39/313,Turquesa
+1889,#42BEA7,Hierbabuena Mejicana - 50GG 41/379,Turquesa
+1890,#49A7B5,Mar Abierto - 30BG 33/269,Turquesa
+1891,#20ADB8,Azul Buceo - 17BG 36/333,Turquesa
+1892,#4B9C8C,Verde Futuro - 50GG 28/273,Turquesa
+1893,#3D9A99,Mar de Delfines - 90GG 27/273,Turquesa
+1894,#00A1AD,Azul Milán - 16BG 29/350,Turquesa
+1895,#00A4A6,Azul Marítimo Medio - 88GG 32/346,Turquesa
+1896,#0098A4,Milagro Marino - 16BG 27/325,Turquesa
+1897,#1C8C93,Rialto - 10BG 22/275,Turquesa
+1898,#00AA8F,Mar del Caribe - 46GG 31/446,Turquesa
+1899,#0096A2,Azul Electrón - 16BG 26/318,Turquesa
+1900,#009C97,Turquesa Intenso - 80GG 27/386,Turquesa
+1901,#00939F,Pluma de Pavo Real - 16BG 24/357,Turquesa
+1902,#00A58D,Nilo Profundo - 50GG 30/467,Turquesa
+1903,#009B96,Mar Turbulento - 79GG 27/362,Turquesa
+1904,#00879E,Deleite Caribeño - 39BG 21/339,Turquesa
+1905,#009E82,Desfile de Luz - 44GG 27/468,Turquesa
+1906,#008897,Azul Cósmico - 30BG 21/301,Turquesa
+1907,#2D8071,Esencia de Jade - 50GG 18/261,Turquesa
+1908,#00997E,Jade Miami - 44GG 24/451,Turquesa
+1909,#008C86,Laguna Profunda - 78GG 21/381,Turquesa
+1910,#2F7769,Verde Perejil - 49GG 17/232,Turquesa
+1911,#00837D,Momento Perfecto - 78GG 19/378,Turquesa
+1912,#007585,Turquesa Veneciana - 30BG 15/322,Turquesa
+1913,#008571,Valle de Jade - 50GG 18/353,Turquesa
+1914,#007A7A,Adorno Navideño - 90GG 15/398,Turquesa
+1915,#007F74,Mar Agitado - 70GG 16/390,Turquesa
+1916,#00836E,Sensación de Algas - 47GG 19/396,Turquesa
+1917,#00737A,Marea Nocturna - 10BG 14/296,Turquesa
+1918,#007F6E,Serpiente Real - 48GG 19/309,Turquesa
+1919,#007067,Noche del Zodíaco - 70GG 13/323,Turquesa
+1920,#0D6456,Verde Tritón - 50GG 11/251,Turquesa
+1921,#1F564C,Esmeralda Intensa - 50GG 09/189,Turquesa
+1922,#006755,Arbusto Feliz - 44GG 12/299,Turquesa
+1923,#EBEAE4,Brillo de Luz - 30GY 83/021,Soft Turquesa
+1924,#E3ECE7,Blanco Atrio - 70GG 83/034,Soft Turquesa
+1925,#E4EBE7,Sueño Grandioso - 70GG 83/023,Soft Turquesa
+1926,#E7EAE4,Diamante Pálido - 45GY 83/023,Soft Turquesa
+1927,#E4EAE7,Perla Nublada - 10BG 83/018,Soft Turquesa
+1928,#E5E9E4,Laguna Helada - 50GG 83/023,Soft Turquesa
+1929,#E0E6E1,Luna Durmiente - 45GG 81/022,Soft Turquesa
+1930,#CFEDE3,Verde Suave - 50GG 82/115,Soft Turquesa
+1931,#D2E6E2,Cristalino - 75GG 77/065,Soft Turquesa
+1932,#D7E3E0,Tierra de Escarcha - 85GG 76/039,Soft Turquesa
+1933,#D4E4E1,Cuento de Hadas - 95GG 78/054,Soft Turquesa
+1934,#D5E0DE,Silencio - 04BG 74/037,Soft Turquesa
+1935,#D1DEDF,Escultura en Piedras - 30BG 72/051,Soft Turquesa
+1936,#D2E1DB,Té de Menta - 56GG 75/052,Soft Turquesa
+1937,#CEDFDD,Lago Vienés - 10BG 72/057,Soft Turquesa
+1938,#D5DDD8,Ópalo Claro - 50GG 73/031,Soft Turquesa
+1939,#CDDFDB,Brisa de las Olas - 90GG 73/062,Soft Turquesa
+1940,#D1DDD9,Bruma de Otoño - 70GG 72/045,Soft Turquesa
+1941,#CBD5D3,Fulgor Gris - 80GG 67/036,Soft Turquesa
+1942,#BDD9D6,Suave Caudal - 81GG 67/099,Soft Turquesa
+1943,#C6D1CD,Hoja Gris - 50GG 63/042,Soft Turquesa
+1944,#C1D2CF,Quietud - 70GG 63/062,Soft Turquesa
+1945,#BDD1D3,Navegación Tranquila - 30BG 64/072,Soft Turquesa
+1946,#B9D3D1,Brisa Fresca - 90GG 64/088,Soft Turquesa
+1947,#B5D3D2,Mirador - 10BG 63/097,Soft Turquesa
+1948,#BCCCC9,Sensación de Lluvia - 74GG 60/059,Soft Turquesa
+1949,#ADC9CC,Azul Lluvia - 30BG 56/097,Soft Turquesa
+1950,#B8C6C2,Gris Marmota - 50GG 55/049,Soft Turquesa
+1951,#A0CCD3,Azul Velero - 30BG 57/149,Soft Turquesa
+1952,#A1CCCA,Agua Persa - 90GG 57/146,Soft Turquesa
+1953,#90CCD0,Aguamarina Opaco - 10BG 54/199,Soft Turquesa
+1954,#A9C4BF,Aire - 68GG 53/098,Soft Turquesa
+1955,#A0C6C2,Aguamarina Medio - 79GG 53/131,Soft Turquesa
+1956,#83C5CE,Reposo en la Laguna - 23BG 51/212,Soft Turquesa
+1957,#98B9BB,Nórdico - 10BG 46/112,Soft Turquesa
+1958,#88B7BF,Retiro Azul - 30BG 43/163,Soft Turquesa
+1959,#90B9B5,Jardín de Tortugas - 77GG 46/139,Soft Turquesa
+1960,#81B5B4,Isla Bella - 90GG 42/171,Soft Turquesa
+1961,#69B9C5,Archipiélago - 30BG 44/248,Soft Turquesa
+1962,#6BB7C4,Mar Caribeño - 33BG 43/240,Soft Turquesa
+1963,#98A9A4,Mina de Grava - 50GG 40/064,Soft Turquesa
+1964,#8CADAC,Verde Atlantis - 90GG 40/115,Soft Turquesa
+1965,#88ABAD,Azul Aspen - 10BG 38/119,Soft Turquesa
+1966,#90A8A4,Vista de la Colina - 70GG 39/088,Soft Turquesa
+1967,#85A6AB,Acantilado Marino - 30BG 37/110,Soft Turquesa
+1968,#6DB0AC,Sensación Cristal - 80GG 39/220,Soft Turquesa
+1969,#64B1AF,Rey del Mar - 90GG 38/242,Soft Turquesa
+1970,#62A3AD,Crucero Fluvial - 30BG 33/207,Soft Turquesa
+1971,#609C9B,Siete Lagos - 90GG 30/195,Soft Turquesa
+1972,#76908D,Sensación de Truenos - 75GG 27/095,Soft Turquesa
+1973,#6C9393,Aguas Calmas - 90GG 28/133,Soft Turquesa
+1974,#73908B,Cumbre de Montaña - 70GG 27/105,Soft Turquesa
+1975,#699093,Talismán - 10BG 26/134,Soft Turquesa
+1976,#62868B,Turquesa Ahumado - 30BG 23/124,Soft Turquesa
+1977,#6D837D,Jardín Nocturno - 50GG 23/085,Soft Turquesa
+1978,#6D837D,Jardín Nocturno,Soft Turquesa
+1979,#37919D,Cataratas de Pasión - 25BG 26/253,Soft Turquesa
+1980,#5A8487,Cascada - 10BG 21/141,Soft Turquesa
+1981,#627775,Gris Osado - 78GG 19/078,Soft Turquesa
+1982,#627775,Gris Osado,Soft Turquesa
+1983,#48877D,Alcaucil - 60GG 22/204,Soft Turquesa
+1984,#308A91,Viaje Submarino - 10BG 22/248,Soft Turquesa
+1985,#3F8685,Verde Estampa - 90GG 21/219,Soft Turquesa
+1986,#4D7A79,Laguna Particular - 90GG 19/151,Soft Turquesa
+1987,#567773,Floresta Oculta - 70GG 18/122,Soft Turquesa
+1988,#4B7B78,Momentos Serenos - 78GG 19/160,Soft Turquesa
+1989,#4B7278,Azul Porcelana - 30BG 16/133,Soft Turquesa
+1990,#536B66,Cielo Tempestuoso - 50GG 15/099,Soft Turquesa
+1991,#4E6C69,Verde Inquietante - 78GG 15/104,Soft Turquesa
+1992,#2A7C79,Pavo Real - 80GG 19/231,Soft Turquesa
+1993,#386A6D,Tempestad - 10BG 13/156,Soft Turquesa
+1994,#3B605C,Poseidón - 70GG 11/140,Soft Turquesa
+1995,#246969,Verde Emperador - 90GG 12/206,Soft Turquesa
+1996,#365E5E,Club Mónaco - 90GG 11/131,Soft Turquesa
+1997,#39595F,Azul de Bohemia - 30BG 10/111,Soft Turquesa
+1998,#006E7B,Artesano - 30BG 14/248,Soft Turquesa
+1999,#22625F,Popurrí de Algas - 80GG 12/182,Soft Turquesa
+2000,#006872,Caribe Intenso - 16BG 13/282,Soft Turquesa
+2001,#00656B,Turmalina Azul - 10BG 11/278,Soft Turquesa
+2002,#006867,Botánico - 90GG 11/295,Soft Turquesa
+2003,#2C4F4F,Verde Noche Intenso - 90GG 08/118,Soft Turquesa
+2004,#006663,Verde Libertad - 82GG 12/289,Soft Turquesa
+2005,#005D67,Azul Golfo - 26BG 09/247,Soft Turquesa
+2006,#1E4F56,Laguna Artica - 30BG 08/143,Soft Turquesa
+2007,#005E63,Trópicos Turbulentos - 01BG 11/248,Soft Turquesa
+2008,#005765,Abismo Profundo - 31BG 10/240,Soft Turquesa
+2009,#005B61,Precioso - 10BG 10/222,Soft Turquesa
+2010,#00565F,Azul Petróleo - 30BG 08/200,Soft Turquesa
+2011,#005D56,Montaña Majestuosa - 70GG 09/223,Soft Turquesa
+2012,#10514E,Arbusto Oscuro - 80GG 09/164,Soft Turquesa
+2013,#0F4C4B,Sueños Persas - 87GG 08/151,Soft Turquesa
+2014,#154946,Verde Profundo - 80GG 08/135,Soft Turquesa
+2015,#004C52,Algas Marinas - 17BG 08/158,Soft Turquesa
+2016,#004641,Esmeralda Vivaz - 71GG 07/179,Soft Turquesa
+2017,#2DACCB,Celeste Piletas Acrilico,Azul Popular
+2018,#1C78A3,Azul Bahamas,Azul Popular
+2019,#0085AC,Traful Albalux,Azul Popular
+2020,#0082AE,Celeste Profundo Piletas Caucho Clorado,Azul Popular
+2021,#0081AD,Celeste Profundo Piletas Acrilico,Azul Popular
+2022,#2A5C7A,Azul Traful Duralba,Azul Popular
+2023,#00658B,Azul Pisos,Azul Popular
+2024,#005785,Azulejo Esm Std,Azul Popular
+2025,#162B4E,Azul Marino Albalux,Azul Popular
+2026,#112A4A,Azul Marino Esm Std,Azul Popular
+2027,#D7E5EA,Hielo Fluvial - 64BG 78/058,Azul
+2028,#D6E5EB,Mañana Junto al Mar - 82BG 79/062,Azul
+2029,#D8E0E9,Viento en Popa - 29BB 75/065,Azul
+2030,#D3E5E9,Era del Hielo - 69BG 77/076,Azul
+2031,#D4DEEE,Malva Brillante - 47BB 74/091,Azul
+2032,#DCDFE4,Aroma a Violeta - 52BB 75/036,Azul
+2033,#D0E4E8,Perla del Pacífico - 50BG 76/079,Azul
+2034,#CDE5EA,Visión Aérea - 50BG 76/090,Azul
+2035,#D8DCE0,Parada de Tren - 50BB 72/032,Azul
+2036,#C5E4E9,Fantasía Denim - 34BG 75/107,Azul
+2037,#C9DEE9,Huella de Esquí - 90BG 72/100,Azul
+2038,#CBDFE6,Sonata de Domingo - 70BG 72/086,Azul
+2039,#C4E0EB,Agua Mística - 76BG 72/113,Azul
+2040,#C1E3EA,Cielo de Verano - 50BG 74/130,Azul
+2041,#C3E1E9,Primera Edición - 55BG 74/117,Azul
+2042,#CFD7E3,Lavanda Matinal - 53BB 69/079,Azul
+2043,#CBD8E6,Lavanda Crepúsculo - 38BB 69/096,Azul
+2044,#C7D8E6,Estallido de Lavandas - 23BB 68/102,Azul
+2045,#C1DDE7,Cielo Californiano - 70BG 70/113,Azul
+2046,#CED3E3,Azul Arcadia - 70BB 67/096,Azul
+2047,#C7D9E3,Oceánico - 06BB 71/091,Azul
+2048,#BBDDE9,Bruma Naciente - 70BG 70/131,Azul
+2049,#C1DAE6,Azul Viento - 89BG 70/116,Azul
+2050,#CBD3E2,Suave Lavanda - 54BB 66/088,Azul
+2051,#C3D8E3,Azul Citrino - 01BB 69/098,Azul
+2052,#BDDDE4,Azul Polo - 50BG 69/117,Azul
+2053,#B5DFE7,Azul Niño - 40BG 70/146,Azul
+2054,#B4DFE8,Azul Salvaje - 50BG 72/170,Azul
+2055,#B4DCEA,Corriente Oceánica - 66BG 68/157,Azul
+2056,#BDD7E3,Escarabajo Azul - 79BG 66/110,Azul
+2057,#BFD1E4,Azul Discreto - 30BB 63/124,Azul
+2058,#C6CFDE,Azul Colgante - 50BB 63/094,Azul
+2059,#C3CDE1,Uva Magnífica - 58BB 62/119,Azul
+2060,#C2D0DF,Azul Seda - 30BB 63/097,Azul
+2061,#B5D7E2,Cielo Radiante - 70BG 67/126,Azul
+2062,#B4CEEB,Sensación Festiva - 33BB 61/174,Azul
+2063,#BBCEE3,Violeta Perla - 44BB 62/134,Azul
+2064,#B2D1E7,Agua Secreta - 07BB 62/156,Azul
+2065,#B6D4E0,Fresco Matinal - 73BG 64/122,Azul
+2066,#B6D1E2,Biquini - 11BB 64/135,Azul
+2067,#B1D2E6,Celestial Claro - 99BG 62/159,Azul
+2068,#A8DAE5,Azul Burbujeante - 40BG 65/171,Azul
+2069,#C1C8DC,Faceta Azul - 70BB 59/118,Azul
+2070,#B0D3DB,Mar Reluciente - 50BG 62/133,Azul
+2071,#B3CADE,Azul Liláceo - 18BB 59/133,Azul
+2072,#A9CCE6,Dejo de Ciruela - 10BB 59/176,Azul
+2073,#AACCE3,Océano Bravo - 05BB 59/165,Azul
+2074,#9FD3E7,Azul Remoto - 74BG 61/206,Azul
+2075,#A0D6E3,Navegante Aventurero - 47BG 62/184,Azul
+2076,#9FD5E2,Azul Harmonía - 46BG 63/190,Azul
+2077,#B2C5DF,Lila Moreno - 48BB 56/162,Azul
+2078,#A1C9E3,Azul Tranquilo - 04BB 57/189,Azul
+2079,#B2C1D7,Flor del Atardecer - 44BB 54/129,Azul
+2080,#ABBCDC,Mermelada de Ciruela - 58BB 51/183,Azul
+2081,#8DCCE7,Chiffon Azul - 77BG 57/234,Azul
+2082,#9AC2E2,Fresco Encuentro - 17BB 54/211,Azul
+2083,#A1C0DC,Vasto Océano - 21BB 52/181,Azul
+2084,#87CEE2,Día de Spa - 54BG 56/236,Azul
+2085,#A3BADA,Azul Turquía - 49BB 51/186,Azul
+2086,#95C1E0,Danubio - 09BB 51/218,Azul
+2087,#9AC5D5,Azul Atlántida - 70BG 53/164,Azul
+2088,#9CBFD7,Nobleza - 10BB 50/177,Azul
+2089,#85CCDE,Curasao Azul - 50BG 55/241,Azul
+2090,#82C8E3,Azul Feriado - 79BG 53/259,Azul
+2091,#9CB2DF,Jazmín Azul - 64BB 46/254,Azul
+2092,#7FCADB,Cielo Limpio - 48BG 54/244,Azul
+2093,#97B1DA,Orquídea Sublime - 56BB 45/240,Azul
+2094,#9BB6D1,Virtuoso - 30BB 47/179,Azul
+2095,#91B5D8,Aguas de Lisboa - 36BB 46/231,Azul
+2096,#8DBDCF,Dalia Azul - 70BG 47/182,Azul
+2097,#87B1D5,Horizonte Azul - 24BB 43/232,Azul
+2098,#89B3D0,Azul Ópalo - 10BB 43/206,Azul
+2099,#7FB7D6,Torrente de Agua - 98BG 45/237,Azul
+2100,#8FA9D1,Versalles - 54BB 41/237,Azul
+2101,#79B0D7,Azul Toronto - 16BB 41/268,Azul
+2102,#83B8C5,Lagos de Michigan - 50BG 44/184,Azul
+2103,#8FA6C6,Azul Ceremonial - 50BB 39/188,Azul
+2104,#7CA4D3,Sensación Francesa - 45BB 37/281,Azul
+2105,#7AB2C6,Flores de Mayo Azules - 70BG 41/201,Azul
+2106,#7DB0C2,Visión Atmosférica - 69BG 40/190,Azul
+2107,#6CABD6,Aguas Ondulantes - 14BB 39/289,Azul
+2108,#57B7DD,Pelourinho - 86BG 43/321,Azul
+2109,#5DB2CF,Costa Oceánica - 70BG 40/284,Azul
+2110,#8998BC,Azul Majestuoso - 70BB 33/202,Azul
+2111,#769DC2,Azul Pervinca - 30BB 33/235,Azul
+2112,#60A0CE,Azul Portuario - 22BB 34/304,Azul
+2113,#49B6CE,Amsterdam - 50BG 41/312,Azul
+2114,#57A3D1,Fruto del Bosque Azul - 11BB 35/316,Azul
+2115,#659DC9,Hortensia Perfumada - 33BB 32/308,Azul
+2116,#7090C9,Bouquet de Lavanda - 66BB 29/332,Azul
+2117,#67A0C1,Azul Informal - 04BB 34/244,Azul
+2118,#38B1DB,Azul Pim - 80BG 39/354,Azul
+2119,#5C9BCC,Aguas Limpias - 25BB 32/310,Azul
+2120,#629DC2,Noche Estrellada - 10BB 32/262,Azul
+2121,#38B9CD,Azul Seducción - 35BG 42/331,Azul
+2122,#3BACD5,Azul de la Tarde - 89BG 37/353,Azul
+2123,#6D8DBE,Violeta Pervinca - 61BB 28/291,Azul
+2124,#7C8BAE,Eléctrico - 70BB 27/201,Azul
+2125,#5497C8,Cielo Náutico - 25BB 30/318,Azul
+2126,#718EB4,Arlequín - 50BB 27/232,Azul
+2127,#39AFC9,Azul Olímpico - 52BG 38/320,Azul
+2128,#599FB7,Puerto Oculto - 70BG 32/238,Azul
+2129,#628CC0,Lavanda Artístico - 51BB 27/310,Azul
+2130,#6790B3,Espiral Onírica - 30BB 27/236,Azul
+2131,#4F98B9,Vuelo Espiritual - 90BG 29/267,Azul
+2132,#6D81AC,Violeta Tropical - 70BB 24/245,Azul
+2133,#519BAD,Blues - 50BG 30/235,Azul
+2134,#567EBE,Efecto Amatista - 67BB 22/374,Azul
+2135,#20A1C3,Cuenta Indiana - 70BG 31/332,Azul
+2136,#20A1C3,Olas de Hawaii - 70BG 31/332,Azul
+2137,#3F87BC,Azul Preludio - 31BB 23/340,Azul
+2138,#10A1CF,Canción del Ave - 93BG 32/374,Azul
+2139,#4181BA,Playa Pasional - 42BB 23/348,Azul
+2140,#4883B0,Flor Oceánica - 30BB 23/291,Azul
+2141,#4280B6,Azul Portugués - 45BB 22/347,Azul
+2142,#448CA7,Mar de Marineros - 77BG 24/246,Azul
+2143,#5270A7,Festival de Ópera - 69BB 17/324,Azul
+2144,#2E86B2,Cobalto Intenso - 10BB 22/318,Azul
+2145,#4D73A1,Azul Eclesiástico - 50BB 18/276,Azul
+2146,#2D8CA8,Noche Tropical - 70BG 23/276,Azul
+2147,#009FBE,Ensenada - 50BG 30/384,Azul
+2148,#0095C7,Azul Zafiro - 98BG 26/393,Azul
+2149,#0097C4,Azul Dicha - 79BG 27/391,Azul
+2150,#526C9D,Azul Expreso - 70BB 16/287,Azul
+2151,#00A1B8,Espuma Oceánica - 38BG 30/352,Azul
+2152,#1B80B8,Azul Cabalgata - 27BB 21/366,Azul
+2153,#3573AB,Sirena de Policía - 45BB 18/339,Azul
+2154,#3078A8,Azul Campeón - 30BB 18/318,Azul
+2155,#2676AD,Azul Añil - 39BB 18/351,Azul
+2156,#008FB5,Rayo Azul - 70BG 24/380,Azul
+2157,#0087BD,Movimiento del Viento - 99BG 22/432,Azul
+2158,#1883A7,Mar Índigo - 90BG 21/302,Azul
+2159,#0095AC,Sensación Neptuno - 37BG 26/349,Azul
+2160,#0081B8,Calma Mediterránea - 96BG 20/413,Azul
+2161,#008DAC,Azul Pekín - 56BG 23/355,Azul
+2162,#007CB6,Azul Real - 16BB 19/395,Azul
+2163,#186BAA,Zafiro Intenso - 52BB 15/410,Azul
+2164,#0078AF,Azul Regata - 13BB 17/399,Azul
+2165,#1B7694,Ola de Poseidón - 81BG 17/262,Azul
+2166,#007DA6,Azul Celeste Fusión - 67BG 19/394,Azul
+2167,#00839D,Dulce Zafiro - 50BG 18/350,Azul
+2168,#18659D,Sangre Real * - 47BB 14/349,Azul
+2169,#007C9A,Azul Sideral - 60BG 17/341,Azul
+2170,#006AA8,Tormenta Eléctrica - 36BB 15/398,Azul
+2171,#00779B,Aguas Caribeñas - 65BG 17/353,Azul
+2172,#165F9C,Reino - 58BB 12/390,Azul
+2173,#006B9F,Sentimiento Fabuloso - 11BB 15/359,Azul
+2174,#006B9B,Navíos en el Mar - 10BB 13/362,Azul
+2175,#007096,Planetario - 90BG 14/337,Azul
+2176,#1D598D,Zafiro * - 50BB 11/321,Azul
+2177,#34507E,Violeta Alegórico - 70BB 10/275,Azul
+2178,#3F4F72,Delirio de Moras - 71BB 10/202,Azul
+2179,#1C5789,Boda Azul - 51BB 11/311,Azul
+2180,#0A6C84,Orgullo Marcial - 70BG 14/243,Azul
+2181,#106086,Deslumbrante Zafiro - 15BB 13/261,Azul
+2182,#006392,Navegantes - 10BB 11/350,Azul
+2183,#006B88,Era de los Jets - 70BG 13/300,Azul
+2184,#00638B,Lapislázuli - 10BB 12/310,Azul
+2185,#005B8E,Jazz - 30BB 10/337,Azul
+2186,#1C4B75,Azul Bajo Cero - 50BB 08/257,Azul
+2187,#224373,Azul Fantasma - 72BB 07/288,Azul
+2188,#005482,Alas de Colibrí - 32BB 10/296,Azul
+2189,#005184,Azul Blazer - 43BB 09/340,Azul
+2190,#17407D,Azul Notorio * - 77BB 07/344,Azul
+2191,#024A7F,Azul Puro - 62BB 08/369,Azul
+2192,#004E76,Gota Azul - 30BB 08/263,Azul
+2193,#0C4C62,Azul Imaginado - 88BG 08/179,Azul
+2194,#E7E9EB,Cristales Marítimos - 40BB 83/017,Soft Azul
+2195,#E7E9EA,Montaña Blanca - 50BB 83/020,Soft Azul
+2196,#E0EAEF,Danza de Mariposa - 12BB 82/058,Soft Azul
+2197,#E0E4E8,Bruma de Escarcha - 17BB 79/028,Soft Azul
+2198,#DDE1E4,Blanco Dinastía Ming - 49BB 76/037,Soft Azul
+2199,#D6DDE5,Diente de León Claro - 30BB 73/052,Soft Azul
+2200,#DBDCE1,Espíritu Naciente - 70BB 73/035,Soft Azul
+2201,#D6DEE3,Flor Alpina - 10BB 73/045,Soft Azul
+2202,#D8DDDF,Neblina - 10BB 73/026,Soft Azul
+2203,#D6DCE2,Azul Lunar - 30BB 72/045,Soft Azul
+2204,#D8DCDF,Neblina Azul - 30BB 72/028,Soft Azul
+2205,#D7DCE0,Brillo de Estrellas - 30BB 72/034,Soft Azul
+2206,#D7DBE1,Puesta del Sol - 50BB 72/045,Soft Azul
+2207,#D6DCE0,Realidad Virtual - 30BB 72/040,Soft Azul
+2208,#CEDFE5,Azul Eterno - 70BG 72/071,Soft Azul
+2209,#CBDEE8,Nube Suave - 90BG 72/088,Soft Azul
+2210,#D1DDE3,Frío Súbito - 90BG 72/063,Soft Azul
+2211,#D1DDE3,Frío Súbito,Soft Azul
+2212,#D0DDE3,Toque Matinal - 89BG 72/060,Soft Azul
+2213,#CFDBE5,Vuelo de Palomas - 17BB 71/069,Soft Azul
+2214,#D4DBDE,Sueño Eterno - 28BB 72/039,Soft Azul
+2215,#CDD1DC,Línea del Horizonte - 70BB 65/066,Soft Azul
+2216,#CED1D9,Oasis Azul - 70BB 65/056,Soft Azul
+2217,#C2D2DE,Copos de Nube - 10BB 65/094,Soft Azul
+2218,#C9CFD8,Encaje Lavanda - 49BB 63/056,Soft Azul
+2219,#C8D1D7,Alaska - 10BB 64/052,Soft Azul
+2220,#C8CFD9,Azul de Jarrón - 50BB 63/066,Soft Azul
+2221,#C3D2D9,Velo Azul - 90BG 63/072,Soft Azul
+2222,#CCCED3,Blanco Ahumado - 70BB 64/035,Soft Azul
+2223,#C3CFDA,Sala de Lectura - 30BB 63/084,Soft Azul
+2224,#C5CED6,Mar Azul - 30BB 63/058,Soft Azul
+2225,#B0CFDD,Cielos Infinitos - 81BG 60/128,Soft Azul
+2226,#B4CBD9,Sensación Feliz - 01BB 59/109,Soft Azul
+2227,#B0CED9,Hortensia Azul - 70BG 59/124,Soft Azul
+2228,#B3C8D8,Azul Finlandés - 10BB 57/115,Soft Azul
+2229,#ADC8D7,Azul Danubio - 90BG 56/125,Soft Azul
+2230,#B4C7D1,Sombra de Duda - 90BG 56/088,Soft Azul
+2231,#B8C7CC,Viento Suave - 70BG 56/061,Soft Azul
+2232,#B8C7CC,Viento Suave,Soft Azul
+2233,#B2C2D5,Sensual - 30BB 54/120,Soft Azul
+2234,#BEC2C9,Sombra Lunar - 70BB 55/044,Soft Azul
+2235,#B2C2D5,Brillo de Hadas - 30BB 54/120,Soft Azul
+2236,#B8C4CC,Casual Jeans - 10BB 55/065,Soft Azul
+2237,#B0C4D3,Coulis de Arándano - 14BB 55/113,Soft Azul
+2238,#B9C1CD,Azul Laqueado - 50BB 54/079,Soft Azul
+2239,#B0C4D3,Coulis de Arándano,Soft Azul
+2240,#B7C1CC,Cristalería - 30BB 54/072,Soft Azul
+2241,#AFC5D0,Aguas Vaporosas - 83BG 55/097,Soft Azul
+2242,#B1B6C4,Fascinación - 70BB 49/082,Soft Azul
+2243,#A0BBCD,Brillo Estelar - 10BB 49/137,Soft Azul
+2244,#99BDD0,Mediterráneo - 90BG 50/157,Soft Azul
+2245,#99BDD0,Mediterráneo,Soft Azul
+2246,#9EB5CE,Encantamiento - 30BB 47/161,Soft Azul
+2247,#A3B5C8,Azul Invernal - 30BB 46/124,Soft Azul
+2248,#A5B3C8,Paz - 50BB 46/129,Soft Azul
+2249,#9DB1D0,Toque Florido - 50BB 45/185,Soft Azul
+2250,#A7B3C0,Azul Otoñal - 30BB 46/086,Soft Azul
+2251,#98B6CB,Limpia Armonía - 08BB 46/152,Soft Azul
+2252,#94B5C2,Azul Barroco - 70BG 44/129,Soft Azul
+2253,#9AB4BA,Azul Fénix - 50BG 44/094,Soft Azul
+2254,#99AFBC,Pico de Neblina - 90BG 42/106,Soft Azul
+2255,#A3A7B1,Silueta - 70BB 40/062,Soft Azul
+2256,#99AAB6,Azul Oxford - 10BB 40/090,Soft Azul
+2257,#9CA5B6,Cielo Eléctrico - 54BB 39/103,Soft Azul
+2258,#9AA5B7,Escollera - 50BB 39/104,Soft Azul
+2259,#95A7B4,Gris Cobayo - 10BB 39/100,Soft Azul
+2260,#83A8C1,Caramelo de Arándano - 06BB 39/179,Soft Azul
+2261,#979FB2,Caída de la Noche - 70BB 35/108,Soft Azul
+2262,#7CA8BF,Azul Windsor - 90BG 38/185,Soft Azul
+2263,#8599B4,Azul Camarote - 48BB 33/169,Soft Azul
+2264,#799CBD,Tira de Lona - 30BB 33/211,Soft Azul
+2265,#8698B4,Azul Cashmere - 50BB 33/164,Soft Azul
+2266,#819BB4,Blueberry - 30BB 33/163,Soft Azul
+2267,#819BB4,Blueberry,Soft Azul
+2268,#869AAF,Azul Florentino - 30BB 32/139,Soft Azul
+2269,#8699AD,Campanilla Silvestre - 32BB 33/133,Soft Azul
+2270,#7F9DA5,Mar Balcánico - 50BG 32/114,Soft Azul
+2271,#7D98A6,Orilla del Lago Azul - 90BG 31/124,Soft Azul
+2272,#6C97B3,Azul Tibet - 10BB 30/203,Soft Azul
+2273,#898D9B,Más Allá del Azul - 70BB 28/080,Soft Azul
+2274,#7B90A0,Saturno Frío - 10BB 28/116,Soft Azul
+2275,#7F8A9C,Creciente Cósmico - 50BB 26/105,Soft Azul
+2276,#6794A5,Invierno Azul - 70BG 28/169,Soft Azul
+2277,#5E93AD,Firmamento - 90BG 28/213,Soft Azul
+2278,#677E9F,Violeta de Praga - 50BB 22/199,Soft Azul
+2279,#707992,Cielo Estrellado - 70BB 21/147,Soft Azul
+2280,#5C7291,Deleite Denim - 49BB 19/182,Soft Azul
+2281,#567195,Azul Noble - 50BB 18/216,Soft Azul
+2282,#617482,Vía Láctea - 10BB 18/106,Soft Azul
+2283,#58748B,Lluvia de Medianoche - 18BB 19/153,Soft Azul
+2284,#547C87,Marea - 50BG 19/144,Soft Azul
+2285,#537390,Azul Capitolio - 30BB 18/190,Soft Azul
+2286,#626F83,Claro de Luna - 50BB 17/126,Soft Azul
+2287,#457697,Aguas de Islandia - 15BB 19/227,Soft Azul
+2288,#57718A,Vals Azul - 30BB 17/158,Soft Azul
+2289,#3A7D9A,Azul Índigo - 90BG 20/241,Soft Azul
+2290,#537686,Costa Salvaje - 84BG 18/143,Soft Azul
+2291,#587381,Río de Piedra - 90BG 17/120,Soft Azul
+2292,#338193,Azul Oceánico - 50BG 20/230,Soft Azul
+2293,#32759A,Brillo de Zafiro - 10BB 17/269,Soft Azul
+2294,#546386,Satisfacción - 70BB 14/202,Soft Azul
+2295,#446A8B,Azul Cóndor - 31BB 15/212,Soft Azul
+2296,#606573,Gris Elemental - 70BB 15/081,Soft Azul
+2297,#4C6B80,Azul Niágara - 10BB 15/154,Soft Azul
+2298,#4E6185,Capa Real - 67BB 14/216,Soft Azul
+2299,#3A698D,Luz de Luna - 30BB 14/242,Soft Azul
+2300,#347488,Llamas Azules - 70BG 16/209,Soft Azul
+2301,#535B6F,Límite Nocturno - 70BB 12/116,Soft Azul
+2302,#385679,Joya Matutina - 50BB 11/216,Soft Azul
+2303,#405A6B,Azul Gótico - 10BB 11/126,Soft Azul
+2304,#445A66,Tempestad Inminente - 90BG 11/101,Soft Azul
+2305,#445A66,Tempestad Inminente,Soft Azul
+2306,#3A5E67,Aguas Oceánicas - 50BG 11/123,Soft Azul
+2307,#454C6C,Violeta Inspirado - 90BB 09/186,Soft Azul
+2308,#455265,Trato Real - 50BB 10/112,Soft Azul
+2309,#425465,Azul Firma - 30BB 10/112,Soft Azul
+2310,#354E76,Azul Noche - 70BB 09/241,Soft Azul
+2311,#3A5267,Neptuno Profundo - 27BB 10/138,Soft Azul
+2312,#3A5267,Neptuno Profundo,Soft Azul
+2313,#136777,Azul Cadete - 50BG 12/219,Soft Azul
+2314,#1D567C,Azul Reposera - 30BB 11/244,Soft Azul
+2315,#315368,Azul Prusia - 10BB 09/155,Soft Azul
+2316,#245D6A,Rendez-Vous Azul - 50BG 10/175,Soft Azul
+2317,#3B4966,Oscuridad Profunda - 67BB 09/166,Soft Azul
+2318,#324965,Azul Marino Vibrante - 50BB 08/171,Soft Azul
+2319,#00647C,Azul Tempestad - 70BG 11/257,Soft Azul
+2320,#324965,Azul Marino Vibrante,Soft Azul
+2321,#005F7D,Mar Báltico - 90BG 11/262,Soft Azul
+2322,#274C68,Azul Mediterráneo - 30BB 08/188,Soft Azul
+2323,#1E5566,Ola Real - 70BG 09/171,Soft Azul
+2324,#37465C,Noche Impenetrable - 52BB 08/128,Soft Azul
+2325,#0C5C70,Índigo Suave - 70BG 10/214,Soft Azul
+2326,#1A4F6A,Azul Neptuno - 10BB 08/200,Soft Azul
+2327,#184C6E,Aguas Turbulentas - 30BB 08/225,Soft Azul
+2328,#314655,Pozo Profundo - 17BB 08/104,Soft Azul
+2329,#005476,Azul Relámpago - 10BB 09/250,Soft Azul
+2330,#234760,Noches de Añil - 22BB 08/161,Soft Azul
+2331,#25485C,Noche Ártica - 10BB 07/150,Soft Azul
+2332,#3B424C,Índigo Profundo - 46BB 08/059,Soft Azul
+2333,#3B424C,Índigo Profundo,Soft Azul
+2334,#373F51,Luz Negra - 70BB 07/103,Soft Azul
+2335,#233F61,Pacífico Profundo - 56BB 07/196,Soft Azul
+2336,#00546E,Azul Formal - 81BG 09/241,Soft Azul
+2337,#2F454D,Azul Frontón - 70BG 07/086,Soft Azul
+2338,#1C3753,Océano Tranquilo * - 50BB 06/163,Soft Azul
+2339,#2C3241,Gris Nutricio - 66BB 06/077,Soft Azul
+2340,#725A7F,Violeta Estelar,Violeta Popular
+2341,#EEE9EB,Lirio de Mar Rosa - 90RB 83/026,Violeta
+2342,#EDE8EA,Sales de Rosas - 70RB 83/026,Violeta
+2343,#ECE9EA,Espliego Apasionado - 50RB 83/017,Violeta
+2344,#ECE8EA,Renovación - 70RB 83/021,Violeta
+2345,#E6E2E6,Malva Magnífica - 54RB 78/038,Violeta
+2346,#EEDBE5,Rosa Bebé - 97RB 77/086,Violeta
+2347,#E6E2E6,Hilo de Seda - 54RB 78/038,Violeta
+2348,#E2E0E9,Gota de Violeta - 06RB 76/056,Violeta
+2349,#E6DDE6,Toque Vesperal - 53RB 76/067,Violeta
+2350,#E5DBE0,Perfume Lila - 90RB 75/051,Violeta
+2351,#EBD3E2,Clavel - 89RB 72/119,Violeta
+2352,#E0DDE1,Nieve Lila - 30RB 74/038,Violeta
+2353,#DDDAE4,Toque de Pensamiento - 16RB 73/058,Violeta
+2354,#DBD8E7,Lluvia de Amatistas - 04RB 71/092,Violeta
+2355,#DBD8E7,Lluvia de Amatistas - 04RB 71/082,Violeta
+2356,#D6D9E7,Sensación Violeta - 83BB 71/082,Violeta
+2357,#E4D2DD,Popurrí - 90RB 69/096,Violeta
+2358,#E1D1DC,Poesía Lírica - 90RB 68/085,Violeta
+2359,#DDD2DF,Vergel Artístico - 50RB 69/097,Violeta
+2360,#D8D5E0,Colinas de Brezos - 16RB 69/065,Violeta
+2361,#D8D2E0,Nubes Púrpuras - 30RB 68/084,Violeta
+2362,#D4CFE3,Sonrisa Púrpura - 15RB 66/112,Violeta
+2363,#DCD1D9,Anochecer - 70RB 67/067,Violeta
+2364,#D4D1DF,Toque de Violeta - 10RB 68/081,Violeta
+2365,#D8D0D9,Lila Precioso - 50RB 66/066,Violeta
+2366,#D1D2DC,Blanco Espliego - 90BB 67/069,Violeta
+2367,#DCC5DD,Diamante Rosa - 65RB 62/156,Violeta
+2368,#DEC7D8,Rosa Leyenda - 90RB 63/129,Violeta
+2369,#D6C8DE,Violeta Clásico - 42RB 63/137,Violeta
+2370,#E6BDD9,Rosado Fuerte - 94RB 60/214,Violeta
+2371,#CDCCE1,Dedalera Violeta - 03RB 63/122,Violeta
+2372,#C8CAE4,Toque de Lila - 90BB 62/139,Violeta
+2373,#D8BEDB,Huevo de Pascua - 64RB 58/179,Violeta
+2374,#D5BAD8,Violeta Veneciano - 64RB 55/192,Violeta
+2375,#C7C7D9,Toque de Púrpura - 90BB 59/097,Violeta
+2376,#C7C9D5,Sensación Lavanda - 83BB 61/071,Violeta
+2377,#DDB1D4,Rosa Tecno - 85RB 53/237,Violeta
+2378,#C6C0D9,Malva de Carnaval - 17RB 57/141,Violeta
+2379,#C5C6D2,Lavanda Suave - 90BB 58/072,Violeta
+2380,#BEC1D6,Toque de Amatista - 89BB 55/122,Violeta
+2381,#C8B7D6,Lila Primaveral - 42RB 53/176,Violeta
+2382,#D2B6CC,Sueño Rosado - 82RB 53/154,Violeta
+2383,#BDBBDA,Bouquet de Lilas - 02RB 53/171,Violeta
+2384,#BCBED5,Notable - 90BB 53/129,Violeta
+2385,#C3BACE,Uva Suave - 30RB 53/117,Violeta
+2386,#C9B9C9,Campos de Espliegos - 70RB 54/110,Violeta
+2387,#C9B9C9,Campos de Espliegos,Violeta
+2388,#C6B9CA,Sensualidad - 50RB 52/107,Violeta
+2389,#BCB7D5,Flor de Maracujá - 12RB 51/169,Violeta
+2390,#B8BCD4,Espléndido Lila - 84BB 53/136,Violeta
+2391,#BEBACF,Lago Brumoso - 10RB 53/115,Violeta
+2392,#D6A4CC,Rosas Híbridas - 86RB 47/274,Violeta
+2393,#AEB5D4,Brezo en Flor - 80BB 49/174,Violeta
+2394,#BCA5CC,Primavera Lila - 40RB 43/233,Violeta
+2395,#C3ADBD,Frambuesa Negra - 90RB 46/121,Violeta
+2396,#AEB0C8,Púrpura Precoz - 90BB 46/132,Violeta
+2397,#AEB0C8,Varita Mágica - 90BB 46/132,Violeta
+2398,#A9A7CE,Magia de Noche - 03RB 42/220,Violeta
+2399,#A6AFC8,Magia de Hadas - 70BB 44/144,Violeta
+2400,#C98EBD,Lirio Rosa - 88RB 37/328,Violeta
+2401,#BC93C1,Violeta Verona - 64RB 37/284,Violeta
+2402,#A2A6C5,Brezo - 90BB 41/168,Violeta
+2403,#A79DC8,Mezcla Púrpura - 16RB 38/235,Violeta
+2404,#97A1CF,Lavanda Imperial - 82BB 38/251,Violeta
+2405,#AD94C2,Dignidad - 40RB 36/264,Violeta
+2406,#B897AF,Tierra de Sueños - 90RB 37/175,Violeta
+2407,#A599B9,Púrpura Parisino - 30RB 36/187,Violeta
+2408,#AF98B0,Crepúsculo - 70RB 36/156,Violeta
+2409,#9895C3,Flor de Ipé - 05RB 34/258,Violeta
+2410,#A398B4,Manto Real - 30RB 35/166,Violeta
+2411,#969BBD,Orquídea Pura - 90BB 36/188,Violeta
+2412,#9C98B6,Elevación - 10RB 35/167,Violeta
+2413,#9799B8,Princesa Púrpura - 90BB 34/167,Violeta
+2414,#A493AC,Pasaje del Viñedo - 50RB 34/153,Violeta
+2415,#9390BE,Púrpura Especial - 05RB 32/259,Violeta
+2416,#A185B7,Ilusión - 41RB 30/290,Violeta
+2417,#9390B4,Glicina en Flor - 10RB 31/204,Violeta
+2418,#B973A8,Rosita - 93RB 27/376,Violeta
+2419,#8B90B5,Lavanda Salvaje - 90BB 31/208,Violeta
+2420,#A676AB,Ciruela Perfecta - 66RB 26/328,Violeta
+2421,#8D84B5,Pimpollo de Berenjena - 15RB 28/271,Violeta
+2422,#8B81BA,Vívida Lavanda - 15RB 27/316,Violeta
+2423,#848DB5,Toque Violeta - 81BB 29/221,Violeta
+2424,#7586C6,Rebelión Real - 83BB 27/352,Violeta
+2425,#9283A9,Púrpura Orgulloso - 30RB 26/224,Violeta
+2426,#7C8DB5,Grandeza - 70BB 28/224,Violeta
+2427,#9477AC,Pasión Púrpura - 41RB 24/309,Violeta
+2428,#8085AE,Lila Esplendoroso - 90BB 26/227,Violeta
+2429,#9A729C,Confite - 70RB 23/280,Violeta
+2430,#9E7594,Fábula - 90RB 23/228,Violeta
+2431,#937693,Lila Profundo - 70RB 23/203,Violeta
+2432,#7E79A4,Frutas del Campo - 10RB 22/242,Violeta
+2433,#757BA7,Novillo - 90BB 22/247,Violeta
+2434,#83769B,Lila Claro - 30RB 22/215,Violeta
+2435,#6C7AAB,Arándano Jugoso - 81BB 22/273,Violeta
+2436,#677DAD,Lila Reluciente - 69BB 23/271,Violeta
+2437,#7A779C,Violeta Escocés - 10RB 21/218,Violeta
+2438,#85689E,Cinta Violeta - 41RB 19/322,Violeta
+2439,#867091,Delicias de Uva - 50RB 20/199,Violeta
+2440,#71779E,Deseo Púrpura - 90BB 21/220,Violeta
+2441,#7D6D99,Uva Imperial - 30RB 19/261,Violeta
+2442,#706CA2,Amatista - 08RB 19/308,Violeta
+2443,#736F9C,Ciruela Perfumada - 10RB 19/262,Violeta
+2444,#6F68A4,Sueño de Amatista - 12RB 18/337,Violeta
+2445,#68709F,Drama Nocturno - 90BB 19/267,Violeta
+2446,#756A8B,Orquídea Violeta - 30RB 17/202,Violeta
+2447,#865C7D,Merlot - 90RB 16/244,Violeta
+2448,#7D5F7F,Púrpura Marroquina - 70RB 16/220,Violeta
+2449,#74568C,Fuego Violeta - 42RB 14/320,Violeta
+2450,#546894,Ciruela Intenso - 73BB 16/259,Violeta
+2451,#625894,Palacio Persa - 16RB 13/349,Violeta
+2452,#725A7F,Joya - 50RB 14/232,Violeta
+2453,#5A638D,Retoño de Ciruela - 86BB 15/237,Violeta
+2454,#58618A,Torbellino de Mármol - 90BB 14/242,Violeta
+2455,#7C4E75,Boutique Púrpura - 83RB 13/268,Violeta
+2456,#655A7B,Suntuoso - 30RB 13/199,Violeta
+2457,#655A7B,Dulce Travesura - 30RB 13/199,Violeta
+2458,#605088,Violeta Palacio - 23RB 11/349,Violeta
+2459,#4A5A88,Decreto Real - 81BB 12/269,Violeta
+2460,#734D6C,Fiesta de Brujas - 90RB 12/225,Violeta
+2461,#5F507A,Espíritu de Seducción - 30RB 11/250,Violeta
+2462,#5F507A,Brujita - 30RB 11/250,Violeta
+2463,#57527E,Xanadu - 10RB 11/250,Violeta
+2464,#694E6B,Nostalgia - 70RB 11/196,Violeta
+2465,#624B6E,Pasas Californianas - 50RB 10/219,Violeta
+2466,#3F5189,Violeta Victoriano * - 88BB 11/331,Violeta
+2467,#63406E,Fiesta de la Uva - 56RB 09/302,Violeta
+2468,#603960,Fruta Silvestre - 73RB 08/259,Violeta
+2469,#493F6C,Victoria - 18RB 08/286,Violeta
+2470,#523B64,Violeta Natural - 43RB 07/249,Violeta
+2471,#573B55,Licor de Mora - 78RB 08/163,Violeta
+2472,#423B64,Púrpura de Windsor - 15RB 07/237,Violeta
+2473,#484253,Tulipán Negro - 30RB 07/107,Violeta
+2474,#2E416E,Majestad * - 92BB 07/350,Violeta
+2475,#324169,Noche de Truenos - 80BB 08/225,Violeta
+2476,#333D6B,Zona del Crepúsculo - 91BB 07/263,Violeta
+2477,#EBE8E9,Mirada de Ángel - 70RB 83/017,Soft Violeta
+2478,#E4E8EC,Temporada de Nieve - 39BB 81/032,Soft Violeta
+2479,#E4E5EA,Ciruela Especial - 87BB 80/036,Soft Violeta
+2480,#E1DFE4,Susurro de Brezos - 23RB 76/036,Soft Violeta
+2481,#E3DEE2,Malva Galáctico - 67RB 75/030,Soft Violeta
+2482,#E7DDDE,Toque Floral - 10RR 75/039,Soft Violeta
+2483,#DFDDE2,Púrpura Místico - 10RB 74/038,Soft Violeta
+2484,#E0DDE0,Castillo de Aire - 50RB 74/033,Soft Violeta
+2485,#E3DBDC,Rocío Matinal - 26RR 73/037,Soft Violeta
+2486,#E0DBDE,Belladona - 70RB 74/028,Soft Violeta
+2487,#DEDBDE,Melodía Dulce - 30RB 73/027,Soft Violeta
+2488,#DFDBDD,Sueño de Lilas - 50RB 73/024,Soft Violeta
+2489,#DDDBDC,Polvo de Diamantes - 10RB 73/024,Soft Violeta
+2490,#DAD2D8,Orquídea Vigorosa - 76RB 67/048,Soft Violeta
+2491,#D3D0D7,Violeta Perfumada - 30RB 65/051,Soft Violeta
+2492,#D0D1D9,Herencia de Dinastía - 90BB 65/049,Soft Violeta
+2493,#D3D0D6,Mañana Violeta - 24RB 66/037,Soft Violeta
+2494,#D1D1D6,Violeta Vogue - 10RB 65/042,Soft Violeta
+2495,#D5CFD4,Pico Sereno - 70RB 65/044,Soft Violeta
+2496,#D3CFD4,Digitalis - 50RB 64/035,Soft Violeta
+2497,#D1CFD3,Brisa de Invierno - 30RB 64/030,Soft Violeta
+2498,#D5CECF,Lluvia Silenciosa - 10RR 65/023,Soft Violeta
+2499,#C2C7D6,Poeta Invernal - 74BB 58/090,Soft Violeta
+2500,#CDC2C4,Toque de Armonía - 40RR 57/045,Soft Violeta
+2501,#C8C1C4,Hora del Diseño - 10RR 56/029,Soft Violeta
+2502,#CCC0C0,Por Siempre Tuya - 70RR 55/044,Soft Violeta
+2503,#C4C1C6,Bruma de Lilas - 30RB 56/036,Soft Violeta
+2504,#BEB9C5,Noche Plateada - 30RB 50/072,Soft Violeta
+2505,#B8B9C8,Canción de la Ciudad - 90BB 50/086,Soft Violeta
+2506,#BFB6BF,Malva Plateada - 70RB 50/062,Soft Violeta
+2507,#B8B7C1,Flor Salvaje - 10RB 49/062,Soft Violeta
+2508,#BCB6BD,Vergel Violeta - 50RB 48/051,Soft Violeta
+2509,#B8B5BC,Lila Agrisado - 30RB 49/042,Soft Violeta
+2510,#B4B3B9,Mar Cósmico - 10RB 47/036,Soft Violeta
+2511,#B4B3B9,Mar Cósmico,Soft Violeta
+2512,#B2AFBB,Deleite Malva - 14RB 45/074,Soft Violeta
+2513,#B4AAAE,Otoño Brumoso - 11RR 43/050,Soft Violeta
+2514,#B1A8AD,Violeta Misteriosa - 10RR 41/042,Soft Violeta
+2515,#A09DA7,Guante de Terciopelo - 30RB 36/055,Soft Violeta
+2516,#A29BA6,Reposo - 50RB 35/067,Soft Violeta
+2517,#9C9BA9,Helado de Mora - 10RB 36/082,Soft Violeta
+2518,#9A95A6,Crepúsculo Mágico - 30RB 33/103,Soft Violeta
+2519,#9194AB,Violeta Antiguo - 90BB 32/126,Soft Violeta
+2520,#9E919F,Paz Nocturna - 70RB 31/090,Soft Violeta
+2521,#9693A1,Violeta Fantástica - 13RB 32/077,Soft Violeta
+2522,#9A8B92,Dejo de Arcilla - 11RR 29/068,Soft Violeta
+2523,#8C8B95,Ópera - 10RB 28/055,Soft Violeta
+2524,#8A8692,Lila Nocturno - 30RB 26/067,Soft Violeta
+2525,#8C7F85,Mousse de Uva - 10RR 24/061,Soft Violeta
+2526,#81808B,Cerco de Lilas - 10RB 23/061,Soft Violeta
+2527,#7F7685,Coulis de Ciruela - 42RB 21/094,Soft Violeta
+2528,#7E7584,Musgo Púrpura - 50RB 20/091,Soft Violeta
+2529,#84747C,Arcilla Purpúrea - 09RR 21/078,Soft Violeta
+2530,#6E718E,Piedra Exótica - 90BB 19/165,Soft Violeta
+2531,#7D6D7E,Reflejo de Amatista - 70RB 18/117,Soft Violeta
+2532,#7E6F75,Helado de Ciruela - 30RR 19/068,Soft Violeta
+2533,#6C698D,Secreto Violeta - 10RB 17/210,Soft Violeta
+2534,#6F6C81,Pinot Noir - 10RB 17/122,Soft Violeta
+2535,#70677F,Serenata Española - 30RB 16/144,Soft Violeta
+2536,#6A6372,Amatista Gris - 30RB 15/086,Soft Violeta
+2537,#66656D,Art Deco - 10RB 14/049,Soft Violeta
+2538,#705F68,Berenjena Medio - 04RR 14/085,Soft Violeta
+2539,#675F6D,Púrpura del Pacífico - 38RB 15/086,Soft Violeta
+2540,#675C6D,Pasa de Uva - 50RB 13/107,Soft Violeta
+2541,#695861,Lluvia de Mercurio - 10RR 13/081,Soft Violeta
+2542,#5A4D70,Violeta Preciosa - 30RB 10/214,Soft Violeta
+2543,#534F74,Dramático - 10RB 10/219,Soft Violeta
+2544,#585568,Fulgor de Medianoche - 09RB 12/102,Soft Violeta
+2545,#595167,Enmascarado - 30RB 11/133,Soft Violeta
+2546,#524F63,Crucero Nocturno - 10RB 10/116,Soft Violeta
+2547,#514961,Cóctel de Uva - 23RB 10/134,Soft Violeta
+2548,#554C59,Púrpura Romano - 50RB 09/087,Soft Violeta
+2549,#55455E,Neblina Púrpura - 50RB 09/156,Soft Violeta
+2550,#4E4653,Berenjena Intenso - 43RB 09/077,Soft Violeta
+2551,#54414C,Tapiz Renacentista - 10RR 08/100,Soft Violeta
+2552,#533F4F,Cardo Uva - 90RB 08/113,Soft Violeta
+2553,#444258,Meditación Púrpura - 10RB 08/125,Soft Violeta
+2554,#343E61,Tesoro del Rey - 83BB 07/202,Soft Violeta
+2555,#3C3A48,Torta Selva Negra - 07RB 07/079,Soft Violeta
+2556,#46383E,Arcilla Relajante - 21RR 07/060,Soft Violeta
+2557,#45383B,Pasas al Ron - 50RR 06/057,Soft Violeta
+2558,#3B343F,Magia Negra - 46RB 06/074,Soft Violeta
+2559,#3B343F,Magia Negra,Soft Violeta
+2560,#3B343F,Violeta Galaxia - 46RB 06/074,Soft Violeta
+2561,#D7D8D7,Aluminio Alta Temperatura,Neutros Fríos Populares
+2562,#D1D3D2,Aluminio Albalux,Neutros Fríos Populares
+2563,#C2C3BC,Gris Hielo Albalux,Neutros Fríos Populares
+2564,#AEB6B0,Gris Espacial Albalux,Neutros Fríos Populares
+2565,#A8B0AB,Gris Espacial Esm Std,Neutros Fríos Populares
+2566,#A5A99B,Perla Esm Std,Neutros Fríos Populares
+2567,#A5AA9A,Gris Visón Albalux,Neutros Fríos Populares
+2568,#9FA798,Perla Albalux,Neutros Fríos Populares
+2569,#7B8084,Ceniza Pisos,Neutros Fríos Populares
+2570,#767C80,Gris Cincel,Neutros Fríos Populares
+2571,#4E6C78,Capri Satinol,Neutros Fríos Populares
+2572,#5F6263,Gris Esm Std,Neutros Fríos Populares
+2573,#5F615D,Gris Albalux,Neutros Fríos Populares
+2574,#252525,Negro,Neutros Fríos Populares
+2575,#E1E7EA,Aventura en Esquí - 02BB 81/030,Neutros Fríos
+2576,#DBE1E1,Azul Plata - 50BG 76/023,Neutros Fríos
+2577,#DBE0E0,Himalaya - 72BG 75/023,Neutros Fríos
+2578,#D9E1E0,Blanco Laguna - 41BG 76/025,Neutros Fríos
+2579,#D5E1E2,Sombra de Gaviota - 43BG 75/043,Neutros Fríos
+2580,#D9DEDF,Gris Ballena - 50BG 74/020,Neutros Fríos
+2581,#D7DDE1,Horizonte - 10BB 73/039,Neutros Fríos
+2582,#D4DEE1,Sensación Primaveral - 74BG 73/042,Neutros Fríos
+2583,#D5DDE0,Etéreo - 90BG 72/038,Neutros Fríos
+2584,#D5DEDE,Euforia - 30BG 72/034,Neutros Fríos
+2585,#D3DDE0,Luz Azul - 70BG 72/043,Neutros Fríos
+2586,#D6DAD7,Blanco Suizo - 30BG 72/017,Neutros Fríos
+2587,#D6DAD7,Alpes Suizos - 30BG 72/017,Neutros Fríos
+2588,#CCD9DD,Azul Celestial - 70BG 68/056,Neutros Fríos
+2589,#CBD7DA,Mar Silencioso - 61BG 68/049,Neutros Fríos
+2590,#D4D4D2,Gris Fantasma - 17GY 68/005,Neutros Fríos
+2591,#CDD3D5,Espíritu Osado - 84BG 66/028,Neutros Fríos
+2592,#C9D1D2,Quarzo - 50BG 64/028,Neutros Fríos
+2593,#C7D0D4,Sales de Lavanda - 90BG 63/043,Neutros Fríos
+2594,#C8CED4,Plata Aviador - 30BB 62/044,Neutros Fríos
+2595,#C8CED4,Plata Aviador,Neutros Fríos
+2596,#CBCDCC,Plata Fina - 30BB 62/004,Neutros Fríos
+2597,#CCCCCB,Gris Alpino - 00NN 62/000,Neutros Fríos
+2598,#CBCCCB,Carbonilla Claro - 88BG 62/005,Neutros Fríos
+2599,#CBCCCB,Carbonilla Claro,Neutros Fríos
+2600,#C9CBC9,Pena Plateada - 30GG 61/010,Neutros Fríos
+2601,#C9CBC9,Pena Plateada,Neutros Fríos
+2602,#BBC9D0,Melancolía - 85BG 59/064,Neutros Fríos
+2603,#B9C4C9,Plata Azulado - 90BG 55/051,Neutros Fríos
+2604,#B7C3C5,Azul Pálido - 30BG 56/045,Neutros Fríos
+2605,#B7C3C5,Azul Pálido,Neutros Fríos
+2606,#BDBFC0,Trofeo de Plata - 30BB 53/012,Neutros Fríos
+2607,#BCBDBB,Piedra Sedosa - 49GG 52/001,Neutros Fríos
+2608,#BABAB9,Velo - 00NN 53/000,Neutros Fríos
+2609,#BABAB9,Velo,Neutros Fríos
+2610,#BABAB9,Velo,Neutros Fríos
+2611,#B8BBB9,Gris Escarcha - 30GG 52/011,Neutros Fríos
+2612,#ADB9BF,Santuario - 90BG 48/057,Neutros Fríos
+2613,#B2B8BA,Gris Plata - 95BG 49/025,Neutros Fríos
+2614,#ADB9BB,Cielo Canadiense - 30BG 49/047,Neutros Fríos
+2615,#AAB2B9,Esgrima - 30BB 45/049,Neutros Fríos
+2616,#AAB2B9,Esgrima,Neutros Fríos
+2617,#AFB1B3,Azul Surrealista - 30BB 45/015,Neutros Fríos
+2618,#B0B0AF,Toque de Aleación - 21BG 45/002,Neutros Fríos
+2619,#A7B1B6,Gris Azulado - 90BG 44/049,Neutros Fríos
+2620,#A0A9AE,Azul Chal - 90BG 41/040,Neutros Fríos
+2621,#A0A9AE,Azul Chal,Neutros Fríos
+2622,#9DAAAE,Azul Balneario - 70BG 40/050,Neutros Fríos
+2623,#A2A5A5,Día de Lluvia - 50BG 38/011,Neutros Fríos
+2624,#9E9F9E,Costura Gris - 53BB 36/004,Neutros Fríos
+2625,#9A9EA0,Adoquín - 12BB 35/025,Neutros Fríos
+2626,#9D9E9D,Gris Granito - 00NN 37/000,Neutros Fríos
+2627,#8F9EA5,Juego de Sombras - 90BG 35/068,Neutros Fríos
+2628,#90969C,Cincelado - 30BB 31/043,Neutros Fríos
+2629,#90969C,Estilo Elegante - 30BB 31/043,Neutros Fríos
+2630,#8F9596,Gris Alambre - 30BG 31/022,Neutros Fríos
+2631,#909396,Banderín Gris - 30BB 31/022,Neutros Fríos
+2632,#8F9391,Sello Bruñido - 62GG 31/016,Neutros Fríos
+2633,#84939C,Gris Humo - 90BG 30/073,Neutros Fríos
+2634,#8F908F,Gris Icono - 00NN 31/000,Neutros Fríos
+2635,#829096,Azul Burgués - 70BG 28/060,Neutros Fríos
+2636,#7E8D99,Marea Vigorosa - 16BB 27/091,Neutros Fríos
+2637,#7C8D95,Tormenta Melancólica - 87BG 27/077,Neutros Fríos
+2638,#7C8D95,Tormenta Melancólica,Neutros Fríos
+2639,#7C8D95,Tormenta Melancólica,Neutros Fríos
+2640,#7C8D95,Tormenta Melancólica,Neutros Fríos
+2641,#878888,Gris Sofisticado - 31BG 26/004,Neutros Fríos
+2642,#858585,Oscura Tormenta - 16BB 25/001,Neutros Fríos
+2643,#778790,Cielo Iluminado - 90BG 25/079,Neutros Fríos
+2644,#808080,Gris Titanio - 00NN 25/000,Neutros Fríos
+2645,#767F84,Suave Plateado - 95BG 23/044,Neutros Fríos
+2646,#7D7D7C,Hebilla de Plata - 28GG 22/002,Neutros Fríos
+2647,#737B84,Sombra de Noche - 30BB 21/056,Neutros Fríos
+2648,#77797A,Pizarra Agrisada - 30BB 21/014,Neutros Fríos
+2649,#67767D,Sonido Misterioso - 70BG 19/071,Neutros Fríos
+2650,#737372,Gris Urbano - 00NN 20/000,Neutros Fríos
+2651,#64727A,Noches Sombrías - 93BG 18/066,Neutros Fríos
+2652,#63707B,Estación Tormentosa - 18BB 18/075,Neutros Fríos
+2653,#5E717B,Azul Astral - 90BG 17/090,Neutros Fríos
+2654,#686D70,Intercostero - 30BB 16/031,Neutros Fríos
+2655,#626D74,Gris Nórdico - 90BG 16/060,Neutros Fríos
+2656,#676A6B,Gris Cable - 03BB 17/015,Neutros Fríos
+2657,#60666C,Luz de Sabiduría - 49BB 14/046,Neutros Fríos
+2658,#666665,Cosmos - 00NN 16/000,Neutros Fríos
+2659,#58626C,Mora Negra - 30BB 13/068,Neutros Fríos
+2660,#5B6466,Gris Maravilloso - 50BG 14/036,Neutros Fríos
+2661,#616160,Peltre Aterciopelado - 36RR 14/002,Neutros Fríos
+2662,#4E5B66,Ballena Boreal - 21BB 12/077,Neutros Fríos
+2663,#555C5E,Campo Magnético - 78BG 12/032,Neutros Fríos
+2664,#4E5A60,Anochecer en el Lago - 81BG 12/055,Neutros Fríos
+2665,#505354,Plomizo Intenso - 90BG 11/016,Neutros Fríos
+2666,#46545C,Negro Cibelina - 90BG 10/067,Neutros Fríos
+2667,#4F5050,Metal Forjado - 26BB 10/008,Neutros Fríos
+2668,#4D4F52,Gris Noble - 30BB 10/019,Neutros Fríos
+2669,#494D52,Tormenta Nocturna - 42BB 09/032,Neutros Fríos
+2670,#494D52,Tormenta Nocturna,Neutros Fríos
+2671,#394A53,Eclipse - 90BG 08/075,Neutros Fríos
+2672,#364A55,Explosión de Gris - 89BG 09/087,Neutros Fríos
+2673,#424748,Toque de Recogimiento - 50BG 08/021,Neutros Fríos
+2674,#3D454D,Gris Nocturno - 20BB 08/051,Neutros Fríos
+2675,#3D4448,Gris Intenso - 92BG 08/031,Neutros Fríos
+2676,#3F3E3E,Espacio de Fantasía - 60RR 07/002,Neutros Fríos
+2677,#3C3E3E,Oscuridad Celeste - 09BB 07/008,Neutros Fríos
+2678,#3A3A39,Onix Profundo - 00NN 07/000,Neutros Fríos
+2679,#36393A,Caudal Gris - 00BB 06/017,Neutros Fríos
+2680,#343639,Mica Negra - 30BB 05/022,Neutros Fríos
+2681,#343639,Cristal de Turmalina - 30BB 05/022,Neutros Fríos
+2682,#363635,Suave Hollín - 90YR 06/001,Neutros Fríos
+2683,#343333,Plomo Profundo - 81YR 06/003,Neutros Fríos
+2684,#2C2B2B,Secreto Oscuro - 00NN 05/000,Neutros Fríos
+2685,#ECEADF,Ártico Majestuoso - 78YY 83/048,Soft Neutros Fríos
+2686,#EBE9E0,Blanco Estrella - 90YY 83/036,Soft Neutros Fríos
+2687,#E7E6DD,Copo de Nieve Eterno - 89YY 80/039,Soft Neutros Fríos
+2688,#DCDFD8,Reflejo de Lago - 39GY 75/033,Soft Neutros Fríos
+2689,#DEDDD3,Dunas Grises - 81YY 73/041,Soft Neutros Fríos
+2690,#DDDCD3,Telaraña - 90YY 73/040,Soft Neutros Fríos
+2691,#DDDCD3,Telaraña,Soft Neutros Fríos
+2692,#DDDCD2,Plumas Rizadas - 70YY 72/041,Soft Neutros Fríos
+2693,#E0DBCB,Piedra Simple - 60YY 74/072,Soft Neutros Fríos
+2694,#D7DAD5,Corrida de Obstáculos - 70GY 72/025,Soft Neutros Fríos
+2695,#D5DAD5,Niebla de Campo - 10GG 72/022,Soft Neutros Fríos
+2696,#DEDACB,Mañana de Setas - 65YY 71/071,Soft Neutros Fríos
+2697,#DEDACB,Mañana de Setas,Soft Neutros Fríos
+2698,#D6D5CB,Despertar - 82YY 67/046,Soft Neutros Fríos
+2699,#D3D3CB,Gris Chic - 96YY 66/036,Soft Neutros Fríos
+2700,#CDD4CE,Gris Borroso - 94GY 66/038,Soft Neutros Fríos
+2701,#D0D0C6,Gris Lechuza - 90YY 63/044,Soft Neutros Fríos
+2702,#D5D0BF,Luz Silenciosa - 60YY 65/082,Soft Neutros Fríos
+2703,#C9CFCB,Espejo de Agua - 10GG 62/026,Soft Neutros Fríos
+2704,#D3CDBE,Revolución Fluvial - 54YY 63/072,Soft Neutros Fríos
+2705,#C6D0C8,Marea Suave - 90GY 63/047,Soft Neutros Fríos
+2706,#C5C7C3,Gris Elefante - 79GY 59/017,Soft Neutros Fríos
+2707,#C1C2BD,Niebla - 30GY 56/023,Soft Neutros Fríos
+2708,#C2C4B5,Orégano - 10GY 56/073,Soft Neutros Fríos
+2709,#BDC3B9,Jeans Grises - 45GY 55/052,Soft Neutros Fríos
+2710,#BDC4B8,Neblina Distante - 50GY 55/066,Soft Neutros Fríos
+2711,#BDC3B9,Jeans Grises,Soft Neutros Fríos
+2712,#BDC3B9,Jeans Grises,Soft Neutros Fríos
+2713,#BCC1BA,Escarcha de Jade - 50GY 53/033,Soft Neutros Fríos
+2714,#C0C1B5,Cria de Nutria - 99YY 55/056,Soft Neutros Fríos
+2715,#BCBFBA,Muro de Berlín - 50GY 53/017,Soft Neutros Fríos
+2716,#B8BFBA,Souvenir - 10GG 53/030,Soft Neutros Fríos
+2717,#B5BBB5,Sensación de Plata - 80GY 50/031,Soft Neutros Fríos
+2718,#B7B8A7,Té de Hierbabuena - 10GY 49/081,Soft Neutros Fríos
+2719,#B6B4A9,Estuco Envejecido - 70YY 46/053,Soft Neutros Fríos
+2720,#B7B3A8,Gris Bismuto - 50YY 47/053,Soft Neutros Fríos
+2721,#AFB4AC,Artemisa - 50GY 45/037,Soft Neutros Fríos
+2722,#B7B2A4,Sensación Romana - 54YY 46/065,Soft Neutros Fríos
+2723,#B2B1A5,Calma Gris - 83YY 45/055,Soft Neutros Fríos
+2724,#A9B4AB,Día Ventoso - 90GY 46/056,Soft Neutros Fríos
+2725,#AFB3A5,Caqui Luminoso - 20GY 46/067,Soft Neutros Fríos
+2726,#A4A7A1,Estaño - 30GY 40/029,Soft Neutros Fríos
+2727,#A7A89C,Gris Hierba - 90YY 40/058,Soft Neutros Fríos
+2728,#9DA5A0,Arbusto del Campo - 10GG 38/038,Soft Neutros Fríos
+2729,#9DA298,Guijarro Matinal - 37GY 38/050,Soft Neutros Fríos
+2730,#9C9B8E,Gris Brezo - 90YY 33/062,Soft Neutros Fríos
+2731,#9E998C,Pintura Rupestre - 50YY 33/065,Soft Neutros Fríos
+2732,#9C968B,Cola de Elefante - 46YY 33/057,Soft Neutros Fríos
+2733,#93988F,Nivel del Mar - 50GY 32/046,Soft Neutros Fríos
+2734,#8F988F,Sensación de Relax - 77GY 32/058,Soft Neutros Fríos
+2735,#94968A,Mañana Brumosa - 08GY 32/058,Soft Neutros Fríos
+2736,#949488,Momento de Gris - 91YY 31/059,Soft Neutros Fríos
+2737,#8E8E81,Piedra Resbaladiza - 90YY 28/067,Soft Neutros Fríos
+2738,#838C86,Tormenta de Granizo - 10GG 26/046,Soft Neutros Fríos
+2739,#878A83,Piedra de Amolar - 30GY 27/036,Soft Neutros Fríos
+2740,#8A8376,Gris Montaña - 40YY 25/074,Soft Neutros Fríos
+2741,#7F847F,Plata de Nutria - 93GY 24/024,Soft Neutros Fríos
+2742,#818278,Gris Icónico - 97YY 24/045,Soft Neutros Fríos
+2743,#7B8178,Gris Hamster - 52GY 24/050,Soft Neutros Fríos
+2744,#7B8178,Gris Hamster,Soft Neutros Fríos
+2745,#7F7B73,Pelaje Gris - 54YY 22/044,Soft Neutros Fríos
+2746,#757E78,Cemento Quemado - 10GG 21/050,Soft Neutros Fríos
+2747,#7D7668,Gris Altiplano - 40YY 20/081,Soft Neutros Fríos
+2748,#717366,Gris Relajante - 08GY 19/067,Soft Neutros Fríos
+2749,#747264,Pino Inglés - 90YY 19/075,Soft Neutros Fríos
+2750,#646E64,Matiz Musgo - 70GY 16/063,Soft Neutros Fríos
+2751,#646967,Nube Invernal - 54GG 16/017,Soft Neutros Fríos
+2752,#68655D,Tormenta de Noviembre - 53YY 15/038,Soft Neutros Fríos
+2753,#616760,Toque de Pizarra - 74GY 15/043,Soft Neutros Fríos
+2754,#63655D,Sensación Invernal - 16GY 15/037,Soft Neutros Fríos
+2755,#5C615A,Gris Vigoroso - 64GY 14/039,Soft Neutros Fríos
+2756,#5C6258,Verde Granito - 50GY 13/064,Soft Neutros Fríos
+2757,#55605B,Puente Cubierto - 30GG 13/046,Soft Neutros Fríos
+2758,#575A4C,Oliva Magnífico - 11GY 12/072,Soft Neutros Fríos
+2759,#4F514D,Hierro Envejecido - 61GY 11/019,Soft Neutros Fríos
+2760,#4F5148,Péndulo - 30GY 10/048,Soft Neutros Fríos
+2761,#47524D,Metrópolis - 30GG 10/050,Soft Neutros Fríos
+2762,#4C4E48,Sueño de Lajas - 29GY 10/029,Soft Neutros Fríos
+2763,#4E4A45,Marrón Camuflaje - 26YY 09/028,Soft Neutros Fríos
+2764,#404B40,Verde Noroeste - 70GY 08/075,Soft Neutros Fríos
+2765,#494538,Musgo Español - 70YY 06/088,Soft Neutros Fríos
+2766,#384340,Gris Misterioso - 44GG 08/039,Soft Neutros Fríos
+2767,#2D3D39,Verde Taberna - 50GG 05/063,Soft Neutros Fríos
+2768,#F8F7F1,Blanco,Neutros Cálidos Populares
+2769,#D4C4A6,Marfil Champagne Albalux,Neutros Cálidos Populares
+2770,#CDB598,Leyenda,Neutros Cálidos Populares
+2771,#4C4949,Marrón Tobago Satinol,Neutros Cálidos Populares
+2772,#46362C,Tabaco Albalux,Neutros Cálidos Populares
+2773,#372B27,Marrón Esm Std,Neutros Cálidos Populares
+2774,#342825,Marrón Albalux,Neutros Cálidos Populares
+2775,#EDEAE6,Blanco Refrescante - 60YR 83/009,Neutros Cálidos
+2776,#F0ECDF,Mañana Cálida - 68YY 86/042,Neutros Cálidos
+2777,#ECE7E4,Luz de la Pradera - 90RR 83/013,Neutros Cálidos
+2778,#F1E8DC,Helado de Crema - 20YY 83/063,Neutros Cálidos
+2779,#ECE9DC,Elección Natural - 64YY 83/058,Neutros Cálidos
+2780,#ECE4D4,Escarcha - 55YY 80/072,Neutros Cálidos
+2781,#E7E1D4,Adorable Primavera - 53YY 77/064,Neutros Cálidos
+2782,#EADED0,Arena de Playa - 20YY 75/073,Neutros Cálidos
+2783,#E3DBD8,Anémona del Bosque - 90RR 73/027,Neutros Cálidos
+2784,#E3DAD6,Lujo Moderno - 30YR 73/034,Neutros Cálidos
+2785,#EBDCCC,Beige Eterno - 10YY 75/084,Neutros Cálidos
+2786,#E3DAD6,Lujo Moderno,Neutros Cálidos
+2787,#DFDCD5,Estratósfera - 40YY 73/028,Neutros Cálidos
+2788,#E4DDCE,Blanco Porcelana - 45YY 74/073,Neutros Cálidos
+2789,#E3DDCF,Mañana Inspiradora - 51YY 74/066,Neutros Cálidos
+2790,#E4DDCE,Hilo de Lino - 45YY 74/073,Neutros Cálidos
+2791,#DED9D5,Blanco Memoria - 50YR 73/022,Neutros Cálidos
+2792,#E6D9CC,Resplandor de Marfil - 08YY 72/077,Neutros Cálidos
+2793,#E4D8CE,Blanco Cordel - 00YY 74/053,Neutros Cálidos
+2794,#E2DDCB,Hielo Antártico - 70YY 73/083,Neutros Cálidos
+2795,#E4D8CE,Blanco Cordel,Neutros Cálidos
+2796,#E8DCC6,Marfil Elocuente - 45YY 75/110,Neutros Cálidos
+2797,#E2DBCC,Punto de Encuentro - 50YY 74/069,Neutros Cálidos
+2798,#E1DACA,Nube de Arena - 45YY 73/081,Neutros Cálidos
+2799,#E1DAC7,Suelo Dorado - 58YY 72/095,Neutros Cálidos
+2800,#DDD7CD,Meditación - 30YY 69/048,Neutros Cálidos
+2801,#E3D7C3,Blanco Perla - 44YY 70/110,Neutros Cálidos
+2802,#DDD6C9,Guijarro Pálido - 44YY 69/069,Neutros Cálidos
+2803,#E3D5C0,Lino Antiguo - 30YY 70/120,Neutros Cálidos
+2804,#E3D2C2,Chamoir - 00YY 67/096,Neutros Cálidos
+2805,#E2D5C0,Licor de Maní - 40YY 69/112,Neutros Cálidos
+2806,#DFD0C6,Diva - 80YR 66/070,Neutros Cálidos
+2807,#DFCFC6,Té de Vainilla - 70YR 66/070,Neutros Cálidos
+2808,#D8CFCD,Lila Suave - 90RR 64/036,Neutros Cálidos
+2809,#D8CFCD,Lila Suave,Neutros Cálidos
+2810,#E3D1BF,Beige Marfil - 10YY 68/110,Neutros Cálidos
+2811,#E1CFC3,Toque de Nuez Moscada - 80YR 67/085,Neutros Cálidos
+2812,#E4D2BC,Flor del Desierto - 20YY 69/120,Neutros Cálidos
+2813,#DDD3C2,Pilar - 40YY 67/087,Neutros Cálidos
+2814,#DFD0C2,Beige Sofisticado - 03YY 66/085,Neutros Cálidos
+2815,#E0D1BF,Blanco Rusia - 20YY 68/102,Neutros Cálidos
+2816,#E0D1BF,Castaños - 20YY 68/102,Neutros Cálidos
+2817,#DAD1C4,Blanco Contemporáneo - 20YY 66/066,Neutros Cálidos
+2818,#DED0C1,Biscuit Beige - 10YY 67/089,Neutros Cálidos
+2819,#DBCEC6,Místico - 70YR 65/054,Neutros Cálidos
+2820,#DDCEC4,Agua de Rosas - 90YR 66/070,Neutros Cálidos
+2821,#D8D1C5,Algodón Egipcio - 40YY 65/061,Neutros Cálidos
+2822,#DCD1C0,Blanco Europeo - 30YY 67/084,Neutros Cálidos
+2823,#DBCCC6,Nuez Moscada - 50YR 65/056,Neutros Cálidos
+2824,#DCD1C0,Blanco Europeo,Neutros Cálidos
+2825,#DCD1C0,Colina Europea - 30YY 67/084,Neutros Cálidos
+2826,#DCCEC2,Almendra Suiza - 00YY 66/078,Neutros Cálidos
+2827,#D8CCC8,Seda Ondulada - 30YR 64/044,Neutros Cálidos
+2828,#D9D1C1,Beige Básico - 45YY 65/084,Neutros Cálidos
+2829,#D6CEC7,Blanco Pintor - 90YR 64/040,Neutros Cálidos
+2830,#D6CEC7,Comienzo de Otoño - 90YR 64/040,Neutros Cálidos
+2831,#DECEBE,Ritual Blanco - 10YY 65/095,Neutros Cálidos
+2832,#DBCFC0,Seda Damasco - 20YY 67/084,Neutros Cálidos
+2833,#D7CCC7,Su Santuario - 50YR 64/045,Neutros Cálidos
+2834,#D4CCC9,Vitral Romano - 30YR 63/031,Neutros Cálidos
+2835,#D5D1C2,Amor Ligero - 64YY 65/071,Neutros Cálidos
+2836,#D5CBC6,Estambul - 60YR 64/038,Neutros Cálidos
+2837,#DBCFBB,Sendero en el Sahara - 33YY 65/106,Neutros Cálidos
+2838,#DCD0B8,Neblina de Otoño - 45YY 67/120,Neutros Cálidos
+2839,#D4CFBC,Verde Iónico - 70YY 65/090,Neutros Cálidos
+2840,#DACAB3,Castaña Ribereña - 30YY 62/127,Neutros Cálidos
+2841,#DACCB0,Neutro Clásico - 46YY 63/147,Neutros Cálidos
+2842,#DDC9B0,Castaña de Brasil - 20YY 63/149,Neutros Cálidos
+2843,#DAC8B2,Bronce Milán - 20YY 61/127,Neutros Cálidos
+2844,#DCC6B1,Bronce de Eldorado - 10YY 61/136,Neutros Cálidos
+2845,#D9C4B6,Neutro Nepal - 90YR 59/108,Neutros Cálidos
+2846,#D6C7B5,Encaje Primoroso - 20YY 60/104,Neutros Cálidos
+2847,#D4C9B5,Manuscrito - 40YY 60/103,Neutros Cálidos
+2848,#D7C5B5,Beige Rosado - 00YY 59/098,Neutros Cálidos
+2849,#D7C6B4,Arte Azteca - 10YY 59/111,Neutros Cálidos
+2850,#D4C5B6,Resplandor Beige - 03YY 59/088,Neutros Cálidos
+2851,#D6C2B7,Mochaccino - 80YR 59/089,Neutros Cálidos
+2852,#D5C2B7,Arcilla Rajada - 70YR 58/091,Neutros Cálidos
+2853,#D1C5B7,Oleada - 20YY 58/082,Neutros Cálidos
+2854,#D3C6B4,Cuero Amarillento - 30YY 60/104,Neutros Cálidos
+2855,#D1C2B9,Al Natural - 80YR 57/070,Neutros Cálidos
+2856,#D6C9AD,Toque de Pardo - 47YY 62/143,Neutros Cálidos
+2857,#CEC5B6,Arena Blanca - 30YY 58/082,Neutros Cálidos
+2858,#CFC2B7,Ornamento en Relieve - 90YR 57/070,Neutros Cálidos
+2859,#CBC4B8,Gris Fósil - 30YY 56/060,Neutros Cálidos
+2860,#CBC4B8,Gris Fósil,Neutros Cálidos
+2861,#CBC4B8,Gris Fósil,Neutros Cálidos
+2862,#C9BFBD,Costa de Pelícanos - 10YR 55/037,Neutros Cálidos
+2863,#CAC2B8,Gris Piedra - 20YY 57/060,Neutros Cálidos
+2864,#CBC1B7,Bizcocho de Canela - 10YY 56/060,Neutros Cálidos
+2865,#CBC4B3,Gélido - 50YY 57/082,Neutros Cálidos
+2866,#CAC0B8,Grava - 90YR 55/051,Neutros Cálidos
+2867,#CAC0B8,Grava,Neutros Cálidos
+2868,#CBC5B1,Montaña Distante - 70YY 57/098,Neutros Cálidos
+2869,#D7C1A8,Castillo de Arena Claro - 15YY 57/150,Neutros Cálidos
+2870,#D4BFA5,Champignon - 20YY 55/151,Neutros Cálidos
+2871,#D7BEA3,Bronce Vivo - 10YY 55/163,Neutros Cálidos
+2872,#C9B7B7,Desierto Rosado - 81RR 51/067,Neutros Cálidos
+2873,#CEBEA8,Llanuras Africanas - 25YY 54/123,Neutros Cálidos
+2874,#D3BAA7,Neutro Normandía - 90YR 53/132,Neutros Cálidos
+2875,#CBC0A7,Salón Neutral - 52YY 55/131,Neutros Cálidos
+2876,#C3BDB0,Mar de Guijarros - 46YY 53/062,Neutros Cálidos
+2877,#CCBDA6,Muros de Oliva - 30YY 53/124,Neutros Cálidos
+2878,#CDBBA6,Castillo del Desierto - 20YY 53/124,Neutros Cálidos
+2879,#CDB9A7,Arena del Desierto - 00YY 52/119,Neutros Cálidos
+2880,#CBBCA6,Arenas de Sudán - 30YY 53/125,Neutros Cálidos
+2881,#CCB7A8,Beige Costero - 90YR 51/109,Neutros Cálidos
+2882,#C7BAA9,Bronce Leyenda - 20YY 51/098,Neutros Cálidos
+2883,#CCB9A4,Caqui Básico - 10YY 53/132,Neutros Cálidos
+2884,#C6BAA8,Gris Tostado - 30YY 51/098,Neutros Cálidos
+2885,#CBB3AA,Pequeña Rosa - 50YR 49/098,Neutros Cálidos
+2886,#C3B2B2,Fucsia Agrisado - 90RR 49/061,Neutros Cálidos
+2887,#CABB9E,Beige Mineral - 45YY 53/151,Neutros Cálidos
+2888,#C6B3AA,Fuga del Tiempo - 70YR 50/086,Neutros Cálidos
+2889,#C6B3AA,Fuga del Tiempo,Neutros Cálidos
+2890,#CABB9E,Beige Mineral,Neutros Cálidos
+2891,#C9B1A8,Sendero del Desierto - 51YR 48/101,Neutros Cálidos
+2892,#C5B5A7,Beige Castor - 00YY 50/091,Neutros Cálidos
+2893,#C4B1AC,Rosa Muralla - 30YR 48/074,Neutros Cálidos
+2894,#C2B6A9,Puerto de Piedra - 10YY 48/071,Neutros Cálidos
+2895,#CCB798,Bronce Histórico - 30YY 50/176,Neutros Cálidos
+2896,#BEB1AB,Malva Gris - 50YR 47/057,Neutros Cálidos
+2897,#C1ACA9,Rosa Adamascado - 12YR 45/079,Neutros Cálidos
+2898,#CEAF96,Paseo del Parque - 00YY 48/171,Neutros Cálidos
+2899,#BEAFA6,Pardo Chic - 70YR 46/069,Neutros Cálidos
+2900,#C6B299,Bronce Tradicional - 20YY 47/145,Neutros Cálidos
+2901,#C3B198,Región Agreste - 30YY 47/145,Neutros Cálidos
+2902,#C5AA9B,Bronce Tibetano - 70YR 45/133,Neutros Cálidos
+2903,#C5AA9B,Bronce Tibetano,Neutros Cálidos
+2904,#C9AE91,Granero del Campo - 12YY 47/184,Neutros Cálidos
+2905,#BFAC9C,Sendero - 00YY 44/107,Neutros Cálidos
+2906,#C5AF92,Sabor a Té - 25YY 46/170,Neutros Cálidos
+2907,#BCAE9A,Liebre - 30YY 44/114,Neutros Cálidos
+2908,#BEA99D,Pimienta Rosa - 80YR 44/101,Neutros Cálidos
+2909,#BCAD9A,Obelisco - 20YY 45/114,Neutros Cálidos
+2910,#B9A99F,Marrón Progresivo - 80YR 42/073,Neutros Cálidos
+2911,#B6AC9B,Amarillo Textil - 40YY 44/095,Neutros Cálidos
+2912,#B7A99B,Castillo de Roca - 10YY 41/083,Neutros Cálidos
+2913,#BAA79A,Camafeo Intenso - 90YR 43/101,Neutros Cálidos
+2914,#B3A4A3,Piedra Rosada - 10YR 40/054,Neutros Cálidos
+2915,#B5AC99,Casa de Arcadia - 50YY 43/103,Neutros Cálidos
+2916,#B4AA9B,Gris Gaviota - 30YY 42/083,Neutros Cálidos
+2917,#B4A4A0,Rubor Chocolate - 30YR 40/061,Neutros Cálidos
+2918,#C5AA88,Camello - 20YY 43/200,Neutros Cálidos
+2919,#B5A49D,Rosa Plissê - 60YR 41/072,Neutros Cálidos
+2920,#B1AC96,Niebla de Tennessee - 70YY 43/113,Neutros Cálidos
+2921,#BCA88B,Sisal Suave - 30YY 41/165,Neutros Cálidos
+2922,#C1A28B,Caramelo Suave - 90YR 41/179,Neutros Cálidos
+2923,#BDA68A,Bronce Camello - 20YY 41/165,Neutros Cálidos
+2924,#BEA18E,Beige Cabra - 80YR 40/148,Neutros Cálidos
+2925,#BEA488,Planicies Escocesas - 10YY 41/175,Neutros Cálidos
+2926,#B7A78C,Bronce Montana - 40YY 41/152,Neutros Cálidos
+2927,#B59F91,Marrón Tabaco - 81YR 38/111,Neutros Cálidos
+2928,#B5A08F,Cerveza Inglesa - 97YR 39/118,Neutros Cálidos
+2929,#AFA490,Arcilla de Alfarero - 40YY 38/107,Neutros Cálidos
+2930,#B0A290,Barro Facial - 21YY 38/102,Neutros Cálidos
+2931,#B3A18C,Bronceado de Verano - 20YY 39/130,Neutros Cálidos
+2932,#B39E8C,Castillo de Arena Oscuro - 00YY 38/123,Neutros Cálidos
+2933,#AAA48F,Baño de Oliva - 64YY 39/108,Neutros Cálidos
+2934,#ABA18D,Trueno del Atardecer - 48YY 38/109,Neutros Cálidos
+2935,#A99898,Idílico - 90RR 35/060,Neutros Cálidos
+2936,#AB9E8E,Gris Garza - 20YY 37/094,Neutros Cálidos
+2937,#A99D8D,Beige Pardal - 30YY 36/094,Neutros Cálidos
+2938,#A99A8C,Trigo Neutro - 10YY 35/094,Neutros Cálidos
+2939,#A8998E,Madera Agrisada - 90YR 34/084,Neutros Cálidos
+2940,#BA977C,Castor Suave - 90YR 36/203,Neutros Cálidos
+2941,#B29C7D,Safari Africano - 30YY 36/185,Neutros Cálidos
+2942,#B7927F,Ingrediente Orgánico - 70YR 33/175,Neutros Cálidos
+2943,#B5987A,Alfajor - 10YY 35/196,Neutros Cálidos
+2944,#A78E8E,Silencio Violeta - 90RR 31/100,Neutros Cálidos
+2945,#B1937D,Rosa de Arena - 90YR 33/167,Neutros Cálidos
+2946,#B28D80,Arenisca - 50YR 31/160,Neutros Cálidos
+2947,#AA967E,Banco Antiguo - 20YY 33/145,Neutros Cálidos
+2948,#A49882,Arte Urbano - 40YY 33/118,Neutros Cálidos
+2949,#A7967E,Amaranto Seco - 30YY 33/145,Neutros Cálidos
+2950,#AA8E7F,Cañón Polvoriento - 70YR 31/135,Neutros Cálidos
+2951,#AB9279,Burbuja de Chocolate - 10YY 33/163,Neutros Cálidos
+2952,#A78A84,Tradición Antigua - 30YR 29/118,Neutros Cálidos
+2953,#A68F7E,Asperula - 90YR 31/131,Neutros Cálidos
+2954,#9E967E,Verde Caqui - 60YY 33/130,Neutros Cálidos
+2955,#9E967E,Verde Caqui,Neutros Cálidos
+2956,#A79278,Rama de Invierno - 22YY 32/156,Neutros Cálidos
+2957,#A09180,Matorral - 20YY 31/106,Neutros Cálidos
+2958,#A18C82,Bizcocho de Almendra - 60YR 30/094,Neutros Cálidos
+2959,#9D937C,Piedra de Huerto - 50YY 31/124,Neutros Cálidos
+2960,#9B8987,Adorno Rupestre - 10YR 28/072,Neutros Cálidos
+2961,#9B8987,Adorno Rupestre,Neutros Cálidos
+2962,#9B8987,Adorno Rupestre,Neutros Cálidos
+2963,#A9926F,Cerámica Verde - 30YY 31/205,Neutros Cálidos
+2964,#AA906F,Cesto de Mimbre - 20YY 31/205,Neutros Cálidos
+2965,#9D8E7E,Piedra Esculpida - 10YY 30/106,Neutros Cálidos
+2966,#9E8C7F,Marrón Escandinavo - 90YR 29/096,Neutros Cálidos
+2967,#9D8E7E,Piedra Esculpida,Neutros Cálidos
+2968,#AD8972,Cappuccino Claro - 80YR 30/187,Neutros Cálidos
+2969,#998C7C,Conejo Escurridizo - 20YY 29/095,Neutros Cálidos
+2970,#A1926E,Colina Toscana - 50YY 30/192,Neutros Cálidos
+2971,#9D8B70,Bizcocho de Pistacho - 30YY 28/161,Neutros Cálidos
+2972,#A08573,Arca de Noé - 80YR 27/147,Neutros Cálidos
+2973,#9E8472,Mousse de Café - 90YR 26/147,Neutros Cálidos
+2974,#A1876A,Tierra Rocosa - 09YY 28/180,Neutros Cálidos
+2975,#908874,Tierra Urbana - 50YY 27/105,Neutros Cálidos
+2976,#918A70,Musgo Verdoso - 70YY 26/137,Neutros Cálidos
+2977,#A38061,Crème Brûlée - 00YY 26/220,Neutros Cálidos
+2978,#A38061,Crème Brûlée,Neutros Cálidos
+2979,#A38061,Crème Brûlée,Neutros Cálidos
+2980,#A38061,Crème Brûlée,Neutros Cálidos
+2981,#957575,Isla de Palomas - 90RR 22/126,Neutros Cálidos
+2982,#978064,Corte Bruto - 20YY 24/177,Neutros Cálidos
+2983,#948062,Alazán - 30YY 24/177,Neutros Cálidos
+2984,#977C60,Pato Silvestre - 10YY 23/184,Neutros Cálidos
+2985,#8B7A66,Jarro de Cerámica - 20YY 22/129,Neutros Cálidos
+2986,#8C7567,Tinaja Antigua - 80YR 21/118,Neutros Cálidos
+2987,#9A7259,Té de la Tarde - 80YR 21/226,Neutros Cálidos
+2988,#8B7267,Barro - 60YR 20/117,Neutros Cálidos
+2989,#8B7267,Barro,Neutros Cálidos
+2990,#8A7662,Magdalena de Café - 06YY 21/130,Neutros Cálidos
+2991,#9B6D54,Chocolate Caliente - 70YR 20/239,Neutros Cálidos
+2992,#8A6769,Clarete Ahumado - 90RR 18/139,Neutros Cálidos
+2993,#8D6E5A,Marrón Centenario - 80YR 19/177,Neutros Cálidos
+2994,#8D6E5A,Marrón Centenario,Neutros Cálidos
+2995,#8D6E5A,Marrón Centenario,Neutros Cálidos
+2996,#826F63,Molino Marrón - 79YR 19/096,Neutros Cálidos
+2997,#8A7455,Calma - 30YY 20/193,Neutros Cálidos
+2998,#8F6C58,Fotografía Antigua - 70YR 18/184,Neutros Cálidos
+2999,#8A7455,Pantanal - 30YY 20/193,Neutros Cálidos
+3000,#847558,Musgo Ágata - 45YY 20/168,Neutros Cálidos
+3001,#806C65,Camel Oscuro - 47YR 18/085,Neutros Cálidos
+3002,#826A5C,Hongo Japonés - 80YR 17/129,Neutros Cálidos
+3003,#896B54,Especia Picante - 90YR 18/177,Neutros Cálidos
+3004,#796C61,Moneda Antigua,Neutros Cálidos
+3005,#796C61,Moneda Antigua - 94YR 17/076,Neutros Cálidos
+3006,#88625A,Chocolate Liviano - 30YR 16/162,Neutros Cálidos
+3007,#88625A,Chocolate Liviano,Neutros Cálidos
+3008,#7B6364,Licor de Ciruela - 90RR 16/095,Neutros Cálidos
+3009,#7B6364,Licor de Ciruela,Neutros Cálidos
+3010,#906A46,Támara - 00YY 19/261,Neutros Cálidos
+3011,#787256,Vergel Verde - 70YY 18/152,Neutros Cálidos
+3012,#7C6A55,Cabaña de Paja - 10YY 17/140,Neutros Cálidos
+3013,#7F6359,Tierra Brasileña - 50YR 16/127,Neutros Cálidos
+3014,#7C625C,Trufa de Chocolate - 30YR 15/112,Neutros Cálidos
+3015,#7C6655,Chocolate Claro - 90YR 16/129,Neutros Cálidos
+3016,#85634E,Marrón Tostado - 80YR 16/193,Neutros Cálidos
+3017,#7F6948,Caqui Intenso - 30YY 17/209,Neutros Cálidos
+3018,#6E6256,Mangle - 10YY 14/080,Neutros Cálidos
+3019,#785E4E,Hoja Seca - 80YR 14/140,Neutros Cálidos
+3020,#6F614F,Isla de Pájaros - 19YY 15/105,Neutros Cálidos
+3021,#765B4D,Chalet de Chocolate - 70YR 13/140,Neutros Cálidos
+3022,#735F49,Pura Sangre - 10YY 13/152,Neutros Cálidos
+3023,#7D623B,Oro Minero - 20YY 15/245,Neutros Cálidos
+3024,#7D623B,Oro Minero,Neutros Cálidos
+3025,#6D5E4D,Café - 11YY 14/105,Neutros Cálidos
+3026,#726241,Hoja de Roble - 40YY 14/201,Neutros Cálidos
+3027,#71554E,Guirnalda - 30YR 12/122,Neutros Cálidos
+3028,#6B5253,Desayuno con Brownies - 87RR 12/095,Neutros Cálidos
+3029,#675750,Leño Humeante - 54YR 12/074,Neutros Cálidos
+3030,#5B5A58,Lápiz Mágico - 87YR 12/005,Neutros Cálidos
+3031,#66554D,Marrón Pirata - 70YR 12/077,Neutros Cálidos
+3032,#63584C,Magdalena de Cacao - 07YY 12/071,Neutros Cálidos
+3033,#745D36,Viaje Atractivo - 30YY 12/263,Neutros Cálidos
+3034,#745D36,Tronco de Árbol - 30YY 12/263,Neutros Cálidos
+3035,#7C503A,Preciosa Pacana - 62YR 13/217,Neutros Cálidos
+3036,#5F5A4C,Oscura Melodía - 55YY 12/069,Neutros Cálidos
+3037,#765935,Bronce Olímpico - 20YY 12/263,Neutros Cálidos
+3038,#605948,Arcilla Artesanal - 50YY 12/095,Neutros Cálidos
+3039,#6A583E,Marrón Oliva - 20YY 12/163,Neutros Cálidos
+3040,#6C5141,Toque de Madera - 80YR 11/151,Neutros Cálidos
+3041,#6D5539,Arboles Altos - 10YY 11/187,Neutros Cálidos
+3042,#625841,Suelo del Bosque - 48YY 12/123,Neutros Cálidos
+3043,#67494B,Pitanga Salvaje - 90RR 10/119,Neutros Cálidos
+3044,#5D5447,Camuflaje - 30YY 11/076,Neutros Cálidos
+3045,#6C4E3E,Brownie Americano - 65YR 11/146,Neutros Cálidos
+3046,#604F47,Marrón Artesano - 71YR 08/119,Neutros Cálidos
+3047,#6B5137,Ocre Italiano - 10YY 09/200,Neutros Cálidos
+3048,#6A4A3E,Marrón Habana - 50YR 10/151,Neutros Cálidos
+3049,#6A4A3E,Marrón Habana,Neutros Cálidos
+3050,#645636,Musgo Asiático - 45YY 11/200,Neutros Cálidos
+3051,#645239,Tundra - 30YY 09/175,Neutros Cálidos
+3052,#724D30,Camino Arbolado - 90YR 10/244,Neutros Cálidos
+3053,#6A4E36,Café Moca - 00YY 09/186,Neutros Cálidos
+3054,#664D3B,Nido de Aves - 90YR 10/151,Neutros Cálidos
+3055,#5F4546,Toque de Arcilla - 82RR 10/097,Neutros Cálidos
+3056,#634F35,Marrón Turco - 20YY 09/175,Neutros Cálidos
+3057,#634F35,Colinas de Turquía - 20YY 09/175,Neutros Cálidos
+3058,#5B4A41,Tronco de Sándalo - 70YR 09/086,Neutros Cálidos
+3059,#5B4941,Marrón Auténtico - 60YR 09/086,Neutros Cálidos
+3060,#594B3F,Marrón Pizarra - 00YY 09/087,Neutros Cálidos
+3061,#594B3F,Marrón Pizarra,Neutros Cálidos
+3062,#5A5335,Suelo de Floresta - 70YY 09/175,Neutros Cálidos
+3063,#5A4A3D,Henna Hilarante - 91YR 10/089,Neutros Cálidos
+3064,#624736,Chocolate con Leche - 80YR 09/163,Neutros Cálidos
+3065,#674332,Casa de Campo - 60YR 08/186,Neutros Cálidos
+3066,#57453E,Cuero Elegante - 48YR 09/077,Neutros Cálidos
+3067,#5D3E3F,Canto de Sirenas - 90RR 08/129,Neutros Cálidos
+3068,#654330,Bronce Talismán - 70YR 08/186,Neutros Cálidos
+3069,#54473B,Mosaico de Piedras - 10YY 08/093,Neutros Cálidos
+3070,#52483B,Corteza Quemada - 30YY 08/082,Neutros Cálidos
+3071,#52463B,Chocolate Delicioso - 00YY 09/069,Neutros Cálidos
+3072,#5E3E32,Cookie - 50YR 07/162,Neutros Cálidos
+3073,#5E3B34,Bizcocho de Chocolate - 30YR 07/157,Neutros Cálidos
+3074,#533A3E,Bordeaux Negro - 70RR 07/100,Neutros Cálidos
+3075,#573A38,Rojo Marruecos - 10YR 07/125,Neutros Cálidos
+3076,#4A423A,Roble Magnífico - 06YY 08/048,Neutros Cálidos
+3077,#484737,Estragón - 90YY 07/093,Neutros Cálidos
+3078,#503E37,Beso de Chocolate - 60YR 07/093,Neutros Cálidos
+3079,#5A3732,Marrón Burgués - 13YR 07/157,Neutros Cálidos
+3080,#5A3732,Anís Estrellado - 13YR 07/157,Neutros Cálidos
+3081,#4D4033,Dulce de Banana - 10YY 06/100,Neutros Cálidos
+3082,#4D3F33,Tierra Lejana - 00YY 07/093,Neutros Cálidos
+3083,#4E3D34,Marrón Profundo - 70YR 07/093,Neutros Cálidos
+3084,#4E3A34,Mousse de Cacao - 48YR 06/091,Neutros Cálidos
+3085,#4A3832,Marrón Trufa - 50YR 06/081,Neutros Cálidos
+3086,#453432,Alpargata - 18YR 05/072,Neutros Cálidos
+3087,#482E32,Marrón Bellota - 84RR 05/082,Neutros Cálidos
+3088,#442529,Chocolate Chic - 74RR 05/092,Neutros Cálidos
+3089,#F0E8DD,Lino Rústico - 10YY 83/057,Soft Neutros Cálidos
+3090,#EFE7DC,Mariposa Nocturna - 21YY 82/053,Soft Neutros Cálidos
+3091,#ECE5DF,Pliegues de Chiffon - 93YR 80/033,Soft Neutros Cálidos
+3092,#EAE5DE,Casamiento Memorable - 99YR 82/029,Soft Neutros Cálidos
+3093,#DFDBDA,Alas de Paloma - 10RR 73/016,Soft Neutros Cálidos
+3094,#DED9D6,Cordillera - 60YR 73/015,Soft Neutros Cálidos
+3095,#DBD7D5,Sensación Espaciosa - 08YR 70/012,Soft Neutros Cálidos
+3096,#D8D4CE,Beige Cebada - 30YY 68/024,Soft Neutros Cálidos
+3097,#D5CECD,Bruma Lavanda - 90RR 64/025,Soft Neutros Cálidos
+3098,#D9CEC4,Bizcocho - 00YY 65/060,Soft Neutros Cálidos
+3099,#D2CFC6,Gris Emblemático - 50YY 63/041,Soft Neutros Cálidos
+3100,#D2CDC6,Calcáreo - 00YY 63/024,Soft Neutros Cálidos
+3101,#D5CCC4,Blanco Unicornio - 10YY 64/048,Soft Neutros Cálidos
+3102,#D2CDC6,Calcáreo,Soft Neutros Cálidos
+3103,#D8CBC0,Beige Osado - 00YY 63/067,Soft Neutros Cálidos
+3104,#CDCBC9,Sombra Blanca - 50YR 62/008,Soft Neutros Cálidos
+3105,#CECCC3,Vida Urbana - 44YY 65/034,Soft Neutros Cálidos
+3106,#D2CABF,Sensación de Piedra - 19YY 61/057,Soft Neutros Cálidos
+3107,#CDC0B9,Turrón de Almendra - 67YR 56/055,Soft Neutros Cálidos
+3108,#C4C0C0,Natural Urbano - 50RR 54/018,Soft Neutros Cálidos
+3109,#C5BFB9,Niebla Romana - 10YY 54/034,Soft Neutros Cálidos
+3110,#C5BEBA,Brote de Bambú - 60YR 54/028,Soft Neutros Cálidos
+3111,#C9BDB7,Malva China - 60YR 56/049,Soft Neutros Cálidos
+3112,#BEBCBA,Costa Plateada - 50YR 53/011,Soft Neutros Cálidos
+3113,#C4BDB0,Pluma Gris - 39YY 53/067,Soft Neutros Cálidos
+3114,#BEB4B1,Sensación de Humo - 33YR 48/037,Soft Neutros Cálidos
+3115,#C1B8A8,Antílope - 40YY 51/084,Soft Neutros Cálidos
+3116,#C0B4AB,Almendra Confitada - 90YR 48/062,Soft Neutros Cálidos
+3117,#C0B4AB,Almendra Confitada,Soft Neutros Cálidos
+3118,#BAB3AC,Blanco Chinchilla - 10YY 46/041,Soft Neutros Cálidos
+3119,#B7B3AC,Zepelín - 30YY 46/036,Soft Neutros Cálidos
+3120,#B7B3AC,Zepelín,Soft Neutros Cálidos
+3121,#BDB1A6,Anochecer Fogoso - 96YR 46/065,Soft Neutros Cálidos
+3122,#B1AEAC,Arrecife Plateado - 50YR 45/014,Soft Neutros Cálidos
+3123,#B7AFA4,Rocas en Movimiento - 21YY 45/060,Soft Neutros Cálidos
+3124,#B6AB9D,Beige Pergamino - 20YY 43/083,Soft Neutros Cálidos
+3125,#B0AAA0,Madera Ahumada - 40YY 41/054,Soft Neutros Cálidos
+3126,#A5A2A0,Despeñadero - 50YR 38/017,Soft Neutros Cálidos
+3127,#A19B98,Dije de Plata - 34YR 35/025,Soft Neutros Cálidos
+3128,#9F9899,Gris Niebla - 50RR 32/029,Soft Neutros Cálidos
+3129,#9F9899,Gris Niebla,Soft Neutros Cálidos
+3130,#9E9890,Camino Urbano - 15YY 33/043,Soft Neutros Cálidos
+3131,#A09591,Senda para Caminata - 60YR 33/047,Soft Neutros Cálidos
+3132,#9E9890,Camino Urbano,Soft Neutros Cálidos
+3133,#9D978F,Estaño Pulido - 30YY 33/047,Soft Neutros Cálidos
+3134,#A1948C,Molde de Arcilla - 73YR 32/063,Soft Neutros Cálidos
+3135,#9D948B,Torre de Tierra - 02YY 32/054,Soft Neutros Cálidos
+3136,#92897F,Sargazo - 10YY 27/060,Soft Neutros Cálidos
+3137,#8D8885,Niquel - 50YR 26/023,Soft Neutros Cálidos
+3138,#867E7D,Gris Adoquín - 04YR 24/029,Soft Neutros Cálidos
+3139,#807A7C,Granito Húmedo - 30RR 22/031,Soft Neutros Cálidos
+3140,#807A7C,Granito Húmedo,Soft Neutros Cálidos
+3141,#857A74,Piedra Sofisticada - 62YR 22/051,Soft Neutros Cálidos
+3142,#847B72,Horno de Arcilla - 02YY 22/055,Soft Neutros Cálidos
+3143,#857873,Vidrio Ahumado - 50YR 22/052,Soft Neutros Cálidos
+3144,#817B73,Gamuza Gris - 24YY 22/043,Soft Neutros Cálidos
+3145,#817B72,Gris Tweed - 30YY 22/059,Soft Neutros Cálidos
+3146,#7D7974,Sierra - 30YY 20/029,Soft Neutros Cálidos
+3147,#786D60,Arcilla Enmarañada - 21YY 18/079,Soft Neutros Cálidos
+3148,#6E6867,Artilugio Gris - 22YR 17/023,Soft Neutros Cálidos
+3149,#6E6867,Artilugio Gris,Soft Neutros Cálidos
+3150,#6C6965,Sagrado Gris - 17YY 16/022,Soft Neutros Cálidos
+3151,#6C645F,Embarcadero de Piedra - 95YR 16/038,Soft Neutros Cálidos
+3152,#676162,Gris Generoso - 38RR 15/026,Soft Neutros Cálidos
+3153,#66605C,Medianoche - 50YR 13/032,Soft Neutros Cálidos
+3154,#696155,Ardilla Gris - 30YY 14/070,Soft Neutros Cálidos
+3155,#5F5654,Sombras de Acero - 16YR 12/037,Soft Neutros Cálidos
+3156,#555656,Ágata de Islandia - 00NN 13/000,Soft Neutros Cálidos
+3157,#53504D,Ave de la Tormenta - 20YY 11/017,Soft Neutros Cálidos
+3158,#534F49,Bosque Negro - 30YY 10/038,Soft Neutros Cálidos
+3159,#54494B,Oscuro Desierto - 47RR 10/045,Soft Neutros Cálidos
+3160,#4F4E49,Profunda Oscuridad - 64YY 10/021,Soft Neutros Cálidos
+3161,#514C47,Humo Espeso - 96YR 09/033,Soft Neutros Cálidos
+3162,#4D4A4A,Carbón Ardiente - 62RR 09/009,Soft Neutros Cálidos
+3163,#4E4448,Chocolate Amargo - 30RR 08/044,Soft Neutros Cálidos
+3164,#48433F,Carbonilla - 91YR 08/025,Soft Neutros Cálidos
+3165,#48433F,Carbonilla,Soft Neutros Cálidos
+3166,#4A413E,Casa Grande - 50YR 08/038,Soft Neutros Cálidos
+3167,#4A413E,Casa Grande,Soft Neutros Cálidos
+3168,#4A413E,Clavo de la India - 50YR 08/038,Soft Neutros Cálidos
+3169,#4F4532,Caverna Oscura - 40YY 08/107,Soft Neutros Cálidos
+3170,#41393B,Intensidad Nocturna - 39RR 07/029,Soft Neutros Cálidos
+3171,#3F3934,Lado Negro - 30YY 05/044,Soft Neutros Cálidos
+3172,#3F3934,Casa en el Bosque - 30YY 05/044,Soft Neutros Cálidos
