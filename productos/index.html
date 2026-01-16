@@ -40,56 +40,101 @@
         <div id="productContainer" class="product-grid"></div>
     </div>
 
-    <script>
-        let productsData = [];
-        function limpiar(t) { return t ? t.toString().replace(/\/g, '').trim() : ""; }
+<script>
+    let productsData = [];
 
-        async function load() {
-            try {
-                const resp = await fetch('productos.csv?v=' + Date.now());
-                const csv = await resp.text();
-                Papa.parse(csv, {
-                    header: true,
-                    skipEmptyLines: true,
-                    complete: function(res) {
-                        productsData = res.data;
-                        render(productsData);
-                    }
-                });
-            } catch (e) { console.error("Error cargando CSV"); }
+    // Función para limpiar texto de basura como
+    function limpiar(t) {
+        if (!t) return "";
+        return t.toString().replace(/\/g, '').trim();
+    }
+
+    async function load() {
+        const cont = document.getElementById('productContainer');
+        try {
+            const resp = await fetch('productos.csv?v=' + Date.now());
+            if (!resp.ok) throw new Error("No se encontró el archivo productos.csv");
+            
+            const csv = await resp.text();
+
+            Papa.parse(csv, {
+                header: true,
+                skipEmptyLines: true,
+                complete: function(res) {
+                    console.log("Datos recibidos:", res.data); // Para revisar en la consola F12
+                    productsData = res.data;
+                    render(productsData);
+                }
+            });
+        } catch (e) {
+            cont.innerHTML = `<p style="color:#ff6b6b; text-align:center; grid-column:1/-1;">
+                Error: ${e.message}<br>Asegúrate de que productos.csv esté en la carpeta /productos/
+            </p>`;
+        }
+    }
+
+    function render(data) {
+        const cont = document.getElementById('productContainer');
+        cont.innerHTML = '';
+
+        if (data.length === 0) {
+            cont.innerHTML = "<p style='text-align:center; grid-column:1/-1;'>No hay datos en el CSV.</p>";
+            return;
         }
 
-        function render(data) {
-            const cont = document.getElementById('productContainer');
-            cont.innerHTML = data.map(p => {
-                if(!p.Producto) return '';
-                return `
-                <div class="product-card">
-                    <div class="product-header">
-                        <span class="category-tag">${limpiar(p.Categoría)}</span>
-                        <h3 style="margin:5px 0; color:white;">${limpiar(p.Producto)}</h3>
-                    </div>
-                    <div style="padding:20px">
-                        <p style="font-size:0.85rem; color:#bbb; min-height:45px; margin-bottom:15px;">${limpiar(p.Descripción)}</p>
-                        <table class="price-table">
-                            <tr><td>4 lts</td><td class="amount">${limpiar(p['Precio 4lts'])}</td></tr>
-                            <tr><td>10 lts</td><td class="amount">${limpiar(p['Precio 10lts'])}</td></tr>
-                            <tr><td>20 lts</td><td class="amount">${limpiar(p['Precio 20lts'])}</td></tr>
-                        </table>
-                    </div>
-                    <a href="https://wa.me/5491100000000" class="btn-whatsapp">Consultar WhatsApp</a>
+        data.forEach(p => {
+            // BUSCADOR INTELIGENTE DE COLUMNAS (Para evitar errores de tildes o espacios)
+            const getVal = (regex) => {
+                const key = Object.keys(p).find(k => regex.test(k));
+                return key ? limpiar(p[key]) : "";
+            };
+
+            const nombre = getVal(/prod/i);
+            const cat = getVal(/cat/i) || "General";
+            const desc = getVal(/desc/i);
+            const p4 = getVal(/4l/i) || "Cons.";
+            const p10 = getVal(/10l/i) || "Cons.";
+            const p20 = getVal(/20l/i) || "Cons.";
+
+            if (!nombre) return; 
+
+            const card = document.createElement('div');
+            card.className = 'product-card';
+            card.innerHTML = `
+                <div class="product-header">
+                    <span class="badge category-tag">${cat}</span>
+                    <h3 style="margin:5px 0; color:white;">${nombre}</h3>
                 </div>
-            `}).join('');
-        }
+                <div style="padding:20px">
+                    <p style="font-size:0.85rem; color:#bbb; min-height:45px; margin-bottom:15px;">${desc}</p>
+                    <table class="price-table">
+                        <tr><td style="color:#888">Envase 4 lts</td><td class="amount">${p4}</td></tr>
+                        <tr><td style="color:#888">Envase 10 lts</td><td class="amount">${p10}</td></tr>
+                        <tr><td style="color:#888">Envase 20 lts</td><td class="amount">${p20}</td></tr>
+                    </table>
+                </div>
+                <div class="footer-card">
+                    <a href="https://wa.me/5491100000000" target="_blank" class="btn-whatsapp">Consultar WhatsApp</a>
+                </div>
+            `;
+            cont.appendChild(card);
+        });
+    }
 
-        document.getElementById('searchInput').oninput = (e) => {
-            const term = e.target.value.toLowerCase();
-            render(productsData.filter(p => (p.Producto||'').toLowerCase().includes(term) || (p.Categoría||'').toLowerCase().includes(term)));
-        };
-        load();
-    </script>
+    document.getElementById('searchInput').oninput = (e) => {
+        const term = e.target.value.toLowerCase();
+        const filtered = productsData.filter(p => {
+            const str = JSON.stringify(p).toLowerCase();
+            return str.includes(term);
+        });
+        render(filtered);
+    };
+
+    load();
+</script>
 </body>
 </html>
+
 
 
 
