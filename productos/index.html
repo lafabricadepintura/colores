@@ -9,20 +9,20 @@
         :root { --accent: #8bc34a; --bg: #1e1e1e; --card-bg: #2a2a2a; }
         body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: white; margin: 0; }
         header { background: #252525; padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 15px rgba(0,0,0,0.5); }
-        .logo-main { font-weight: bold; text-decoration: none; color: white; }
-        nav a { text-decoration: none; color: white; margin-left: 20px; font-weight: 600; }
-        nav a.active { color: var(--accent); }
+        .logo-main { font-weight: bold; text-decoration: none; color: white; font-size: 1.3rem; }
+        nav a { text-decoration: none; color: white; margin-left: 20px; font-weight: 600; font-size: 0.9rem; }
         .search-section { background: #151515; padding: 30px 20px; text-align: center; }
-        .search-bar { width: 100%; max-width: 500px; padding: 12px 20px; border-radius: 25px; border: 1px solid #333; background: #222; color: white; outline: none; }
+        .search-bar { width: 100%; max-width: 500px; padding: 14px 25px; border-radius: 30px; border: 1px solid #333; background: #222; color: white; outline: none; font-size: 1rem; }
         .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
         .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; }
-        .product-card { background: var(--card-bg); border-radius: 12px; overflow: hidden; border: 1px solid #333; display: flex; flex-direction: column; }
-        .product-header { padding: 20px; background: #333; border-bottom: 1px solid #444; }
-        .category-tag { font-size: 0.7rem; font-weight: bold; color: var(--accent); text-transform: uppercase; }
+        .product-card { background: var(--card-bg); border-radius: 15px; overflow: hidden; border: 1px solid #333; display: flex; flex-direction: column; transition: 0.3s; }
+        .product-card:hover { border-color: var(--accent); transform: translateY(-5px); }
+        .product-header { padding: 20px; background: #333; }
+        .category-tag { font-size: 0.7rem; font-weight: 800; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; }
         .price-table { width: 100%; border-collapse: collapse; margin-top: 15px; }
-        .price-table td { padding: 10px 0; border-top: 1px solid #383838; font-size: 0.9rem; }
-        .amount { text-align: right; font-weight: bold; color: var(--accent); }
-        .btn-whatsapp { display: block; background: #25d366; color: white; text-align: center; padding: 12px; text-decoration: none; font-weight: bold; }
+        .price-table td { padding: 12px 0; border-top: 1px solid #3d3d3d; font-size: 0.95rem; }
+        .amount { text-align: right; font-weight: 700; color: var(--accent); }
+        .btn-whatsapp { display: block; background: #25d366; color: white; text-align: center; padding: 15px; text-decoration: none; font-weight: 800; font-size: 0.9rem; }
     </style>
 </head>
 <body>
@@ -30,75 +30,86 @@
 <header>
     <a href="../index.html" class="logo-main">LA FÁBRICA <span style="color:var(--accent)">PINTURAS</span></a>
     <nav>
-        <a href="index.html" class="active">PRODUCTOS</a>
+        <a href="index.html" style="color:var(--accent)">PRODUCTOS</a>
         <a href="../colores/index.html">COLORES</a>
     </nav>
 </header>
 
 <section class="search-section">
-    <input type="text" id="searchInput" class="search-bar" placeholder="Buscar productos...">
+    <input type="text" id="searchInput" class="search-bar" placeholder="Buscar látex, membrana, esmalte...">
 </section>
 
 <div class="container">
     <div id="productContainer" class="product-grid">
-        <p id="msg" style="grid-column: 1/-1; text-align: center;">Cargando catálogo...</p>
+        <p id="loading" style="grid-column: 1/-1; text-align: center; color: #666;">Cargando catálogo oficial...</p>
     </div>
 </div>
 
 <script>
-    var items = [];
+    var baseDeDatos = [];
+
+    // Esta función limpia los "cite" y textos pegados que viste
+    function limpiar(texto) {
+        if (!texto) return "Cons.";
+        var limpia = texto.toString();
+        // Elimina todo lo que esté entre corchetes [ ]
+        if (limpia.indexOf("[") !== -1) {
+            limpia = limpia.split("[")[0];
+        }
+        return limpia.trim();
+    }
 
     function cargar() {
         Papa.parse("productos.csv", {
             download: true,
             header: true,
             skipEmptyLines: true,
-            complete: function(results) {
-                items = results.data;
-                dibujar(items);
+            complete: function(res) {
+                baseDeDatos = res.data;
+                dibujar(baseDeDatos);
             }
         });
     }
 
-    function dibujar(datos) {
-        var html = "";
+    function dibujar(lista) {
         var container = document.getElementById("productContainer");
-        
-        for (var i = 0; i < datos.length; i++) {
-            var p = datos[i];
-            if (!p.Producto) continue;
+        var codes = "";
 
-            html += '<div class="product-card">';
-            html += '<div class="product-header">';
-            html += '<span class="category-tag">' + (p.Categoría || "") + '</span>';
-            html += '<h3 style="margin:5px 0">' + p.Producto + '</h3>';
-            html += '</div>';
-            html += '<div style="padding:20px; flex-grow:1">';
-            html += '<p style="font-size:0.85rem; color:#bbb; margin-bottom:15px">' + (p.Descripción || "") + '</p>';
-            html += '<table class="price-table">';
-            html += '<tr><td>4 Lts</td><td class="amount">' + (p["Precio 4lts"] || "-") + '</td></tr>';
-            html += '<tr><td>10 Lts</td><td class="amount">' + (p["Precio 10lts"] || "-") + '</td></tr>';
-            html += '<tr><td>20 Lts</td><td class="amount">' + (p["Precio 20lts"] || "-") + '</td></tr>';
-            html += '</table>';
-            html += '</div>';
-            html += '<a href="https://wa.me/5491100000000" class="btn-whatsapp" target="_blank">WHATSAPP</a>';
-            html += '</div>';
+        for (var i = 0; i < lista.length; i++) {
+            var p = lista[i];
+            var nombre = limpiar(p.Producto);
+            if (nombre === "Cons." || !nombre) continue;
+
+            codes += '<div class="product-card">';
+            codes += '<div class="product-header">';
+            codes += '<span class="category-tag">' + limpiar(p.Categoría) + '</span>';
+            codes += '<h3 style="margin:5px 0; font-size: 1.2rem;">' + nombre + '</h3>';
+            codes += '</div>';
+            codes += '<div style="padding:20px; flex-grow:1">';
+            codes += '<p style="font-size:0.85rem; color:#aaa; margin-bottom:15px; line-height:1.4;">' + limpiar(p.Descripción) + '</p>';
+            codes += '<table class="price-table">';
+            codes += '<tr><td>Envase 4 Lts</td><td class="amount">' + limpiar(p["Precio 4lts"]) + '</td></tr>';
+            codes += '<tr><td>Envase 10 Lts</td><td class="amount">' + limpiar(p["Precio 10lts"]) + '</td></tr>';
+            codes += '<tr><td>Envase 20 Lts</td><td class="amount">' + limpiar(p["Precio 20lts"]) + '</td></tr>';
+            codes += '</table>';
+            codes += '</div>';
+            codes += '<a href="https://wa.me/542214989579" class="btn-whatsapp" target="_blank">Consultá por WhatsApp</a>';
+            codes += '</div>';
         }
-        
-        container.innerHTML = html || "<p>No hay productos.</p>";
+        container.innerHTML = codes || "<p>No se encontraron resultados.</p>";
     }
 
-    document.getElementById("searchInput").onkeyup = function() {
-        var busqueda = this.value.toLowerCase();
-        var filtrados = items.filter(function(x) {
-            return (x.Producto || "").toLowerCase().indexOf(busqueda) > -1;
+    document.getElementById("searchInput").oninput = function() {
+        var t = this.value.toLowerCase();
+        var f = baseDeDatos.filter(function(item) {
+            return (item.Producto || "").toLowerCase().indexOf(t) > -1 || 
+                   (item.Categoría || "").toLowerCase().indexOf(t) > -1;
         });
-        dibujar(filtrados);
+        dibujar(f);
     };
 
     cargar();
 </script>
-
 </body>
 </html>
 
