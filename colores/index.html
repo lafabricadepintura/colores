@@ -14,22 +14,25 @@
         nav a { text-decoration: none; color: #bbb; margin-left: 20px; font-weight: 600; font-size: 0.9rem; }
         nav a.active { color: var(--accent); }
 
-        .search-section { background: #151515; padding: 20px; text-align: center; }
-        .filter-container { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; max-width: 1100px; margin: 15px auto 0; }
+        .search-section { background: #151515; padding: 20px; text-align: center; position: sticky; top: 60px; z-index: 999; }
+        .search-bar { width: 100%; max-width: 500px; padding: 12px 20px; border-radius: 25px; border: 1px solid #333; background: #222; color: white; outline: none; margin-bottom: 15px; font-size: 1rem; }
+        .search-bar:focus { border-color: var(--accent); }
+
+        .filter-container { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; max-width: 1100px; margin: 0 auto; }
         .filter-badge { padding: 8px 18px; border-radius: 20px; background: #333; font-size: 0.8rem; cursor: pointer; border: 1px solid #444; color: #eee; text-transform: capitalize; }
         .filter-badge.active { background: var(--accent); color: #000; font-weight: bold; border-color: var(--accent); }
 
-        .container { max-width: 1300px; margin: 20px auto; padding: 0 20px; }
+        .container { max-width: 1300px; margin: 20px auto; padding: 0 20px; min-height: 100vh; }
         .sub-section { margin-bottom: 40px; }
         .sub-title { color: var(--accent); font-size: 1.1rem; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; font-weight: bold; }
         .sub-title::after { content: ""; flex: 1; height: 1px; background: #444; margin-left: 15px; }
 
         .color-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 15px; }
-        .color-card { background: var(--card-bg); border-radius: 10px; overflow: hidden; border: 1px solid #333; position: relative; }
+        .color-card { background: var(--card-bg); border-radius: 10px; overflow: hidden; border: 1px solid #333; transition: 0.2s; position: relative; }
         .color-sample { height: 100px; width: 100%; position: relative; }
         .popular-tag { background: var(--accent); color: #000; font-size: 9px; padding: 2px 5px; font-weight: bold; position: absolute; top: 0; left: 0; border-bottom-right-radius: 5px; }
         .color-info { padding: 10px; text-align: center; }
-        .color-name { font-weight: bold; font-size: 0.75rem; display: block; height: 32px; overflow: hidden; }
+        .color-name { font-weight: bold; font-size: 0.75rem; display: block; height: 32px; overflow: hidden; line-height: 1.2; }
         .color-id { font-size: 0.65rem; color: #888; margin-top: 5px; display: block; }
     </style>
 </head>
@@ -44,6 +47,7 @@
 </header>
 
 <section class="search-section">
+    <input type="text" id="colorSearch" class="search-bar" placeholder="Buscar color por nombre o código...">
     <div class="filter-container" id="badgesSpace"></div>
 </section>
 
@@ -64,13 +68,10 @@
         });
     }
 
-    // LIMPIEZA MEJORADA: Ignora mayúsculas/minúsculas al limpiar
     function getFamily(type) {
         if (!type) return "";
         let t = type.trim();
         if (t.toLowerCase().includes("neutros")) return "Neutros";
-        
-        // El uso de /regex/i hace que sea insensible a mayúsculas (case-insensitive)
         return t.replace(/popular/i, "").replace(/soft/i, "").trim();
     }
 
@@ -95,6 +96,7 @@
             div.innerText = family;
             div.onclick = function() {
                 activeFamily = family;
+                document.getElementById("colorSearch").value = ""; // Limpiar busqueda al cambiar categoria
                 document.querySelectorAll('.filter-badge').forEach(b => b.classList.remove('active'));
                 this.classList.add('active');
                 renderStructured();
@@ -105,58 +107,66 @@
 
     function renderStructured() {
         const container = document.getElementById("mainRenderSpace");
+        const search = document.getElementById("colorSearch").value.toLowerCase();
         container.innerHTML = "";
 
-        // Usamos una comparación flexible para renderizar los subtítulos
-        // Buscamos en la data los color_type que "contengan" las palabras clave
-        const subOrden = ["popular", "base", "soft"];
-        
-        let subtiposReales = [...new Set(colorData
-            .filter(c => getFamily(c.color_type) === activeFamily)
-            .map(c => c.color_type.trim())
-        )];
+        if (search.length > 0) {
+            // MODO BUSQUEDA GLOBAL
+            const filtrados = colorData.filter(c => 
+                c.color_name.toLowerCase().includes(search) || 
+                c.color_id.toLowerCase().includes(search)
+            ).slice(0, 200);
 
-        // Ordenamos los subtipos encontrados según tu jerarquía
-        subtiposReales.sort((a, b) => {
-            const getRank = (s) => {
-                if (s.toLowerCase().includes("popular")) return 1;
-                if (s.toLowerCase().includes("soft")) return 3;
-                return 2;
-            };
-            return getRank(a) - getRank(b);
-        });
+            let html = `<div class="sub-title">RESULTADOS DE BÚSQUEDA</div><div class="color-grid">`;
+            filtrados.forEach(c => html += generateCard(c));
+            html += `</div>`;
+            container.innerHTML = html;
+        } else {
+            // MODO POR CATEGORIA Y SUBTIPOS
+            let subtiposReales = [...new Set(colorData
+                .filter(c => getFamily(c.color_type) === activeFamily)
+                .map(c => c.color_type.trim())
+            )];
 
-        subtiposReales.forEach(sub => {
-            const colores = colorData.filter(c => c.color_type.trim() === sub);
-            
-            if (colores.length > 0) {
-                const section = document.createElement("div");
-                section.className = "sub-section";
-                
-                let html = `<div class="sub-title">${sub}</div>`;
-                html += `<div class="color-grid">`;
-                
-                colores.forEach(c => {
-                    const esPopular = c.color_type.toLowerCase().includes("popular");
-                    html += `
-                        <div class="color-card" ${esPopular ? 'style="border-color:var(--accent)"' : ''}>
-                            <div class="color-sample" style="background-color: ${c.color_hex}">
-                                ${esPopular ? '<span class="popular-tag">★ POPULAR</span>' : ''}
-                            </div>
-                            <div class="color-info">
-                                <span class="color-name">${c.color_name}</span>
-                                <span class="color-id">Cód: ${c.color_id}</span>
-                            </div>
-                        </div>`;
-                });
-                
-                html += `</div>`;
-                section.innerHTML = html;
-                container.appendChild(section);
-            }
-        });
+            subtiposReales.sort((a, b) => {
+                const getRank = (s) => {
+                    if (s.toLowerCase().includes("popular")) return 1;
+                    if (s.toLowerCase().includes("soft")) return 3;
+                    return 2;
+                };
+                return getRank(a) - getRank(b);
+            });
+
+            subtiposReales.forEach(sub => {
+                const colores = colorData.filter(c => c.color_type.trim() === sub);
+                if (colores.length > 0) {
+                    const section = document.createElement("div");
+                    section.className = "sub-section";
+                    let html = `<div class="sub-title">${sub}</div><div class="color-grid">`;
+                    colores.forEach(c => html += generateCard(c));
+                    html += `</div>`;
+                    section.innerHTML = html;
+                    container.appendChild(section);
+                }
+            });
+        }
     }
 
+    function generateCard(c) {
+        const esPopular = c.color_type.toLowerCase().includes("popular");
+        return `
+            <div class="color-card" ${esPopular ? 'style="border-color:var(--accent)"' : ''}>
+                <div class="color-sample" style="background-color: ${c.color_hex}">
+                    ${esPopular ? '<span class="popular-tag">★ POPULAR</span>' : ''}
+                </div>
+                <div class="color-info">
+                    <span class="color-name">${c.color_name}</span>
+                    <span class="color-id">Cód: ${c.color_id}</span>
+                </div>
+            </div>`;
+    }
+
+    document.getElementById("colorSearch").oninput = renderStructured;
     window.onload = loadCSV;
 </script>
 </body>
