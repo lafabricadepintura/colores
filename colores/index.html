@@ -3,86 +3,126 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gama de Colores | La Fábrica</title>
+    <title>Paleta de Colores | La Fábrica</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
     <style>
-        :root { --primary: #ffffff; --accent: #8bc34a; --bg: #1e1e1e; }
+        :root { --accent: #8bc34a; --bg: #1e1e1e; --card-bg: #2a2a2a; }
         body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: white; margin: 0; }
-        header { background: #252525; padding: 1rem 2rem; position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 10px rgba(0,0,0,0.5); display: flex; justify-content: space-between; align-items: center; }
-        .logo-main { font-weight: bold; text-decoration: none; color: white; }
-        nav a { text-decoration: none; color: white; margin-left: 20px; font-weight: 600; font-size: 0.9rem; }
-        nav a.active { color: var(--accent); }
-        .search-section { background: #151515; padding: 30px 20px; text-align: center; }
-        .search-bar { width: 100%; max-width: 500px; padding: 12px; border-radius: 25px; border: 1px solid #333; background: #222; color: white; outline: none; }
-        .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; }
-        .card { background: #2a2a2a; border-radius: 8px; overflow: hidden; border: 1px solid #333; cursor: pointer; transition: 0.3s; }
-        .card:hover { transform: scale(1.05); border-color: var(--accent); }
-        .swatch { height: 100px; width: 100%; }
-        .info { padding: 10px; font-size: 0.75rem; text-align: center; }
-        h2 { border-left: 5px solid var(--accent); padding-left: 15px; text-transform: uppercase; margin-top: 50px; }
+        
+        header { 
+            background: #252525; padding: 1rem 2rem; display: flex; 
+            justify-content: space-between; align-items: center; 
+            box-shadow: 0 2px 15px rgba(0,0,0,0.5); position: sticky; top: 0; z-index: 1000;
+        }
+        .logo-main { font-weight: bold; text-decoration: none; color: white; font-size: 1.2rem; }
+        nav a { text-decoration: none; color: #bbb; margin-left: 20px; font-weight: 600; font-size: 0.9rem; transition: 0.3s; }
+        nav a:hover, nav a.active { color: var(--accent); }
+
+        .search-section { background: #151515; padding: 20px; text-align: center; }
+        .search-bar { width: 100%; max-width: 500px; padding: 12px 20px; border-radius: 25px; border: 1px solid #333; background: #222; color: white; outline: none; margin-bottom: 15px; }
+        
+        .filter-container { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto; }
+        .filter-badge { padding: 8px 16px; border-radius: 20px; background: #333; font-size: 0.75rem; cursor: pointer; border: 1px solid #444; color: #bbb; transition: 0.2s; }
+        .filter-badge:hover { background: #444; }
+        .filter-badge.active { background: var(--accent); color: #000; font-weight: bold; border-color: var(--accent); }
+
+        .container { max-width: 1300px; margin: 30px auto; padding: 0 20px; }
+        .color-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 15px; }
+        
+        .color-card { background: var(--card-bg); border-radius: 10px; overflow: hidden; border: 1px solid #333; transition: 0.2s; }
+        .color-card:hover { transform: scale(1.05); z-index: 10; border-color: white; }
+        .color-sample { height: 100px; width: 100%; }
+        .color-info { padding: 10px; text-align: center; }
+        .color-name { font-weight: bold; font-size: 0.75rem; display: block; height: 32px; overflow: hidden; line-height: 1.2; }
+        .color-id { font-size: 0.65rem; color: #888; margin-top: 5px; display: block; }
     </style>
 </head>
 <body>
-    <header>
-        <a href="../index.html" class="logo-main">LA FÁBRICA <span style="color:var(--accent)">PINTURAS</span></a>
-        <nav>
-            <a href="../productos/index.html">PRODUCTOS</a>
-            <a href="index.html" class="active">COLORES</a>
-        </nav>
-    </header>
-    <section class="search-section">
-        <input type="text" id="search" class="search-bar" placeholder="Buscar color por nombre o ID...">
-    </section>
-    <div class="container" id="main"></div>
 
-    <script>
-        let rawData = [];
-        async function load() {
-            try {
-                const resp = await fetch('paleta - Hoja 1.csv');
-                const csv = await resp.text();
-                Papa.parse(csv, {
-                    header: true,
-                    complete: function(res) {
-                        const seen = new Set();
-                        rawData = res.data.filter(i => {
-                            if(!i.color_id || seen.has(i.color_id)) return false;
-                            seen.add(i.color_id); return true;
-                        });
-                        render(rawData);
-                    }
-                });
-            } catch (e) { console.error("Error"); }
-        }
+<header>
+    <a href="../index.html" class="logo-main">LA FÁBRICA <span style="color:var(--accent)">PINTURAS</span></a>
+    <nav>
+        <a href="../productos/index.html">PRODUCTOS</a>
+        <a href="index.html" class="active">COLORES</a>
+    </nav>
+</header>
 
-        function render(data) {
-            const main = document.getElementById('main');
-            const groups = data.reduce((acc, c) => {
-                const t = c.color_type || 'Gama General';
-                if(!acc[t]) acc[t] = [];
-                acc[t].push(c); return acc;
-            }, {});
-            main.innerHTML = Object.keys(groups).map(t => `
-                <h2>${t}</h2>
-                <div class="grid">${groups[t].map(i => `
-                    <div class="card" onclick="navigator.clipboard.writeText('${i.color_hex}')">
-                        <div class="swatch" style="background:${i.color_hex}"></div>
-                        <div class="info">
-                            <strong style="display:block; margin-bottom:4px;">${i.color_name}</strong>
-                            <span style="color:#888">${i.color_hex} | #${i.color_id}</span>
-                        </div>
+<section class="search-section">
+    <input type="text" id="colorSearch" class="search-bar" placeholder="Busca color por nombre o código (ej: 3154)...">
+    <div class="filter-container" id="badgesSpace">
+        <div class="filter-badge active" onclick="setFilter('Todos', this)">Todos</div>
+        </div>
+</section>
+
+<div class="container">
+    <div id="colorContainer" class="color-grid"></div>
+</div>
+
+<script>
+    let colorData = [];
+    let currentType = "Todos";
+
+    function loadCSV() {
+        // Usa el nombre exacto de tu archivo subido
+        Papa.parse("paleta - Hoja 1.csv", {
+            download: true,
+            header: true,
+            skipEmptyLines: true,
+            complete: function(results) {
+                colorData = results.data;
+                createBadges();
+                render();
+            }
+        });
+    }
+
+    function createBadges() {
+        const types = [...new Set(colorData.map(item => item.color_type))].filter(t => t);
+        const container = document.getElementById("badgesSpace");
+        types.forEach(type => {
+            const div = document.createElement("div");
+            div.className = "filter-badge";
+            div.innerText = type;
+            div.onclick = function() { setFilter(type, this); };
+            container.appendChild(div);
+        });
+    }
+
+    function setFilter(type, el) {
+        currentType = type;
+        document.querySelectorAll('.filter-badge').forEach(b => b.classList.remove('active'));
+        el.classList.add('active');
+        render();
+    }
+
+    function render() {
+        const container = document.getElementById("colorContainer");
+        const search = document.getElementById("colorSearch").value.toLowerCase();
+        let html = "";
+
+        // Limitamos a 500 resultados por vez para que el navegador no sufra
+        const filtered = colorData.filter(c => {
+            if (!c.color_name) return false;
+            const mSearch = c.color_name.toLowerCase().includes(search) || c.color_id.toLowerCase().includes(search);
+            const mType = (currentType === "Todos" || c.color_type === currentType);
+            return mSearch && mType;
+        }).slice(0, 500); 
+
+        filtered.forEach(c => {
+            html += `
+                <div class="color-card">
+                    <div class="color-sample" style="background-color: ${c.color_hex}"></div>
+                    <div class="color-info">
+                        <span class="color-name">${c.color_name}</span>
+                        <span class="color-id">Cód: ${c.color_id}</span>
                     </div>
-                `).join('')}</div>
-            `).join('');
-        }
+                </div>`;
+        });
+        container.innerHTML = html || '<p style="grid-column:1/-1; text-align:center;">No se encontraron colores.</p>';
+    }
 
-        document.getElementById('search').oninput = (e) => {
-            const val = e.target.value.toLowerCase();
-            render(rawData.filter(i => i.color_name.toLowerCase().includes(val) || i.color_id.includes(val)));
-        };
-        load();
-    </script>
+    document.getElementById("colorSearch").oninput = render;
+    window.onload = loadCSV;
+</script>
 </body>
 </html>
-
