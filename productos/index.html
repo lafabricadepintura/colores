@@ -48,15 +48,15 @@
 <script>
     var baseDeDatos = [];
 
-    // Esta función limpia los "cite" y textos pegados que viste
-    function limpiar(texto) {
-        if (!texto) return "Cons.";
-        var limpia = texto.toString();
-        // Elimina todo lo que esté entre corchetes [ ]
-        if (limpia.indexOf("[") !== -1) {
-            limpia = limpia.split("[")[0];
+    // Función para limpiar precios y descripciones de etiquetas [cite]
+    function limpiarDato(texto) {
+        if (!texto) return "Consultar";
+        var s = texto.toString();
+        // Si hay un corchete, cortamos todo lo que sigue
+        if (s.indexOf("[") !== -1) {
+            s = s.split("[")[0];
         }
-        return limpia.trim();
+        return s.trim();
     }
 
     function cargar() {
@@ -77,26 +77,29 @@
 
         for (var i = 0; i < lista.length; i++) {
             var p = lista[i];
-            var nombre = limpiar(p.Producto);
-            if (nombre === "Cons." || !nombre) continue;
+            var nombre = limpiarDato(p.Producto);
+            
+            // Saltamos filas vacías
+            if (!nombre || nombre === "Consultar") continue;
 
             codes += '<div class="product-card">';
             codes += '<div class="product-header">';
-            codes += '<span class="category-tag">' + limpiar(p.Categoría) + '</span>';
-            codes += '<h3 style="margin:5px 0; font-size: 1.2rem;">' + nombre + '</h3>';
+            codes += '<span class="category-tag">' + limpiarDato(p.Categoría) + '</span>';
+            codes += '<h3 style="margin:5px 0">' + nombre + '</h3>';
             codes += '</div>';
             codes += '<div style="padding:20px; flex-grow:1">';
-            codes += '<p style="font-size:0.85rem; color:#aaa; margin-bottom:15px; line-height:1.4;">' + limpiar(p.Descripción) + '</p>';
+            codes += '<p style="font-size:0.85rem; color:#aaa; margin-bottom:15px; min-height:40px;">' + limpiarDato(p.Descripción) + '</p>';
             codes += '<table class="price-table">';
-            codes += '<tr><td>Envase 4 Lts</td><td class="amount">' + limpiar(p["Precio 4lts"]) + '</td></tr>';
-            codes += '<tr><td>Envase 10 Lts</td><td class="amount">' + limpiar(p["Precio 10lts"]) + '</td></tr>';
-            codes += '<tr><td>Envase 20 Lts</td><td class="amount">' + limpiar(p["Precio 20lts"]) + '</td></tr>';
+            // Cambiado a "Balde de" y limpieza de precios aplicada
+            codes += '<tr><td>Balde de 4 Lts</td><td class="amount">' + limpiarDato(p["Precio 4lts"]) + '</td></tr>';
+            codes += '<tr><td>Balde de 10 Lts</td><td class="amount">' + limpiarDato(p["Precio 10lts"]) + '</td></tr>';
+            codes += '<tr><td>Balde de 20 Lts</td><td class="amount">' + limpiarDato(p["Precio 20lts"]) + '</td></tr>';
             codes += '</table>';
             codes += '</div>';
-            codes += '<a href="https://wa.me/542214989579" class="btn-whatsapp" target="_blank">Consultá por WhatsApp</a>';
+            codes += '<a href="https://wa.me/+542214989579" class="btn-whatsapp" target="_blank">CONSULTÁ POR WHATSAPP</a>';
             codes += '</div>';
         }
-        container.innerHTML = codes || "<p>No se encontraron resultados.</p>";
+        container.innerHTML = codes || "<p>No se encontraron productos.</p>";
     }
 
     document.getElementById("searchInput").oninput = function() {
@@ -112,5 +115,6 @@
 </script>
 </body>
 </html>
+
 
 
