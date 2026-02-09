@@ -18,10 +18,39 @@
         .search-container { position: relative; max-width: 500px; margin: 0 auto 15px; }
         .search-bar { width: 100%; padding: 12px 45px 12px 20px; border-radius: 25px; border: 1px solid #333; background: #222; color: white; outline: none; font-size: 1rem; box-sizing: border-box; }
         
+        /* ESTILOS FILTROS RESPONSIVE */
+        .filter-toggle {
+            display: none; /* Oculto en PC */
+            background: var(--accent);
+            color: #000;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: bold;
+            margin: 0 auto;
+            cursor: pointer;
+            font-size: 0.85rem;
+        }
+
         .filter-group { margin-bottom: 10px; }
         .filter-container { display: flex; justify-content: center; gap: 6px; flex-wrap: wrap; max-width: 1100px; margin: 0 auto; }
         .filter-badge { padding: 6px 14px; border-radius: 15px; background: #333; font-size: 0.75rem; cursor: pointer; border: 1px solid #444; color: #eee; transition: 0.2s; }
         .filter-badge.active { background: var(--accent); color: #000; font-weight: bold; }
+
+        @media (max-width: 768px) {
+            .filter-toggle { display: block; } /* Mostrar en móviles */
+            .filters-wrapper {
+                display: none; /* Colapsado por defecto */
+                flex-direction: column;
+                gap: 15px;
+                margin-top: 15px;
+                background: #1a1a1a;
+                padding: 15px;
+                border-radius: 12px;
+                border: 1px solid #333;
+            }
+            .filters-wrapper.active { display: flex; }
+        }
 
         .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
         .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
@@ -47,8 +76,6 @@
         .modal-content { background: #2a2a2a; padding: 25px; border-radius: 15px; width: 90%; max-width: 500px; max-height: 80vh; overflow-y: auto; border: 1px solid #444; }
         .cart-item { border-bottom: 1px solid #3d3d3d; padding: 12px 0; display: flex; justify-content: space-between; align-items: center; }
         .btn-close { background: transparent; color: #888; border: 1px solid #444; padding: 10px; width: 100%; border-radius: 5px; margin-top: 15px; cursor: pointer; }
-
-        
     </style>
 </head>
 <body>
@@ -65,8 +92,13 @@
     <div class="search-container">
         <input type="text" id="searchInput" class="search-bar" placeholder="Buscar producto...">
     </div>
-    <div class="filter-group"><div class="filter-container" id="catBadgeContainer"></div></div>
-    <div class="filter-group"><div class="filter-container" id="typeBadgeContainer"></div></div>
+
+    <button class="filter-toggle" onclick="toggleFilters()">☰ Filtrar por Categoría / Tipo</button>
+
+    <div id="filtersWrapper" class="filters-wrapper">
+        <div class="filter-group"><div class="filter-container" id="catBadgeContainer"></div></div>
+        <div class="filter-group"><div class="filter-container" id="typeBadgeContainer"></div></div>
+    </div>
 </section>
 
 <div class="container">
@@ -98,14 +130,11 @@
 
     const simplifyText = (text) => text ? text.toString().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase() : "";
 
-   
     function init() {
-      
         Papa.parse("../colores/paleta - Hoja 1.csv", {
             download: true, header: true, skipEmptyLines: true,
             complete: function(results) {
                 paletteData = results.data;
-             
                 loadProducts();
             }
         });
@@ -138,8 +167,34 @@
         renderBadges(typeSet, currentType, 'setType', 'typeBadgeContainer');
     }
 
-    function setCategory(cat) { currentCat = cat; createAllBadges(); render(); }
-    function setType(t) { currentType = t; createAllBadges(); render(); }
+    // Modificadas para que cierren el menú en móviles tras elegir
+    function setCategory(cat) { 
+        currentCat = cat; 
+        createAllBadges(); 
+        render(); 
+        autoCloseFilters();
+    }
+    function setType(t) { 
+        currentType = t; 
+        createAllBadges(); 
+        render(); 
+        autoCloseFilters();
+    }
+
+    // Lógica del menú colapsable
+    function toggleFilters() {
+        const wrapper = document.getElementById('filtersWrapper');
+        wrapper.classList.toggle('active');
+        const btn = document.querySelector('.filter-toggle');
+        btn.innerText = wrapper.classList.contains('active') ? "✕ Cerrar Filtros" : "☰ Filtrar por Categoría / Tipo";
+    }
+
+    function autoCloseFilters() {
+        const wrapper = document.getElementById('filtersWrapper');
+        if (window.innerWidth <= 768 && wrapper.classList.contains('active')) {
+            toggleFilters();
+        }
+    }
 
     function addToCart(index) {
         const p = rawData[index];
@@ -195,15 +250,12 @@
             const cats = p.Categoría.split(',').map(c => `<span class="tag tag-cat">${c.trim()}</span>`).join('');
             const types = p.Tipo.split(',').map(t => `<span class="tag">${t.trim()}</span>`).join('');
 
-         
             let colorHTML = "";
             if (p.Color === "Color") {
-               
                 const opciones = paletteData.map(c => `<option value="${c.color_name}">${c.color_name} (${c.color_id})</option>`).join('');
                 colorHTML = `<label class="input-label">Elegir de la Paleta:</label>
                              <select id="color-${index}" class="selector-estilo">${opciones}</select>`;
             } else if (p.Color) {
-               
                 const especificos = p.Color.split(',').map(c => `<option value="${c.trim()}">${c.trim()}</option>`).join('');
                 colorHTML = `<label class="input-label">Color:</label>
                              <select id="color-${index}" class="selector-estilo">${especificos}</select>`;
@@ -240,5 +292,4 @@
     window.onload = init; 
 </script>
 </body>
-
 </html>
